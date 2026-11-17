@@ -1,6 +1,12 @@
 # Painel do Mercado
 
+[![CI](https://github.com/augusto10vellozo-coder/painel-mercado/actions/workflows/ci.yml/badge.svg)](https://github.com/augusto10vellozo-coder/painel-mercado/actions/workflows/ci.yml)
+
 Painel de gestão para mercado pequeno. Lê a exportação do PDV e a planilha de estoque, calcula os indicadores e gera **um HTML único, offline**, que o dono abre com duplo clique.
+
+**Demo:** [augusto10vellozo-coder.github.io/painel-mercado](https://augusto10vellozo-coder.github.io/painel-mercado/) — gerada com a base de exemplo.
+
+![Painel do Mercado com indicadores de venda, margem e ruptura](docs/preview.jpg)
 
 O foco é o que o dono do mercado realmente usa: **venda, margem, ruptura, validade e contas a pagar**. Não é ERP, não é PDV, não é dashboard de vaidade.
 

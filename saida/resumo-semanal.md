@@ -1,7 +1,7 @@
-# Mercado do Parceiro — resumo do período
+# Mercado Exemplo — resumo do período
 
 **Período:** 2026-10-07 a 2026-11-05 (30 dias)  
-**Gerado em:** 05/11/2026, 22:07:51
+**Gerado em:** 17/11/2026, 16:20:06
 
 | Indicador | Valor |
 |---|---|
@@ -11,16 +11,17 @@
 | Venda média/dia | R$ 1.028,61 |
 | Produtos vendidos | 43 |
 | Ruptura | 5 produto(s) |
-| A vencer em 7 dias | 9 produto(s) · R$ 2.422,10 |
-| Contas a pagar (7 dias) | 3 · R$ 3.526,02 |
-| Contas vencidas | 3 · R$ 2.453,69 |
+| A vencer em 7 dias | 4 produto(s) · R$ 1.475,20 |
+| Contas a pagar (7 dias) | 6 · R$ 3.524,67 |
+| Contas vencidas | 9 · R$ 7.595,74 |
 
 ## Ações da semana
 
 - Repor 5 produto(s) que venderam e estão zerados: Café Torrado 500g, Papel Higiênico 12un, Frango Inteiro kg….
-- Promover 9 produto(s) que vencem em 7 dias (R$ 2.422,10 a custo).
-- Regularizar 3 conta(s) vencida(s) (R$ 2.453,69).
-- Conferir 3 conta(s) a pagar nos próximos 7 dias (R$ 3.526,02).
+- Promover 4 produto(s) que vencem em 7 dias (R$ 1.475,20 a custo).
+- Retirar 12 produto(s) vencido(s) da área de venda.
+- Regularizar 9 conta(s) vencida(s) (R$ 7.595,74).
+- Conferir 6 conta(s) a pagar nos próximos 7 dias (R$ 3.524,67).
 
 ## Top 10 produtos
 
