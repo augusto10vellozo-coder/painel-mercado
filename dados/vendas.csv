@@ -1,0 +1,1807 @@
+Data;Codigo;Produto;Categoria;Quantidade;ValorUnitario;ValorTotal;CustoUnitario
+07/10/2026;1002;Feijão Carioca 1kg;Mercearia;2;9,49;18,98;6,20
+07/10/2026;1003;Óleo de Soja 900ml;Mercearia;1;8,99;8,99;5,80
+07/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+07/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+07/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+07/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;4,66;9,31;3,10
+07/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+07/10/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+07/10/2026;1009;Molho de Tomate 340g;Mercearia;3;4,99;14,97;2,90
+07/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+07/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+07/10/2026;1011;Achocolatado 400g;Mercearia;1;10,90;10,90;6,80
+07/10/2026;1011;Achocolatado 400g;Mercearia;3;10,90;32,70;6,80
+07/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+07/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+07/10/2026;2001;Refrigerante Cola 2L;Bebidas;1;9,99;9,99;6,40
+07/10/2026;2002;Cerveja Lata 350ml;Bebidas;1;3,99;3,99;2,30
+07/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+07/10/2026;2002;Cerveja Lata 350ml;Bebidas;3;3,51;10,53;2,30
+07/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+07/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+07/10/2026;2005;Energético 250ml;Bebidas;1;7,99;7,99;4,80
+07/10/2026;2006;Cerveja Long Neck;Bebidas;2;4,83;9,66;3,10
+07/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+07/10/2026;2006;Cerveja Long Neck;Bebidas;1;5,49;5,49;3,10
+07/10/2026;3001;Detergente 500ml;Limpeza;3;3,49;10,47;2,10
+07/10/2026;3002;Sabão em Pó 1kg;Limpeza;2;13,90;27,80;8,40
+07/10/2026;3002;Sabão em Pó 1kg;Limpeza;1;12,23;12,23;8,40
+07/10/2026;3003;Água Sanitária 2L;Limpeza;2;5,49;10,98;3,20
+07/10/2026;3004;Desinfetante 1L;Limpeza;2;6,49;12,98;3,80
+07/10/2026;3006;Sabonete 90g;Limpeza;3;2,79;8,37;1,40
+07/10/2026;4001;Queijo Mussarela kg;Frios;0.72;42,90;30,89;28,00
+07/10/2026;4004;Iogurte Natural 170g;Frios;0.65;4,29;2,79;2,40
+07/10/2026;4005;Manteiga 200g;Frios;1.43;12,49;17,86;7,80
+07/10/2026;5001;Banana Prata kg;Hortifruti;1.5;5,99;8,99;3,20
+07/10/2026;5002;Tomate kg;Hortifruti;1.35;7,49;10,11;4,10
+07/10/2026;5002;Tomate kg;Hortifruti;1.64;7,49;12,28;4,10
+07/10/2026;5003;Cebola kg;Hortifruti;0.59;4,99;2,94;2,80
+07/10/2026;5003;Cebola kg;Hortifruti;1.25;4,39;5,49;2,80
+07/10/2026;5003;Cebola kg;Hortifruti;0.97;4,39;4,26;2,80
+07/10/2026;5005;Alface Unidade;Hortifruti;1.4;3,29;4,61;1,60
+07/10/2026;5006;Laranja kg;Hortifruti;1.11;4,99;5,54;2,90
+07/10/2026;5006;Laranja kg;Hortifruti;0.72;4,99;3,59;2,90
+07/10/2026;5006;Laranja kg;Hortifruti;0.82;4,99;4,09;2,90
+07/10/2026;6001;Pão Francês kg;Padaria;3;12,90;38,70;7,50
+07/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+07/10/2026;6001;Pão Francês kg;Padaria;1;12,90;12,90;7,50
+07/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+07/10/2026;6002;Pão de Forma 500g;Padaria;3;8,99;26,97;5,40
+07/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+07/10/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+07/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+07/10/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+07/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+07/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+07/10/2026;7002;Carne Moída kg;Carnes;0.81;32,90;26,65;22,00
+07/10/2026;7002;Carne Moída kg;Carnes;1.66;32,90;54,61;22,00
+07/10/2026;7002;Carne Moída kg;Carnes;1.26;32,90;41,45;22,00
+07/10/2026;7003;Linguiça Toscana kg;Carnes;0.58;24,90;14,44;16,50
+07/10/2026;7004;Peito de Frango kg;Carnes;0.74;19,90;14,73;12,90
+07/10/2026;7004;Peito de Frango kg;Carnes;0.87;19,90;17,31;12,90
+08/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+08/10/2026;1001;Arroz Branco 5kg;Mercearia;3;24,55;73,66;18,90
+08/10/2026;1002;Feijão Carioca 1kg;Mercearia;3;9,49;28,47;6,20
+08/10/2026;1002;Feijão Carioca 1kg;Mercearia;3;9,49;28,47;6,20
+08/10/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+08/10/2026;1003;Óleo de Soja 900ml;Mercearia;1;8,99;8,99;5,80
+08/10/2026;1004;Açúcar Refinado 1kg;Mercearia;3;5,49;16,47;3,40
+08/10/2026;1004;Açúcar Refinado 1kg;Mercearia;1;4,83;4,83;3,40
+08/10/2026;1005;Café Torrado 500g;Mercearia;3;21,90;65,70;14,50
+08/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;5,29;10,58;3,10
+08/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+08/10/2026;1007;Farinha de Trigo 1kg;Mercearia;3;6,79;20,37;4,20
+08/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+08/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+08/10/2026;1010;Leite Integral 1L;Mercearia;3;6,49;19,47;4,10
+08/10/2026;1010;Leite Integral 1L;Mercearia;3;6,49;19,47;4,10
+08/10/2026;1012;Biscoito Recheado;Mercearia;3;3,99;11,97;2,20
+08/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+08/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+08/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+08/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+08/10/2026;2004;Suco de Uva 1L;Bebidas;3;8,49;25,47;5,20
+08/10/2026;2004;Suco de Uva 1L;Bebidas;1;8,49;8,49;5,20
+08/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+08/10/2026;2004;Suco de Uva 1L;Bebidas;3;8,49;25,47;5,20
+08/10/2026;2005;Energético 250ml;Bebidas;3;7,99;23,97;4,80
+08/10/2026;3001;Detergente 500ml;Limpeza;2;3,49;6,98;2,10
+08/10/2026;3005;Papel Higiênico 12un;Limpeza;2;18,90;37,80;11,90
+08/10/2026;3006;Sabonete 90g;Limpeza;2;2,79;5,58;1,40
+08/10/2026;4002;Presunto Fatiado kg;Frios;0.88;36,90;32,47;24,00
+08/10/2026;4002;Presunto Fatiado kg;Frios;0.5;36,90;18,45;24,00
+08/10/2026;4002;Presunto Fatiado kg;Frios;0.39;36,90;14,39;24,00
+08/10/2026;4003;Mortadela kg;Frios;1.67;25,90;43,25;16,00
+08/10/2026;4005;Manteiga 200g;Frios;1.39;12,49;17,36;7,80
+08/10/2026;4005;Manteiga 200g;Frios;1.61;12,49;20,11;7,80
+08/10/2026;5001;Banana Prata kg;Hortifruti;1.65;5,99;9,88;3,20
+08/10/2026;5001;Banana Prata kg;Hortifruti;1.68;5,99;10,06;3,20
+08/10/2026;5001;Banana Prata kg;Hortifruti;1.67;5,99;10,00;3,20
+08/10/2026;5002;Tomate kg;Hortifruti;1.79;7,49;13,41;4,10
+08/10/2026;5002;Tomate kg;Hortifruti;1.21;7,49;9,06;4,10
+08/10/2026;5002;Tomate kg;Hortifruti;1.74;6,59;11,47;4,10
+08/10/2026;5004;Batata kg;Hortifruti;0.7;5,49;3,84;3,40
+08/10/2026;5004;Batata kg;Hortifruti;1.48;5,49;8,13;3,40
+08/10/2026;5005;Alface Unidade;Hortifruti;1.19;3,29;3,92;1,60
+08/10/2026;5005;Alface Unidade;Hortifruti;0.61;2,90;1,77;1,60
+08/10/2026;5006;Laranja kg;Hortifruti;1.62;4,39;7,11;2,90
+08/10/2026;6001;Pão Francês kg;Padaria;1;12,90;12,90;7,50
+08/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+08/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+08/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+08/10/2026;6003;Bolacha Maria 400g;Padaria;3;5,54;16,61;3,60
+08/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+08/10/2026;7001;Frango Inteiro kg;Carnes;1.78;15,90;28,30;9,80
+08/10/2026;7002;Carne Moída kg;Carnes;0.58;32,90;19,08;22,00
+08/10/2026;7003;Linguiça Toscana kg;Carnes;0.51;24,90;12,70;16,50
+08/10/2026;7003;Linguiça Toscana kg;Carnes;1.32;24,90;32,87;16,50
+08/10/2026;7004;Peito de Frango kg;Carnes;1.16;19,90;23,08;12,90
+09/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+09/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+09/10/2026;1002;Feijão Carioca 1kg;Mercearia;1;9,49;9,49;6,20
+09/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+09/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+09/10/2026;1004;Açúcar Refinado 1kg;Mercearia;3;5,49;16,47;3,40
+09/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+09/10/2026;1005;Café Torrado 500g;Mercearia;1;21,90;21,90;14,50
+09/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+09/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;5,29;10,58;3,10
+09/10/2026;1006;Macarrão Espaguete 500g;Mercearia;3;5,29;15,87;3,10
+09/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;5,29;10,58;3,10
+09/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+09/10/2026;1008;Sal Refinado 1kg;Mercearia;3;3,07;9,21;1,80
+09/10/2026;1010;Leite Integral 1L;Mercearia;1;6,49;6,49;4,10
+09/10/2026;1011;Achocolatado 400g;Mercearia;2;10,90;21,80;6,80
+09/10/2026;1011;Achocolatado 400g;Mercearia;2;10,90;21,80;6,80
+09/10/2026;1011;Achocolatado 400g;Mercearia;3;10,90;32,70;6,80
+09/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+09/10/2026;2001;Refrigerante Cola 2L;Bebidas;3;9,99;29,97;6,40
+09/10/2026;2001;Refrigerante Cola 2L;Bebidas;3;9,99;29,97;6,40
+09/10/2026;2001;Refrigerante Cola 2L;Bebidas;3;9,99;29,97;6,40
+09/10/2026;2001;Refrigerante Cola 2L;Bebidas;1;9,99;9,99;6,40
+09/10/2026;2003;Água Mineral 1,5L;Bebidas;3;2,49;7,47;1,10
+09/10/2026;2003;Água Mineral 1,5L;Bebidas;1;2,49;2,49;1,10
+09/10/2026;2003;Água Mineral 1,5L;Bebidas;3;2,49;7,47;1,10
+09/10/2026;2004;Suco de Uva 1L;Bebidas;1;8,49;8,49;5,20
+09/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+09/10/2026;3001;Detergente 500ml;Limpeza;2;3,49;6,98;2,10
+09/10/2026;3002;Sabão em Pó 1kg;Limpeza;1;13,90;13,90;8,40
+09/10/2026;3003;Água Sanitária 2L;Limpeza;2;5,49;10,98;3,20
+09/10/2026;3004;Desinfetante 1L;Limpeza;3;6,49;19,47;3,80
+09/10/2026;3004;Desinfetante 1L;Limpeza;3;6,49;19,47;3,80
+09/10/2026;3006;Sabonete 90g;Limpeza;2;2,79;5,58;1,40
+09/10/2026;3006;Sabonete 90g;Limpeza;1;2,79;2,79;1,40
+09/10/2026;4003;Mortadela kg;Frios;0.8;25,90;20,72;16,00
+09/10/2026;4003;Mortadela kg;Frios;1.32;25,90;34,19;16,00
+09/10/2026;4004;Iogurte Natural 170g;Frios;1.68;4,29;7,21;2,40
+09/10/2026;4004;Iogurte Natural 170g;Frios;1.75;4,29;7,51;2,40
+09/10/2026;4005;Manteiga 200g;Frios;1.67;12,49;20,86;7,80
+09/10/2026;5001;Banana Prata kg;Hortifruti;1.57;5,99;9,40;3,20
+09/10/2026;5001;Banana Prata kg;Hortifruti;0.47;5,99;2,82;3,20
+09/10/2026;5002;Tomate kg;Hortifruti;0.84;7,49;6,29;4,10
+09/10/2026;5002;Tomate kg;Hortifruti;1.33;7,49;9,96;4,10
+09/10/2026;5003;Cebola kg;Hortifruti;0.46;4,99;2,30;2,80
+09/10/2026;5003;Cebola kg;Hortifruti;0.73;4,99;3,64;2,80
+09/10/2026;5003;Cebola kg;Hortifruti;1.19;4,99;5,94;2,80
+09/10/2026;5004;Batata kg;Hortifruti;0.48;5,49;2,64;3,40
+09/10/2026;5004;Batata kg;Hortifruti;1.41;5,49;7,74;3,40
+09/10/2026;5004;Batata kg;Hortifruti;0.77;5,49;4,23;3,40
+09/10/2026;5005;Alface Unidade;Hortifruti;1.02;3,29;3,36;1,60
+09/10/2026;5005;Alface Unidade;Hortifruti;1.55;3,29;5,10;1,60
+09/10/2026;5005;Alface Unidade;Hortifruti;0.55;3,29;1,81;1,60
+09/10/2026;5006;Laranja kg;Hortifruti;0.79;4,99;3,94;2,90
+09/10/2026;5006;Laranja kg;Hortifruti;1.56;4,99;7,78;2,90
+09/10/2026;5006;Laranja kg;Hortifruti;0.37;4,99;1,85;2,90
+09/10/2026;6001;Pão Francês kg;Padaria;2;11,35;22,70;7,50
+09/10/2026;6001;Pão Francês kg;Padaria;3;12,90;38,70;7,50
+09/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+09/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+09/10/2026;6002;Pão de Forma 500g;Padaria;3;8,99;26,97;5,40
+09/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+09/10/2026;6002;Pão de Forma 500g;Padaria;1;7,91;7,91;5,40
+09/10/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+09/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+09/10/2026;6004;Bolo de Cenoura;Padaria;1;14,90;14,90;8,00
+09/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+09/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+09/10/2026;7001;Frango Inteiro kg;Carnes;0.6;15,90;9,54;9,80
+09/10/2026;7002;Carne Moída kg;Carnes;1.17;32,90;38,49;22,00
+09/10/2026;7002;Carne Moída kg;Carnes;1.32;32,90;43,43;22,00
+09/10/2026;7003;Linguiça Toscana kg;Carnes;0.54;24,90;13,45;16,50
+09/10/2026;7003;Linguiça Toscana kg;Carnes;1.52;24,90;37,85;16,50
+09/10/2026;7004;Peito de Frango kg;Carnes;1.57;19,90;31,24;12,90
+09/10/2026;7004;Peito de Frango kg;Carnes;0.5;19,90;9,95;12,90
+10/10/2026;1001;Arroz Branco 5kg;Mercearia;1;27,90;27,90;18,90
+10/10/2026;1001;Arroz Branco 5kg;Mercearia;1;27,90;27,90;18,90
+10/10/2026;1001;Arroz Branco 5kg;Mercearia;3;27,90;83,70;18,90
+10/10/2026;1002;Feijão Carioca 1kg;Mercearia;1;9,49;9,49;6,20
+10/10/2026;1002;Feijão Carioca 1kg;Mercearia;2;9,49;18,98;6,20
+10/10/2026;1003;Óleo de Soja 900ml;Mercearia;1;8,99;8,99;5,80
+10/10/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+10/10/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+10/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+10/10/2026;1004;Açúcar Refinado 1kg;Mercearia;1;5,49;5,49;3,40
+10/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+10/10/2026;1005;Café Torrado 500g;Mercearia;1;21,90;21,90;14,50
+10/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+10/10/2026;1005;Café Torrado 500g;Mercearia;3;21,90;65,70;14,50
+10/10/2026;1006;Macarrão Espaguete 500g;Mercearia;1;5,29;5,29;3,10
+10/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;5,29;10,58;3,10
+10/10/2026;1006;Macarrão Espaguete 500g;Mercearia;3;5,29;15,87;3,10
+10/10/2026;1006;Macarrão Espaguete 500g;Mercearia;1;4,66;4,66;3,10
+10/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+10/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+10/10/2026;1009;Molho de Tomate 340g;Mercearia;1;4,39;4,39;2,90
+10/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+10/10/2026;1009;Molho de Tomate 340g;Mercearia;1;4,99;4,99;2,90
+10/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+10/10/2026;1011;Achocolatado 400g;Mercearia;2;10,90;21,80;6,80
+10/10/2026;1011;Achocolatado 400g;Mercearia;1;10,90;10,90;6,80
+10/10/2026;1012;Biscoito Recheado;Mercearia;3;3,99;11,97;2,20
+10/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+10/10/2026;2001;Refrigerante Cola 2L;Bebidas;3;9,99;29,97;6,40
+10/10/2026;2001;Refrigerante Cola 2L;Bebidas;1;9,99;9,99;6,40
+10/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+10/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+10/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+10/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+10/10/2026;2004;Suco de Uva 1L;Bebidas;1;8,49;8,49;5,20
+10/10/2026;2004;Suco de Uva 1L;Bebidas;3;8,49;25,47;5,20
+10/10/2026;2004;Suco de Uva 1L;Bebidas;3;8,49;25,47;5,20
+10/10/2026;2005;Energético 250ml;Bebidas;1;7,99;7,99;4,80
+10/10/2026;2006;Cerveja Long Neck;Bebidas;1;5,49;5,49;3,10
+10/10/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+10/10/2026;2006;Cerveja Long Neck;Bebidas;1;5,49;5,49;3,10
+10/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+10/10/2026;3002;Sabão em Pó 1kg;Limpeza;1;13,90;13,90;8,40
+10/10/2026;3004;Desinfetante 1L;Limpeza;1;6,49;6,49;3,80
+10/10/2026;3005;Papel Higiênico 12un;Limpeza;3;18,90;56,70;11,90
+10/10/2026;3005;Papel Higiênico 12un;Limpeza;3;18,90;56,70;11,90
+10/10/2026;3005;Papel Higiênico 12un;Limpeza;2;18,90;37,80;11,90
+10/10/2026;3006;Sabonete 90g;Limpeza;3;2,79;8,37;1,40
+10/10/2026;3006;Sabonete 90g;Limpeza;1;2,79;2,79;1,40
+10/10/2026;4001;Queijo Mussarela kg;Frios;0.63;42,90;27,03;28,00
+10/10/2026;4001;Queijo Mussarela kg;Frios;1.66;42,90;71,21;28,00
+10/10/2026;4002;Presunto Fatiado kg;Frios;1.72;36,90;63,47;24,00
+10/10/2026;4002;Presunto Fatiado kg;Frios;1.23;36,90;45,39;24,00
+10/10/2026;4003;Mortadela kg;Frios;1.61;25,90;41,70;16,00
+10/10/2026;4004;Iogurte Natural 170g;Frios;1.44;4,29;6,18;2,40
+10/10/2026;4004;Iogurte Natural 170g;Frios;1.48;4,29;6,35;2,40
+10/10/2026;4005;Manteiga 200g;Frios;0.48;12,49;6,00;7,80
+10/10/2026;4005;Manteiga 200g;Frios;0.5;12,49;6,25;7,80
+10/10/2026;5002;Tomate kg;Hortifruti;1.43;7,49;10,71;4,10
+10/10/2026;5002;Tomate kg;Hortifruti;1.23;6,59;8,11;4,10
+10/10/2026;5003;Cebola kg;Hortifruti;1.71;4,99;8,53;2,80
+10/10/2026;5003;Cebola kg;Hortifruti;0.54;4,99;2,69;2,80
+10/10/2026;5003;Cebola kg;Hortifruti;0.56;4,99;2,79;2,80
+10/10/2026;5004;Batata kg;Hortifruti;0.37;5,49;2,03;3,40
+10/10/2026;5005;Alface Unidade;Hortifruti;0.86;3,29;2,83;1,60
+10/10/2026;5005;Alface Unidade;Hortifruti;0.52;3,29;1,71;1,60
+10/10/2026;5006;Laranja kg;Hortifruti;0.5;4,99;2,50;2,90
+10/10/2026;5006;Laranja kg;Hortifruti;0.43;4,99;2,15;2,90
+10/10/2026;5006;Laranja kg;Hortifruti;1.04;4,99;5,19;2,90
+10/10/2026;6001;Pão Francês kg;Padaria;1;12,90;12,90;7,50
+10/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+10/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+10/10/2026;6003;Bolacha Maria 400g;Padaria;1;5,54;5,54;3,60
+10/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+10/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+10/10/2026;7001;Frango Inteiro kg;Carnes;0.31;15,90;4,93;9,80
+10/10/2026;7001;Frango Inteiro kg;Carnes;1.02;15,90;16,22;9,80
+10/10/2026;7003;Linguiça Toscana kg;Carnes;1.38;24,90;34,36;16,50
+10/10/2026;7003;Linguiça Toscana kg;Carnes;0.65;24,90;16,18;16,50
+10/10/2026;7004;Peito de Frango kg;Carnes;0.8;19,90;15,92;12,90
+11/10/2026;1001;Arroz Branco 5kg;Mercearia;1;27,90;27,90;18,90
+11/10/2026;1002;Feijão Carioca 1kg;Mercearia;1;9,49;9,49;6,20
+11/10/2026;1005;Café Torrado 500g;Mercearia;1;21,90;21,90;14,50
+11/10/2026;1007;Farinha de Trigo 1kg;Mercearia;3;6,79;20,37;4,20
+11/10/2026;1008;Sal Refinado 1kg;Mercearia;1;3,49;3,49;1,80
+11/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+11/10/2026;1011;Achocolatado 400g;Mercearia;1;10,90;10,90;6,80
+11/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+11/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+11/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+11/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+11/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+11/10/2026;3005;Papel Higiênico 12un;Limpeza;1;18,90;18,90;11,90
+11/10/2026;4002;Presunto Fatiado kg;Frios;0.9;36,90;33,21;24,00
+11/10/2026;4003;Mortadela kg;Frios;0.51;25,90;13,21;16,00
+11/10/2026;4003;Mortadela kg;Frios;1.48;25,90;38,33;16,00
+11/10/2026;4004;Iogurte Natural 170g;Frios;1.63;4,29;6,99;2,40
+11/10/2026;4005;Manteiga 200g;Frios;1.09;12,49;13,61;7,80
+11/10/2026;5001;Banana Prata kg;Hortifruti;0.84;5,99;5,03;3,20
+11/10/2026;5002;Tomate kg;Hortifruti;0.62;6,59;4,09;4,10
+11/10/2026;5003;Cebola kg;Hortifruti;1.04;4,99;5,19;2,80
+11/10/2026;5004;Batata kg;Hortifruti;0.82;5,49;4,50;3,40
+11/10/2026;5005;Alface Unidade;Hortifruti;1.64;3,29;5,40;1,60
+11/10/2026;5006;Laranja kg;Hortifruti;0.52;4,99;2,59;2,90
+11/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+11/10/2026;6001;Pão Francês kg;Padaria;1;12,90;12,90;7,50
+11/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+11/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+11/10/2026;6002;Pão de Forma 500g;Padaria;3;8,99;26,97;5,40
+11/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+11/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+11/10/2026;7002;Carne Moída kg;Carnes;0.97;32,90;31,91;22,00
+12/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+12/10/2026;1003;Óleo de Soja 900ml;Mercearia;1;8,99;8,99;5,80
+12/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+12/10/2026;1003;Óleo de Soja 900ml;Mercearia;1;8,99;8,99;5,80
+12/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+12/10/2026;1005;Café Torrado 500g;Mercearia;1;21,90;21,90;14,50
+12/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+12/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;5,29;10,58;3,10
+12/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;5,29;10,58;3,10
+12/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+12/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+12/10/2026;1010;Leite Integral 1L;Mercearia;1;6,49;6,49;4,10
+12/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+12/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+12/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+12/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+12/10/2026;2001;Refrigerante Cola 2L;Bebidas;3;9,99;29,97;6,40
+12/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+12/10/2026;2002;Cerveja Lata 350ml;Bebidas;1;3,99;3,99;2,30
+12/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+12/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+12/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+12/10/2026;2003;Água Mineral 1,5L;Bebidas;1;2,49;2,49;1,10
+12/10/2026;2005;Energético 250ml;Bebidas;1;7,99;7,99;4,80
+12/10/2026;2005;Energético 250ml;Bebidas;1;7,99;7,99;4,80
+12/10/2026;2006;Cerveja Long Neck;Bebidas;1;4,83;4,83;3,10
+12/10/2026;2006;Cerveja Long Neck;Bebidas;1;5,49;5,49;3,10
+12/10/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+12/10/2026;3002;Sabão em Pó 1kg;Limpeza;2;13,90;27,80;8,40
+12/10/2026;3002;Sabão em Pó 1kg;Limpeza;2;13,90;27,80;8,40
+12/10/2026;3004;Desinfetante 1L;Limpeza;2;6,49;12,98;3,80
+12/10/2026;4001;Queijo Mussarela kg;Frios;1.23;42,90;52,77;28,00
+12/10/2026;4002;Presunto Fatiado kg;Frios;1;36,90;36,90;24,00
+12/10/2026;4004;Iogurte Natural 170g;Frios;0.72;4,29;3,09;2,40
+12/10/2026;4005;Manteiga 200g;Frios;0.93;12,49;11,62;7,80
+12/10/2026;5002;Tomate kg;Hortifruti;0.35;7,49;2,62;4,10
+12/10/2026;5003;Cebola kg;Hortifruti;1.38;4,99;6,89;2,80
+12/10/2026;5003;Cebola kg;Hortifruti;1.24;4,99;6,19;2,80
+12/10/2026;5004;Batata kg;Hortifruti;1.79;5,49;9,83;3,40
+12/10/2026;5004;Batata kg;Hortifruti;0.87;5,49;4,78;3,40
+12/10/2026;5005;Alface Unidade;Hortifruti;1.74;3,29;5,72;1,60
+12/10/2026;5005;Alface Unidade;Hortifruti;0.31;3,29;1,02;1,60
+12/10/2026;5005;Alface Unidade;Hortifruti;0.96;3,29;3,16;1,60
+12/10/2026;5006;Laranja kg;Hortifruti;1.25;4,99;6,24;2,90
+12/10/2026;5006;Laranja kg;Hortifruti;0.48;4,99;2,40;2,90
+12/10/2026;5006;Laranja kg;Hortifruti;0.76;4,99;3,79;2,90
+12/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+12/10/2026;6001;Pão Francês kg;Padaria;3;12,90;38,70;7,50
+12/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+12/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+12/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+12/10/2026;6003;Bolacha Maria 400g;Padaria;3;5,54;16,61;3,60
+12/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+12/10/2026;6004;Bolo de Cenoura;Padaria;1;14,90;14,90;8,00
+12/10/2026;7001;Frango Inteiro kg;Carnes;0.57;13,99;7,98;9,80
+12/10/2026;7001;Frango Inteiro kg;Carnes;1.28;15,90;20,35;9,80
+12/10/2026;7002;Carne Moída kg;Carnes;1.68;32,90;55,27;22,00
+12/10/2026;7002;Carne Moída kg;Carnes;1.11;32,90;36,52;22,00
+12/10/2026;7004;Peito de Frango kg;Carnes;1.61;19,90;32,04;12,90
+13/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+13/10/2026;1002;Feijão Carioca 1kg;Mercearia;1;8,35;8,35;6,20
+13/10/2026;1002;Feijão Carioca 1kg;Mercearia;3;9,49;28,47;6,20
+13/10/2026;1003;Óleo de Soja 900ml;Mercearia;1;8,99;8,99;5,80
+13/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+13/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+13/10/2026;1006;Macarrão Espaguete 500g;Mercearia;1;5,29;5,29;3,10
+13/10/2026;1006;Macarrão Espaguete 500g;Mercearia;1;5,29;5,29;3,10
+13/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+13/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+13/10/2026;1007;Farinha de Trigo 1kg;Mercearia;1;6,79;6,79;4,20
+13/10/2026;1008;Sal Refinado 1kg;Mercearia;1;3,07;3,07;1,80
+13/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+13/10/2026;1009;Molho de Tomate 340g;Mercearia;1;4,99;4,99;2,90
+13/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+13/10/2026;2001;Refrigerante Cola 2L;Bebidas;1;9,99;9,99;6,40
+13/10/2026;2001;Refrigerante Cola 2L;Bebidas;3;9,99;29,97;6,40
+13/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+13/10/2026;2002;Cerveja Lata 350ml;Bebidas;1;3,99;3,99;2,30
+13/10/2026;2003;Água Mineral 1,5L;Bebidas;3;2,49;7,47;1,10
+13/10/2026;2003;Água Mineral 1,5L;Bebidas;1;2,49;2,49;1,10
+13/10/2026;2004;Suco de Uva 1L;Bebidas;1;7,47;7,47;5,20
+13/10/2026;2005;Energético 250ml;Bebidas;3;7,99;23,97;4,80
+13/10/2026;2006;Cerveja Long Neck;Bebidas;1;4,83;4,83;3,10
+13/10/2026;3002;Sabão em Pó 1kg;Limpeza;2;13,90;27,80;8,40
+13/10/2026;3003;Água Sanitária 2L;Limpeza;2;5,49;10,98;3,20
+13/10/2026;3004;Desinfetante 1L;Limpeza;3;6,49;19,47;3,80
+13/10/2026;3005;Papel Higiênico 12un;Limpeza;1;18,90;18,90;11,90
+13/10/2026;3006;Sabonete 90g;Limpeza;1;2,79;2,79;1,40
+13/10/2026;4001;Queijo Mussarela kg;Frios;1.27;42,90;54,48;28,00
+13/10/2026;4002;Presunto Fatiado kg;Frios;0.61;36,90;22,51;24,00
+13/10/2026;4002;Presunto Fatiado kg;Frios;0.47;36,90;17,34;24,00
+13/10/2026;4003;Mortadela kg;Frios;0.73;25,90;18,91;16,00
+13/10/2026;4003;Mortadela kg;Frios;1.7;25,90;44,03;16,00
+13/10/2026;4004;Iogurte Natural 170g;Frios;0.4;4,29;1,72;2,40
+13/10/2026;4005;Manteiga 200g;Frios;0.98;12,49;12,24;7,80
+13/10/2026;5001;Banana Prata kg;Hortifruti;0.46;5,99;2,76;3,20
+13/10/2026;5001;Banana Prata kg;Hortifruti;0.34;5,99;2,04;3,20
+13/10/2026;5001;Banana Prata kg;Hortifruti;1.51;5,99;9,04;3,20
+13/10/2026;5002;Tomate kg;Hortifruti;1.01;7,49;7,56;4,10
+13/10/2026;5002;Tomate kg;Hortifruti;0.79;7,49;5,92;4,10
+13/10/2026;5003;Cebola kg;Hortifruti;0.53;4,99;2,64;2,80
+13/10/2026;5004;Batata kg;Hortifruti;1.08;5,49;5,93;3,40
+13/10/2026;5005;Alface Unidade;Hortifruti;1.66;3,29;5,46;1,60
+13/10/2026;5006;Laranja kg;Hortifruti;1.18;4,99;5,89;2,90
+13/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+13/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+13/10/2026;6001;Pão Francês kg;Padaria;3;12,90;38,70;7,50
+13/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+13/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+13/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+13/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+13/10/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+13/10/2026;6003;Bolacha Maria 400g;Padaria;1;5,54;5,54;3,60
+13/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+13/10/2026;6004;Bolo de Cenoura;Padaria;1;14,90;14,90;8,00
+13/10/2026;6004;Bolo de Cenoura;Padaria;2;13,11;26,22;8,00
+13/10/2026;7003;Linguiça Toscana kg;Carnes;0.51;24,90;12,70;16,50
+13/10/2026;7003;Linguiça Toscana kg;Carnes;0.49;24,90;12,20;16,50
+14/10/2026;1001;Arroz Branco 5kg;Mercearia;3;27,90;83,70;18,90
+14/10/2026;1001;Arroz Branco 5kg;Mercearia;3;27,90;83,70;18,90
+14/10/2026;1002;Feijão Carioca 1kg;Mercearia;2;9,49;18,98;6,20
+14/10/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+14/10/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+14/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+14/10/2026;1004;Açúcar Refinado 1kg;Mercearia;3;5,49;16,47;3,40
+14/10/2026;1005;Café Torrado 500g;Mercearia;3;21,90;65,70;14,50
+14/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;4,66;9,31;3,10
+14/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+14/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+14/10/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+14/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+14/10/2026;1011;Achocolatado 400g;Mercearia;1;10,90;10,90;6,80
+14/10/2026;1011;Achocolatado 400g;Mercearia;2;10,90;21,80;6,80
+14/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+14/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+14/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+14/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;8,79;17,58;6,40
+14/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+14/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+14/10/2026;2003;Água Mineral 1,5L;Bebidas;1;2,49;2,49;1,10
+14/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+14/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+14/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+14/10/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+14/10/2026;2006;Cerveja Long Neck;Bebidas;1;5,49;5,49;3,10
+14/10/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+14/10/2026;3001;Detergente 500ml;Limpeza;2;3,49;6,98;2,10
+14/10/2026;3002;Sabão em Pó 1kg;Limpeza;2;13,90;27,80;8,40
+14/10/2026;3004;Desinfetante 1L;Limpeza;2;6,49;12,98;3,80
+14/10/2026;3005;Papel Higiênico 12un;Limpeza;2;18,90;37,80;11,90
+14/10/2026;3006;Sabonete 90g;Limpeza;2;2,79;5,58;1,40
+14/10/2026;4001;Queijo Mussarela kg;Frios;1.59;42,90;68,21;28,00
+14/10/2026;4001;Queijo Mussarela kg;Frios;1.65;42,90;70,79;28,00
+14/10/2026;4002;Presunto Fatiado kg;Frios;1.64;36,90;60,52;24,00
+14/10/2026;4003;Mortadela kg;Frios;0.96;25,90;24,86;16,00
+14/10/2026;4005;Manteiga 200g;Frios;0.77;12,49;9,62;7,80
+14/10/2026;4005;Manteiga 200g;Frios;1.54;12,49;19,23;7,80
+14/10/2026;5001;Banana Prata kg;Hortifruti;0.59;5,99;3,53;3,20
+14/10/2026;5001;Banana Prata kg;Hortifruti;1.51;5,27;7,96;3,20
+14/10/2026;5002;Tomate kg;Hortifruti;1.63;7,49;12,21;4,10
+14/10/2026;5003;Cebola kg;Hortifruti;1.3;4,99;6,49;2,80
+14/10/2026;5003;Cebola kg;Hortifruti;1.71;4,99;8,53;2,80
+14/10/2026;5004;Batata kg;Hortifruti;1.64;5,49;9,00;3,40
+14/10/2026;5004;Batata kg;Hortifruti;0.79;5,49;4,34;3,40
+14/10/2026;5005;Alface Unidade;Hortifruti;1.46;3,29;4,80;1,60
+14/10/2026;5006;Laranja kg;Hortifruti;0.55;4,99;2,74;2,90
+14/10/2026;5006;Laranja kg;Hortifruti;0.65;4,99;3,24;2,90
+14/10/2026;5006;Laranja kg;Hortifruti;0.41;4,39;1,80;2,90
+14/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+14/10/2026;6001;Pão Francês kg;Padaria;3;12,90;38,70;7,50
+14/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+14/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+14/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+14/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+14/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+14/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+14/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+14/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+14/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+14/10/2026;7001;Frango Inteiro kg;Carnes;1.35;13,99;18,89;9,80
+14/10/2026;7002;Carne Moída kg;Carnes;1.08;32,90;35,53;22,00
+14/10/2026;7003;Linguiça Toscana kg;Carnes;1.14;24,90;28,39;16,50
+14/10/2026;7003;Linguiça Toscana kg;Carnes;0.5;24,90;12,45;16,50
+14/10/2026;7004;Peito de Frango kg;Carnes;0.69;19,90;13,73;12,90
+14/10/2026;7004;Peito de Frango kg;Carnes;1;19,90;19,90;12,90
+15/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+15/10/2026;1002;Feijão Carioca 1kg;Mercearia;2;9,49;18,98;6,20
+15/10/2026;1002;Feijão Carioca 1kg;Mercearia;1;9,49;9,49;6,20
+15/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+15/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+15/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+15/10/2026;1004;Açúcar Refinado 1kg;Mercearia;3;4,83;14,49;3,40
+15/10/2026;1004;Açúcar Refinado 1kg;Mercearia;1;5,49;5,49;3,40
+15/10/2026;1005;Café Torrado 500g;Mercearia;3;21,90;65,70;14,50
+15/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+15/10/2026;1006;Macarrão Espaguete 500g;Mercearia;1;5,29;5,29;3,10
+15/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;5,29;10,58;3,10
+15/10/2026;1007;Farinha de Trigo 1kg;Mercearia;1;6,79;6,79;4,20
+15/10/2026;1007;Farinha de Trigo 1kg;Mercearia;3;5,98;17,93;4,20
+15/10/2026;1008;Sal Refinado 1kg;Mercearia;3;3,49;10,47;1,80
+15/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+15/10/2026;1011;Achocolatado 400g;Mercearia;1;10,90;10,90;6,80
+15/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+15/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+15/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+15/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+15/10/2026;2002;Cerveja Lata 350ml;Bebidas;1;3,99;3,99;2,30
+15/10/2026;2003;Água Mineral 1,5L;Bebidas;1;2,49;2,49;1,10
+15/10/2026;2004;Suco de Uva 1L;Bebidas;2;7,47;14,94;5,20
+15/10/2026;2004;Suco de Uva 1L;Bebidas;3;8,49;25,47;5,20
+15/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+15/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+15/10/2026;3001;Detergente 500ml;Limpeza;3;3,49;10,47;2,10
+15/10/2026;3002;Sabão em Pó 1kg;Limpeza;1;13,90;13,90;8,40
+15/10/2026;3003;Água Sanitária 2L;Limpeza;2;5,49;10,98;3,20
+15/10/2026;3005;Papel Higiênico 12un;Limpeza;3;18,90;56,70;11,90
+15/10/2026;3006;Sabonete 90g;Limpeza;1;2,79;2,79;1,40
+15/10/2026;3006;Sabonete 90g;Limpeza;2;2,79;5,58;1,40
+15/10/2026;4001;Queijo Mussarela kg;Frios;1.49;42,90;63,92;28,00
+15/10/2026;4001;Queijo Mussarela kg;Frios;1.79;42,90;76,79;28,00
+15/10/2026;4002;Presunto Fatiado kg;Frios;0.43;36,90;15,87;24,00
+15/10/2026;4003;Mortadela kg;Frios;1.4;25,90;36,26;16,00
+15/10/2026;4004;Iogurte Natural 170g;Frios;0.31;4,29;1,33;2,40
+15/10/2026;4004;Iogurte Natural 170g;Frios;0.48;4,29;2,06;2,40
+15/10/2026;5001;Banana Prata kg;Hortifruti;1.67;5,99;10,00;3,20
+15/10/2026;5001;Banana Prata kg;Hortifruti;0.7;5,99;4,19;3,20
+15/10/2026;5002;Tomate kg;Hortifruti;0.57;7,49;4,27;4,10
+15/10/2026;5002;Tomate kg;Hortifruti;1.07;7,49;8,01;4,10
+15/10/2026;5003;Cebola kg;Hortifruti;1.47;4,99;7,34;2,80
+15/10/2026;5003;Cebola kg;Hortifruti;0.31;4,99;1,55;2,80
+15/10/2026;5003;Cebola kg;Hortifruti;0.58;4,99;2,89;2,80
+15/10/2026;5004;Batata kg;Hortifruti;1.64;5,49;9,00;3,40
+15/10/2026;5005;Alface Unidade;Hortifruti;0.4;3,29;1,32;1,60
+15/10/2026;5005;Alface Unidade;Hortifruti;1.63;3,29;5,36;1,60
+15/10/2026;6001;Pão Francês kg;Padaria;3;12,90;38,70;7,50
+15/10/2026;6001;Pão Francês kg;Padaria;1;12,90;12,90;7,50
+15/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+15/10/2026;6002;Pão de Forma 500g;Padaria;3;8,99;26,97;5,40
+15/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+15/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+15/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+15/10/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+15/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+15/10/2026;6004;Bolo de Cenoura;Padaria;1;14,90;14,90;8,00
+15/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+15/10/2026;6004;Bolo de Cenoura;Padaria;1;14,90;14,90;8,00
+15/10/2026;7001;Frango Inteiro kg;Carnes;0.6;15,90;9,54;9,80
+15/10/2026;7003;Linguiça Toscana kg;Carnes;1.09;24,90;27,14;16,50
+15/10/2026;7004;Peito de Frango kg;Carnes;1.22;19,90;24,28;12,90
+15/10/2026;7004;Peito de Frango kg;Carnes;0.97;19,90;19,30;12,90
+16/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+16/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+16/10/2026;1002;Feijão Carioca 1kg;Mercearia;2;9,49;18,98;6,20
+16/10/2026;1002;Feijão Carioca 1kg;Mercearia;3;9,49;28,47;6,20
+16/10/2026;1004;Açúcar Refinado 1kg;Mercearia;3;5,49;16,47;3,40
+16/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+16/10/2026;1005;Café Torrado 500g;Mercearia;1;19,27;19,27;14,50
+16/10/2026;1005;Café Torrado 500g;Mercearia;1;21,90;21,90;14,50
+16/10/2026;1005;Café Torrado 500g;Mercearia;3;21,90;65,70;14,50
+16/10/2026;1006;Macarrão Espaguete 500g;Mercearia;1;5,29;5,29;3,10
+16/10/2026;1007;Farinha de Trigo 1kg;Mercearia;1;6,79;6,79;4,20
+16/10/2026;1007;Farinha de Trigo 1kg;Mercearia;3;6,79;20,37;4,20
+16/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+16/10/2026;1009;Molho de Tomate 340g;Mercearia;3;4,99;14,97;2,90
+16/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+16/10/2026;1010;Leite Integral 1L;Mercearia;1;6,49;6,49;4,10
+16/10/2026;1011;Achocolatado 400g;Mercearia;1;10,90;10,90;6,80
+16/10/2026;1011;Achocolatado 400g;Mercearia;3;10,90;32,70;6,80
+16/10/2026;1012;Biscoito Recheado;Mercearia;1;3,99;3,99;2,20
+16/10/2026;1012;Biscoito Recheado;Mercearia;3;3,51;10,53;2,20
+16/10/2026;1012;Biscoito Recheado;Mercearia;1;3,99;3,99;2,20
+16/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+16/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+16/10/2026;2001;Refrigerante Cola 2L;Bebidas;1;8,79;8,79;6,40
+16/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+16/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+16/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+16/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+16/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+16/10/2026;2004;Suco de Uva 1L;Bebidas;1;8,49;8,49;5,20
+16/10/2026;2004;Suco de Uva 1L;Bebidas;3;8,49;25,47;5,20
+16/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+16/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+16/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+16/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+16/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+16/10/2026;3001;Detergente 500ml;Limpeza;2;3,49;6,98;2,10
+16/10/2026;3002;Sabão em Pó 1kg;Limpeza;3;13,90;41,70;8,40
+16/10/2026;3002;Sabão em Pó 1kg;Limpeza;2;13,90;27,80;8,40
+16/10/2026;3002;Sabão em Pó 1kg;Limpeza;3;13,90;41,70;8,40
+16/10/2026;3005;Papel Higiênico 12un;Limpeza;1;18,90;18,90;11,90
+16/10/2026;3006;Sabonete 90g;Limpeza;2;2,79;5,58;1,40
+16/10/2026;4001;Queijo Mussarela kg;Frios;1.46;42,90;62,63;28,00
+16/10/2026;4001;Queijo Mussarela kg;Frios;0.63;42,90;27,03;28,00
+16/10/2026;4002;Presunto Fatiado kg;Frios;1.02;36,90;37,64;24,00
+16/10/2026;4003;Mortadela kg;Frios;0.92;25,90;23,83;16,00
+16/10/2026;4003;Mortadela kg;Frios;0.59;25,90;15,28;16,00
+16/10/2026;4004;Iogurte Natural 170g;Frios;0.3;4,29;1,29;2,40
+16/10/2026;4005;Manteiga 200g;Frios;1.26;12,49;15,74;7,80
+16/10/2026;5001;Banana Prata kg;Hortifruti;0.71;5,99;4,25;3,20
+16/10/2026;5001;Banana Prata kg;Hortifruti;1.4;5,99;8,39;3,20
+16/10/2026;5002;Tomate kg;Hortifruti;1.59;7,49;11,91;4,10
+16/10/2026;5002;Tomate kg;Hortifruti;0.96;7,49;7,19;4,10
+16/10/2026;5002;Tomate kg;Hortifruti;1.7;7,49;12,73;4,10
+16/10/2026;5002;Tomate kg;Hortifruti;0.34;7,49;2,55;4,10
+16/10/2026;5003;Cebola kg;Hortifruti;0.82;4,99;4,09;2,80
+16/10/2026;5004;Batata kg;Hortifruti;1.32;5,49;7,25;3,40
+16/10/2026;5005;Alface Unidade;Hortifruti;1.36;3,29;4,47;1,60
+16/10/2026;5006;Laranja kg;Hortifruti;0.52;4,99;2,59;2,90
+16/10/2026;5006;Laranja kg;Hortifruti;1.03;4,99;5,14;2,90
+16/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+16/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+16/10/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+16/10/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+16/10/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+16/10/2026;6004;Bolo de Cenoura;Padaria;1;14,90;14,90;8,00
+16/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+16/10/2026;6004;Bolo de Cenoura;Padaria;1;14,90;14,90;8,00
+16/10/2026;7001;Frango Inteiro kg;Carnes;1.72;15,90;27,35;9,80
+16/10/2026;7002;Carne Moída kg;Carnes;1.43;32,90;47,05;22,00
+16/10/2026;7002;Carne Moída kg;Carnes;0.71;32,90;23,36;22,00
+16/10/2026;7003;Linguiça Toscana kg;Carnes;1.33;24,90;33,12;16,50
+17/10/2026;1001;Arroz Branco 5kg;Mercearia;3;27,90;83,70;18,90
+17/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+17/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+17/10/2026;1001;Arroz Branco 5kg;Mercearia;1;27,90;27,90;18,90
+17/10/2026;1002;Feijão Carioca 1kg;Mercearia;1;9,49;9,49;6,20
+17/10/2026;1003;Óleo de Soja 900ml;Mercearia;1;8,99;8,99;5,80
+17/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;7,91;15,82;5,80
+17/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+17/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+17/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+17/10/2026;1005;Café Torrado 500g;Mercearia;1;21,90;21,90;14,50
+17/10/2026;1006;Macarrão Espaguete 500g;Mercearia;3;5,29;15,87;3,10
+17/10/2026;1006;Macarrão Espaguete 500g;Mercearia;3;5,29;15,87;3,10
+17/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+17/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+17/10/2026;1008;Sal Refinado 1kg;Mercearia;1;3,49;3,49;1,80
+17/10/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+17/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+17/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+17/10/2026;1010;Leite Integral 1L;Mercearia;1;6,49;6,49;4,10
+17/10/2026;1011;Achocolatado 400g;Mercearia;1;10,90;10,90;6,80
+17/10/2026;1012;Biscoito Recheado;Mercearia;3;3,99;11,97;2,20
+17/10/2026;1012;Biscoito Recheado;Mercearia;3;3,99;11,97;2,20
+17/10/2026;2001;Refrigerante Cola 2L;Bebidas;1;9,99;9,99;6,40
+17/10/2026;2002;Cerveja Lata 350ml;Bebidas;3;3,99;11,97;2,30
+17/10/2026;2002;Cerveja Lata 350ml;Bebidas;3;3,99;11,97;2,30
+17/10/2026;2002;Cerveja Lata 350ml;Bebidas;3;3,99;11,97;2,30
+17/10/2026;2002;Cerveja Lata 350ml;Bebidas;1;3,99;3,99;2,30
+17/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+17/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+17/10/2026;2004;Suco de Uva 1L;Bebidas;3;8,49;25,47;5,20
+17/10/2026;2004;Suco de Uva 1L;Bebidas;2;7,47;14,94;5,20
+17/10/2026;2005;Energético 250ml;Bebidas;3;7,99;23,97;4,80
+17/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+17/10/2026;2005;Energético 250ml;Bebidas;1;7,99;7,99;4,80
+17/10/2026;2006;Cerveja Long Neck;Bebidas;1;5,49;5,49;3,10
+17/10/2026;3002;Sabão em Pó 1kg;Limpeza;3;13,90;41,70;8,40
+17/10/2026;3003;Água Sanitária 2L;Limpeza;2;5,49;10,98;3,20
+17/10/2026;3004;Desinfetante 1L;Limpeza;3;6,49;19,47;3,80
+17/10/2026;3006;Sabonete 90g;Limpeza;3;2,79;8,37;1,40
+17/10/2026;4002;Presunto Fatiado kg;Frios;0.54;36,90;19,93;24,00
+17/10/2026;4003;Mortadela kg;Frios;0.33;25,90;8,55;16,00
+17/10/2026;4003;Mortadela kg;Frios;0.44;25,90;11,40;16,00
+17/10/2026;5001;Banana Prata kg;Hortifruti;1.24;5,27;6,54;3,20
+17/10/2026;5002;Tomate kg;Hortifruti;0.86;7,49;6,44;4,10
+17/10/2026;5002;Tomate kg;Hortifruti;0.35;7,49;2,62;4,10
+17/10/2026;5002;Tomate kg;Hortifruti;1.19;7,49;8,91;4,10
+17/10/2026;5003;Cebola kg;Hortifruti;1.79;4,39;7,86;2,80
+17/10/2026;5004;Batata kg;Hortifruti;0.82;5,49;4,50;3,40
+17/10/2026;5004;Batata kg;Hortifruti;1.61;5,49;8,84;3,40
+17/10/2026;5005;Alface Unidade;Hortifruti;1.73;3,29;5,69;1,60
+17/10/2026;5005;Alface Unidade;Hortifruti;1.52;3,29;5,00;1,60
+17/10/2026;5006;Laranja kg;Hortifruti;1.63;4,99;8,13;2,90
+17/10/2026;5006;Laranja kg;Hortifruti;1.01;4,99;5,04;2,90
+17/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+17/10/2026;6001;Pão Francês kg;Padaria;1;12,90;12,90;7,50
+17/10/2026;6002;Pão de Forma 500g;Padaria;2;7,91;15,82;5,40
+17/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+17/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+17/10/2026;6002;Pão de Forma 500g;Padaria;3;8,99;26,97;5,40
+17/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+17/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+17/10/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+17/10/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+17/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+17/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+17/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+17/10/2026;7001;Frango Inteiro kg;Carnes;1.26;15,90;20,03;9,80
+17/10/2026;7002;Carne Moída kg;Carnes;0.31;32,90;10,20;22,00
+17/10/2026;7002;Carne Moída kg;Carnes;1.68;32,90;55,27;22,00
+17/10/2026;7002;Carne Moída kg;Carnes;0.33;32,90;10,86;22,00
+17/10/2026;7003;Linguiça Toscana kg;Carnes;1.18;24,90;29,38;16,50
+17/10/2026;7004;Peito de Frango kg;Carnes;0.47;19,90;9,35;12,90
+17/10/2026;7004;Peito de Frango kg;Carnes;1.65;19,90;32,83;12,90
+18/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+18/10/2026;1002;Feijão Carioca 1kg;Mercearia;3;9,49;28,47;6,20
+18/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+18/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+18/10/2026;1008;Sal Refinado 1kg;Mercearia;3;3,49;10,47;1,80
+18/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+18/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+18/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;8,79;17,58;6,40
+18/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+18/10/2026;2004;Suco de Uva 1L;Bebidas;1;8,49;8,49;5,20
+18/10/2026;2004;Suco de Uva 1L;Bebidas;1;8,49;8,49;5,20
+18/10/2026;2005;Energético 250ml;Bebidas;3;7,99;23,97;4,80
+18/10/2026;3006;Sabonete 90g;Limpeza;3;2,79;8,37;1,40
+18/10/2026;4003;Mortadela kg;Frios;1.07;25,90;27,71;16,00
+18/10/2026;4004;Iogurte Natural 170g;Frios;1.14;4,29;4,89;2,40
+18/10/2026;4004;Iogurte Natural 170g;Frios;0.58;4,29;2,49;2,40
+18/10/2026;4005;Manteiga 200g;Frios;1.29;12,49;16,11;7,80
+18/10/2026;5001;Banana Prata kg;Hortifruti;0.79;5,99;4,73;3,20
+18/10/2026;5001;Banana Prata kg;Hortifruti;1.54;5,99;9,22;3,20
+18/10/2026;5002;Tomate kg;Hortifruti;1.31;7,49;9,81;4,10
+18/10/2026;5004;Batata kg;Hortifruti;1.29;5,49;7,08;3,40
+18/10/2026;5005;Alface Unidade;Hortifruti;1.67;3,29;5,49;1,60
+18/10/2026;5006;Laranja kg;Hortifruti;1.29;4,99;6,44;2,90
+18/10/2026;6002;Pão de Forma 500g;Padaria;3;8,99;26,97;5,40
+18/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+18/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+18/10/2026;7001;Frango Inteiro kg;Carnes;1.66;15,90;26,39;9,80
+18/10/2026;7002;Carne Moída kg;Carnes;0.52;32,90;17,11;22,00
+18/10/2026;7004;Peito de Frango kg;Carnes;1.37;19,90;27,26;12,90
+19/10/2026;1001;Arroz Branco 5kg;Mercearia;1;27,90;27,90;18,90
+19/10/2026;1001;Arroz Branco 5kg;Mercearia;1;27,90;27,90;18,90
+19/10/2026;1002;Feijão Carioca 1kg;Mercearia;3;9,49;28,47;6,20
+19/10/2026;1003;Óleo de Soja 900ml;Mercearia;1;8,99;8,99;5,80
+19/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+19/10/2026;1004;Açúcar Refinado 1kg;Mercearia;1;5,49;5,49;3,40
+19/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;4,66;9,31;3,10
+19/10/2026;1007;Farinha de Trigo 1kg;Mercearia;1;6,79;6,79;4,20
+19/10/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+19/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+19/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+19/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,39;8,78;2,90
+19/10/2026;1011;Achocolatado 400g;Mercearia;3;10,90;32,70;6,80
+19/10/2026;1011;Achocolatado 400g;Mercearia;2;10,90;21,80;6,80
+19/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+19/10/2026;1012;Biscoito Recheado;Mercearia;1;3,99;3,99;2,20
+19/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+19/10/2026;2002;Cerveja Lata 350ml;Bebidas;1;3,99;3,99;2,30
+19/10/2026;2002;Cerveja Lata 350ml;Bebidas;1;3,99;3,99;2,30
+19/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+19/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,19;4,38;1,10
+19/10/2026;2003;Água Mineral 1,5L;Bebidas;3;2,49;7,47;1,10
+19/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+19/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+19/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+19/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+19/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+19/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+19/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+19/10/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+19/10/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+19/10/2026;3001;Detergente 500ml;Limpeza;3;3,49;10,47;2,10
+19/10/2026;3006;Sabonete 90g;Limpeza;2;2,79;5,58;1,40
+19/10/2026;4001;Queijo Mussarela kg;Frios;0.9;42,90;38,61;28,00
+19/10/2026;4001;Queijo Mussarela kg;Frios;0.74;42,90;31,75;28,00
+19/10/2026;4002;Presunto Fatiado kg;Frios;0.96;36,90;35,42;24,00
+19/10/2026;4003;Mortadela kg;Frios;0.5;25,90;12,95;16,00
+19/10/2026;4003;Mortadela kg;Frios;0.38;25,90;9,84;16,00
+19/10/2026;4004;Iogurte Natural 170g;Frios;0.52;4,29;2,23;2,40
+19/10/2026;4005;Manteiga 200g;Frios;1.77;12,49;22,11;7,80
+19/10/2026;5001;Banana Prata kg;Hortifruti;1.75;5,99;10,48;3,20
+19/10/2026;5001;Banana Prata kg;Hortifruti;1.76;5,99;10,54;3,20
+19/10/2026;5002;Tomate kg;Hortifruti;1.03;7,49;7,71;4,10
+19/10/2026;5003;Cebola kg;Hortifruti;1.21;4,99;6,04;2,80
+19/10/2026;5003;Cebola kg;Hortifruti;1.2;4,99;5,99;2,80
+19/10/2026;5006;Laranja kg;Hortifruti;0.88;4,99;4,39;2,90
+19/10/2026;5006;Laranja kg;Hortifruti;0.41;4,39;1,80;2,90
+19/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+19/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+19/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+19/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+19/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+19/10/2026;6003;Bolacha Maria 400g;Padaria;3;5,54;16,61;3,60
+19/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+19/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+19/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+19/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+19/10/2026;7001;Frango Inteiro kg;Carnes;0.83;15,90;13,20;9,80
+19/10/2026;7001;Frango Inteiro kg;Carnes;0.81;15,90;12,88;9,80
+19/10/2026;7002;Carne Moída kg;Carnes;1.15;32,90;37,83;22,00
+19/10/2026;7003;Linguiça Toscana kg;Carnes;1.01;24,90;25,15;16,50
+19/10/2026;7004;Peito de Frango kg;Carnes;1.08;19,90;21,49;12,90
+20/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+20/10/2026;1002;Feijão Carioca 1kg;Mercearia;2;9,49;18,98;6,20
+20/10/2026;1002;Feijão Carioca 1kg;Mercearia;2;9,49;18,98;6,20
+20/10/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+20/10/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+20/10/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+20/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+20/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+20/10/2026;1006;Macarrão Espaguete 500g;Mercearia;1;5,29;5,29;3,10
+20/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+20/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+20/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+20/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+20/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+20/10/2026;1011;Achocolatado 400g;Mercearia;2;10,90;21,80;6,80
+20/10/2026;1012;Biscoito Recheado;Mercearia;1;3,99;3,99;2,20
+20/10/2026;2001;Refrigerante Cola 2L;Bebidas;1;9,99;9,99;6,40
+20/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+20/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+20/10/2026;2002;Cerveja Lata 350ml;Bebidas;3;3,99;11,97;2,30
+20/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+20/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+20/10/2026;2004;Suco de Uva 1L;Bebidas;1;8,49;8,49;5,20
+20/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+20/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+20/10/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+20/10/2026;3002;Sabão em Pó 1kg;Limpeza;3;13,90;41,70;8,40
+20/10/2026;3003;Água Sanitária 2L;Limpeza;3;5,49;16,47;3,20
+20/10/2026;3003;Água Sanitária 2L;Limpeza;2;5,49;10,98;3,20
+20/10/2026;3004;Desinfetante 1L;Limpeza;1;6,49;6,49;3,80
+20/10/2026;3005;Papel Higiênico 12un;Limpeza;2;18,90;37,80;11,90
+20/10/2026;3006;Sabonete 90g;Limpeza;1;2,79;2,79;1,40
+20/10/2026;4001;Queijo Mussarela kg;Frios;1.52;42,90;65,21;28,00
+20/10/2026;4002;Presunto Fatiado kg;Frios;1.47;36,90;54,24;24,00
+20/10/2026;4004;Iogurte Natural 170g;Frios;1.12;4,29;4,80;2,40
+20/10/2026;5001;Banana Prata kg;Hortifruti;1.59;5,99;9,52;3,20
+20/10/2026;5002;Tomate kg;Hortifruti;1.47;7,49;11,01;4,10
+20/10/2026;5002;Tomate kg;Hortifruti;0.35;7,49;2,62;4,10
+20/10/2026;5002;Tomate kg;Hortifruti;0.73;7,49;5,47;4,10
+20/10/2026;5003;Cebola kg;Hortifruti;1.14;4,39;5,01;2,80
+20/10/2026;5003;Cebola kg;Hortifruti;1.46;4,99;7,29;2,80
+20/10/2026;5004;Batata kg;Hortifruti;1.32;5,49;7,25;3,40
+20/10/2026;5004;Batata kg;Hortifruti;1.04;5,49;5,71;3,40
+20/10/2026;5005;Alface Unidade;Hortifruti;0.75;3,29;2,47;1,60
+20/10/2026;5005;Alface Unidade;Hortifruti;0.37;3,29;1,22;1,60
+20/10/2026;5006;Laranja kg;Hortifruti;1.68;4,99;8,38;2,90
+20/10/2026;5006;Laranja kg;Hortifruti;1.51;4,99;7,53;2,90
+20/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+20/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+20/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+20/10/2026;6002;Pão de Forma 500g;Padaria;3;8,99;26,97;5,40
+20/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+20/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+20/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+20/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+20/10/2026;6004;Bolo de Cenoura;Padaria;1;14,90;14,90;8,00
+20/10/2026;7001;Frango Inteiro kg;Carnes;1.21;15,90;19,24;9,80
+20/10/2026;7001;Frango Inteiro kg;Carnes;0.31;15,90;4,93;9,80
+20/10/2026;7002;Carne Moída kg;Carnes;1.23;32,90;40,47;22,00
+20/10/2026;7002;Carne Moída kg;Carnes;1.61;32,90;52,97;22,00
+20/10/2026;7002;Carne Moída kg;Carnes;1.22;28,95;35,32;22,00
+20/10/2026;7003;Linguiça Toscana kg;Carnes;1.49;24,90;37,10;16,50
+20/10/2026;7004;Peito de Frango kg;Carnes;1.02;19,90;20,30;12,90
+20/10/2026;7004;Peito de Frango kg;Carnes;0.49;19,90;9,75;12,90
+21/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+21/10/2026;1002;Feijão Carioca 1kg;Mercearia;2;9,49;18,98;6,20
+21/10/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+21/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;7,91;15,82;5,80
+21/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+21/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+21/10/2026;1006;Macarrão Espaguete 500g;Mercearia;3;5,29;15,87;3,10
+21/10/2026;1006;Macarrão Espaguete 500g;Mercearia;3;5,29;15,87;3,10
+21/10/2026;1007;Farinha de Trigo 1kg;Mercearia;3;6,79;20,37;4,20
+21/10/2026;1007;Farinha de Trigo 1kg;Mercearia;3;6,79;20,37;4,20
+21/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+21/10/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+21/10/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+21/10/2026;1009;Molho de Tomate 340g;Mercearia;1;4,99;4,99;2,90
+21/10/2026;1010;Leite Integral 1L;Mercearia;1;6,49;6,49;4,10
+21/10/2026;1012;Biscoito Recheado;Mercearia;3;3,99;11,97;2,20
+21/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+21/10/2026;2001;Refrigerante Cola 2L;Bebidas;1;9,99;9,99;6,40
+21/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+21/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+21/10/2026;2002;Cerveja Lata 350ml;Bebidas;1;3,99;3,99;2,30
+21/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+21/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+21/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+21/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+21/10/2026;2003;Água Mineral 1,5L;Bebidas;3;2,49;7,47;1,10
+21/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+21/10/2026;2005;Energético 250ml;Bebidas;3;7,99;23,97;4,80
+21/10/2026;2006;Cerveja Long Neck;Bebidas;1;5,49;5,49;3,10
+21/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+21/10/2026;3001;Detergente 500ml;Limpeza;2;3,07;6,14;2,10
+21/10/2026;3002;Sabão em Pó 1kg;Limpeza;3;13,90;41,70;8,40
+21/10/2026;3003;Água Sanitária 2L;Limpeza;2;5,49;10,98;3,20
+21/10/2026;3003;Água Sanitária 2L;Limpeza;3;5,49;16,47;3,20
+21/10/2026;3004;Desinfetante 1L;Limpeza;1;6,49;6,49;3,80
+21/10/2026;3005;Papel Higiênico 12un;Limpeza;3;18,90;56,70;11,90
+21/10/2026;4001;Queijo Mussarela kg;Frios;0.45;42,90;19,31;28,00
+21/10/2026;4002;Presunto Fatiado kg;Frios;1.33;36,90;49,08;24,00
+21/10/2026;4003;Mortadela kg;Frios;1.04;25,90;26,94;16,00
+21/10/2026;4004;Iogurte Natural 170g;Frios;0.33;4,29;1,42;2,40
+21/10/2026;4005;Manteiga 200g;Frios;0.38;12,49;4,75;7,80
+21/10/2026;5001;Banana Prata kg;Hortifruti;1.28;5,99;7,67;3,20
+21/10/2026;5001;Banana Prata kg;Hortifruti;0.42;5,99;2,52;3,20
+21/10/2026;5002;Tomate kg;Hortifruti;0.67;7,49;5,02;4,10
+21/10/2026;5002;Tomate kg;Hortifruti;1.36;7,49;10,19;4,10
+21/10/2026;5002;Tomate kg;Hortifruti;1.61;7,49;12,06;4,10
+21/10/2026;5003;Cebola kg;Hortifruti;1.5;4,99;7,49;2,80
+21/10/2026;5003;Cebola kg;Hortifruti;1.34;4,99;6,69;2,80
+21/10/2026;5003;Cebola kg;Hortifruti;0.59;4,99;2,94;2,80
+21/10/2026;5004;Batata kg;Hortifruti;0.38;5,49;2,09;3,40
+21/10/2026;5005;Alface Unidade;Hortifruti;0.81;3,29;2,66;1,60
+21/10/2026;5005;Alface Unidade;Hortifruti;0.4;3,29;1,32;1,60
+21/10/2026;5005;Alface Unidade;Hortifruti;1.15;3,29;3,78;1,60
+21/10/2026;5006;Laranja kg;Hortifruti;1.7;4,99;8,48;2,90
+21/10/2026;5006;Laranja kg;Hortifruti;1.02;4,99;5,09;2,90
+21/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+21/10/2026;6001;Pão Francês kg;Padaria;2;11,35;22,70;7,50
+21/10/2026;6001;Pão Francês kg;Padaria;1;12,90;12,90;7,50
+21/10/2026;6001;Pão Francês kg;Padaria;3;11,35;34,06;7,50
+21/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+21/10/2026;6002;Pão de Forma 500g;Padaria;2;7,91;15,82;5,40
+21/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+21/10/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+21/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+21/10/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+21/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+21/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+21/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+21/10/2026;6004;Bolo de Cenoura;Padaria;1;14,90;14,90;8,00
+21/10/2026;7001;Frango Inteiro kg;Carnes;0.89;15,90;14,15;9,80
+21/10/2026;7004;Peito de Frango kg;Carnes;0.43;19,90;8,56;12,90
+21/10/2026;7004;Peito de Frango kg;Carnes;1.39;19,90;27,66;12,90
+22/10/2026;1001;Arroz Branco 5kg;Mercearia;3;27,90;83,70;18,90
+22/10/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+22/10/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+22/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+22/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+22/10/2026;1008;Sal Refinado 1kg;Mercearia;1;3,49;3,49;1,80
+22/10/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+22/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+22/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+22/10/2026;1010;Leite Integral 1L;Mercearia;3;6,49;19,47;4,10
+22/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+22/10/2026;1011;Achocolatado 400g;Mercearia;1;10,90;10,90;6,80
+22/10/2026;1012;Biscoito Recheado;Mercearia;1;3,99;3,99;2,20
+22/10/2026;2001;Refrigerante Cola 2L;Bebidas;3;8,79;26,37;6,40
+22/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+22/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+22/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+22/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+22/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,19;4,38;1,10
+22/10/2026;2003;Água Mineral 1,5L;Bebidas;1;2,49;2,49;1,10
+22/10/2026;2004;Suco de Uva 1L;Bebidas;2;7,47;14,94;5,20
+22/10/2026;2005;Energético 250ml;Bebidas;1;7,03;7,03;4,80
+22/10/2026;2005;Energético 250ml;Bebidas;3;7,99;23,97;4,80
+22/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+22/10/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+22/10/2026;3001;Detergente 500ml;Limpeza;2;3,07;6,14;2,10
+22/10/2026;3002;Sabão em Pó 1kg;Limpeza;3;12,23;36,70;8,40
+22/10/2026;3003;Água Sanitária 2L;Limpeza;1;5,49;5,49;3,20
+22/10/2026;3004;Desinfetante 1L;Limpeza;2;6,49;12,98;3,80
+22/10/2026;3005;Papel Higiênico 12un;Limpeza;3;18,90;56,70;11,90
+22/10/2026;4001;Queijo Mussarela kg;Frios;1.68;42,90;72,07;28,00
+22/10/2026;4001;Queijo Mussarela kg;Frios;0.45;42,90;19,31;28,00
+22/10/2026;4002;Presunto Fatiado kg;Frios;1.1;36,90;40,59;24,00
+22/10/2026;4003;Mortadela kg;Frios;0.36;25,90;9,32;16,00
+22/10/2026;4003;Mortadela kg;Frios;1.62;22,79;36,92;16,00
+22/10/2026;4004;Iogurte Natural 170g;Frios;0.4;4,29;1,72;2,40
+22/10/2026;4005;Manteiga 200g;Frios;1.42;12,49;17,74;7,80
+22/10/2026;5001;Banana Prata kg;Hortifruti;1.22;5,99;7,31;3,20
+22/10/2026;5001;Banana Prata kg;Hortifruti;1.69;5,99;10,12;3,20
+22/10/2026;5002;Tomate kg;Hortifruti;0.74;7,49;5,54;4,10
+22/10/2026;5003;Cebola kg;Hortifruti;1.43;4,99;7,14;2,80
+22/10/2026;5003;Cebola kg;Hortifruti;0.77;4,99;3,84;2,80
+22/10/2026;5005;Alface Unidade;Hortifruti;0.57;3,29;1,88;1,60
+22/10/2026;6001;Pão Francês kg;Padaria;3;12,90;38,70;7,50
+22/10/2026;6001;Pão Francês kg;Padaria;3;12,90;38,70;7,50
+22/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+22/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+22/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+22/10/2026;6004;Bolo de Cenoura;Padaria;1;13,11;13,11;8,00
+22/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+22/10/2026;7001;Frango Inteiro kg;Carnes;0.91;15,90;14,47;9,80
+22/10/2026;7002;Carne Moída kg;Carnes;1.21;32,90;39,81;22,00
+22/10/2026;7003;Linguiça Toscana kg;Carnes;0.67;24,90;16,68;16,50
+23/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+23/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+23/10/2026;1003;Óleo de Soja 900ml;Mercearia;1;8,99;8,99;5,80
+23/10/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+23/10/2026;1003;Óleo de Soja 900ml;Mercearia;1;7,91;7,91;5,80
+23/10/2026;1004;Açúcar Refinado 1kg;Mercearia;1;5,49;5,49;3,40
+23/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+23/10/2026;1005;Café Torrado 500g;Mercearia;3;21,90;65,70;14,50
+23/10/2026;1005;Café Torrado 500g;Mercearia;3;21,90;65,70;14,50
+23/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;5,29;10,58;3,10
+23/10/2026;1007;Farinha de Trigo 1kg;Mercearia;3;6,79;20,37;4,20
+23/10/2026;1007;Farinha de Trigo 1kg;Mercearia;1;6,79;6,79;4,20
+23/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;5,98;11,95;4,20
+23/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+23/10/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+23/10/2026;1008;Sal Refinado 1kg;Mercearia;1;3,49;3,49;1,80
+23/10/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+23/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+23/10/2026;1009;Molho de Tomate 340g;Mercearia;3;4,99;14,97;2,90
+23/10/2026;1009;Molho de Tomate 340g;Mercearia;1;4,99;4,99;2,90
+23/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+23/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+23/10/2026;1011;Achocolatado 400g;Mercearia;2;9,59;19,18;6,80
+23/10/2026;1011;Achocolatado 400g;Mercearia;2;10,90;21,80;6,80
+23/10/2026;1012;Biscoito Recheado;Mercearia;3;3,51;10,53;2,20
+23/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+23/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+23/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+23/10/2026;2004;Suco de Uva 1L;Bebidas;3;8,49;25,47;5,20
+23/10/2026;2004;Suco de Uva 1L;Bebidas;3;8,49;25,47;5,20
+23/10/2026;2004;Suco de Uva 1L;Bebidas;3;8,49;25,47;5,20
+23/10/2026;2004;Suco de Uva 1L;Bebidas;1;8,49;8,49;5,20
+23/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+23/10/2026;2005;Energético 250ml;Bebidas;1;7,99;7,99;4,80
+23/10/2026;2005;Energético 250ml;Bebidas;3;7,99;23,97;4,80
+23/10/2026;2005;Energético 250ml;Bebidas;3;7,99;23,97;4,80
+23/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+23/10/2026;2006;Cerveja Long Neck;Bebidas;1;5,49;5,49;3,10
+23/10/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+23/10/2026;3001;Detergente 500ml;Limpeza;3;3,07;9,21;2,10
+23/10/2026;3001;Detergente 500ml;Limpeza;2;3,49;6,98;2,10
+23/10/2026;3002;Sabão em Pó 1kg;Limpeza;2;13,90;27,80;8,40
+23/10/2026;3002;Sabão em Pó 1kg;Limpeza;2;13,90;27,80;8,40
+23/10/2026;3005;Papel Higiênico 12un;Limpeza;2;18,90;37,80;11,90
+23/10/2026;3005;Papel Higiênico 12un;Limpeza;1;18,90;18,90;11,90
+23/10/2026;3006;Sabonete 90g;Limpeza;2;2,79;5,58;1,40
+23/10/2026;4001;Queijo Mussarela kg;Frios;0.41;42,90;17,59;28,00
+23/10/2026;4001;Queijo Mussarela kg;Frios;1.26;37,75;47,57;28,00
+23/10/2026;4002;Presunto Fatiado kg;Frios;1.75;36,90;64,58;24,00
+23/10/2026;4003;Mortadela kg;Frios;1.75;25,90;45,33;16,00
+23/10/2026;4004;Iogurte Natural 170g;Frios;0.63;4,29;2,70;2,40
+23/10/2026;4005;Manteiga 200g;Frios;1.45;12,49;18,11;7,80
+23/10/2026;4005;Manteiga 200g;Frios;0.93;12,49;11,62;7,80
+23/10/2026;5001;Banana Prata kg;Hortifruti;1.28;5,99;7,67;3,20
+23/10/2026;5001;Banana Prata kg;Hortifruti;0.52;5,99;3,11;3,20
+23/10/2026;5002;Tomate kg;Hortifruti;1.01;7,49;7,56;4,10
+23/10/2026;5002;Tomate kg;Hortifruti;1.2;7,49;8,99;4,10
+23/10/2026;5002;Tomate kg;Hortifruti;0.63;7,49;4,72;4,10
+23/10/2026;5003;Cebola kg;Hortifruti;0.95;4,99;4,74;2,80
+23/10/2026;5003;Cebola kg;Hortifruti;0.52;4,99;2,59;2,80
+23/10/2026;5004;Batata kg;Hortifruti;1.33;5,49;7,30;3,40
+23/10/2026;5004;Batata kg;Hortifruti;0.39;5,49;2,14;3,40
+23/10/2026;5004;Batata kg;Hortifruti;1.19;4,83;5,75;3,40
+23/10/2026;5004;Batata kg;Hortifruti;0.64;5,49;3,51;3,40
+23/10/2026;5005;Alface Unidade;Hortifruti;1.16;3,29;3,82;1,60
+23/10/2026;5006;Laranja kg;Hortifruti;1.34;4,99;6,69;2,90
+23/10/2026;5006;Laranja kg;Hortifruti;1.56;4,99;7,78;2,90
+23/10/2026;6001;Pão Francês kg;Padaria;3;12,90;38,70;7,50
+23/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+23/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+23/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+23/10/2026;6002;Pão de Forma 500g;Padaria;1;7,91;7,91;5,40
+23/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+23/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+23/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+23/10/2026;6003;Bolacha Maria 400g;Padaria;2;5,54;11,07;3,60
+23/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+23/10/2026;6004;Bolo de Cenoura;Padaria;1;14,90;14,90;8,00
+23/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+23/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+23/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+23/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+23/10/2026;7001;Frango Inteiro kg;Carnes;0.94;15,90;14,95;9,80
+23/10/2026;7003;Linguiça Toscana kg;Carnes;0.39;21,91;8,55;16,50
+23/10/2026;7004;Peito de Frango kg;Carnes;0.48;19,90;9,55;12,90
+23/10/2026;7004;Peito de Frango kg;Carnes;0.83;19,90;16,52;12,90
+24/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+24/10/2026;1002;Feijão Carioca 1kg;Mercearia;3;9,49;28,47;6,20
+24/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+24/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+24/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;7,91;15,82;5,80
+24/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+24/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;4,83;9,66;3,40
+24/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+24/10/2026;1004;Açúcar Refinado 1kg;Mercearia;3;5,49;16,47;3,40
+24/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+24/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+24/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+24/10/2026;1006;Macarrão Espaguete 500g;Mercearia;1;5,29;5,29;3,10
+24/10/2026;1006;Macarrão Espaguete 500g;Mercearia;3;4,66;13,97;3,10
+24/10/2026;1006;Macarrão Espaguete 500g;Mercearia;1;5,29;5,29;3,10
+24/10/2026;1007;Farinha de Trigo 1kg;Mercearia;3;6,79;20,37;4,20
+24/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+24/10/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+24/10/2026;1009;Molho de Tomate 340g;Mercearia;1;4,99;4,99;2,90
+24/10/2026;1011;Achocolatado 400g;Mercearia;2;10,90;21,80;6,80
+24/10/2026;1011;Achocolatado 400g;Mercearia;3;10,90;32,70;6,80
+24/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+24/10/2026;1012;Biscoito Recheado;Mercearia;3;3,99;11,97;2,20
+24/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+24/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+24/10/2026;2001;Refrigerante Cola 2L;Bebidas;1;9,99;9,99;6,40
+24/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+24/10/2026;2001;Refrigerante Cola 2L;Bebidas;3;9,99;29,97;6,40
+24/10/2026;2002;Cerveja Lata 350ml;Bebidas;3;3,99;11,97;2,30
+24/10/2026;2002;Cerveja Lata 350ml;Bebidas;3;3,99;11,97;2,30
+24/10/2026;2002;Cerveja Lata 350ml;Bebidas;1;3,99;3,99;2,30
+24/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+24/10/2026;2002;Cerveja Lata 350ml;Bebidas;3;3,99;11,97;2,30
+24/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+24/10/2026;2003;Água Mineral 1,5L;Bebidas;1;2,49;2,49;1,10
+24/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+24/10/2026;2004;Suco de Uva 1L;Bebidas;1;8,49;8,49;5,20
+24/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+24/10/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+24/10/2026;2006;Cerveja Long Neck;Bebidas;1;5,49;5,49;3,10
+24/10/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+24/10/2026;3001;Detergente 500ml;Limpeza;2;3,49;6,98;2,10
+24/10/2026;3001;Detergente 500ml;Limpeza;2;3,49;6,98;2,10
+24/10/2026;3001;Detergente 500ml;Limpeza;3;3,49;10,47;2,10
+24/10/2026;3003;Água Sanitária 2L;Limpeza;1;5,49;5,49;3,20
+24/10/2026;3003;Água Sanitária 2L;Limpeza;2;5,49;10,98;3,20
+24/10/2026;3004;Desinfetante 1L;Limpeza;1;6,49;6,49;3,80
+24/10/2026;3004;Desinfetante 1L;Limpeza;2;6,49;12,98;3,80
+24/10/2026;3005;Papel Higiênico 12un;Limpeza;1;18,90;18,90;11,90
+24/10/2026;3005;Papel Higiênico 12un;Limpeza;2;18,90;37,80;11,90
+24/10/2026;3006;Sabonete 90g;Limpeza;1;2,79;2,79;1,40
+24/10/2026;4001;Queijo Mussarela kg;Frios;1.19;42,90;51,05;28,00
+24/10/2026;4002;Presunto Fatiado kg;Frios;0.94;36,90;34,69;24,00
+24/10/2026;4002;Presunto Fatiado kg;Frios;0.52;36,90;19,19;24,00
+24/10/2026;4003;Mortadela kg;Frios;0.86;25,90;22,27;16,00
+24/10/2026;4003;Mortadela kg;Frios;0.41;22,79;9,34;16,00
+24/10/2026;4004;Iogurte Natural 170g;Frios;0.89;3,78;3,36;2,40
+24/10/2026;4005;Manteiga 200g;Frios;0.58;12,49;7,24;7,80
+24/10/2026;4005;Manteiga 200g;Frios;1.37;12,49;17,11;7,80
+24/10/2026;5001;Banana Prata kg;Hortifruti;0.72;5,99;4,31;3,20
+24/10/2026;5002;Tomate kg;Hortifruti;1.31;7,49;9,81;4,10
+24/10/2026;5002;Tomate kg;Hortifruti;1.52;7,49;11,38;4,10
+24/10/2026;5004;Batata kg;Hortifruti;1.11;5,49;6,09;3,40
+24/10/2026;5005;Alface Unidade;Hortifruti;1.51;3,29;4,97;1,60
+24/10/2026;5005;Alface Unidade;Hortifruti;0.6;3,29;1,97;1,60
+24/10/2026;5005;Alface Unidade;Hortifruti;1.61;3,29;5,30;1,60
+24/10/2026;5006;Laranja kg;Hortifruti;0.88;4,99;4,39;2,90
+24/10/2026;5006;Laranja kg;Hortifruti;0.64;4,99;3,19;2,90
+24/10/2026;6001;Pão Francês kg;Padaria;3;12,90;38,70;7,50
+24/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+24/10/2026;6001;Pão Francês kg;Padaria;3;11,35;34,06;7,50
+24/10/2026;6001;Pão Francês kg;Padaria;2;11,35;22,70;7,50
+24/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+24/10/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+24/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+24/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+24/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+24/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+24/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+24/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+24/10/2026;7001;Frango Inteiro kg;Carnes;1;15,90;15,90;9,80
+24/10/2026;7001;Frango Inteiro kg;Carnes;0.78;15,90;12,40;9,80
+24/10/2026;7002;Carne Moída kg;Carnes;1.06;32,90;34,87;22,00
+24/10/2026;7002;Carne Moída kg;Carnes;0.53;32,90;17,44;22,00
+24/10/2026;7003;Linguiça Toscana kg;Carnes;1.1;24,90;27,39;16,50
+24/10/2026;7003;Linguiça Toscana kg;Carnes;1.65;24,90;41,08;16,50
+24/10/2026;7003;Linguiça Toscana kg;Carnes;0.57;24,90;14,19;16,50
+25/10/2026;1002;Feijão Carioca 1kg;Mercearia;1;9,49;9,49;6,20
+25/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+25/10/2026;1004;Açúcar Refinado 1kg;Mercearia;1;5,49;5,49;3,40
+25/10/2026;1005;Café Torrado 500g;Mercearia;3;21,90;65,70;14,50
+25/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+25/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+25/10/2026;1009;Molho de Tomate 340g;Mercearia;3;4,99;14,97;2,90
+25/10/2026;1010;Leite Integral 1L;Mercearia;3;6,49;19,47;4,10
+25/10/2026;1011;Achocolatado 400g;Mercearia;1;10,90;10,90;6,80
+25/10/2026;2003;Água Mineral 1,5L;Bebidas;1;2,19;2,19;1,10
+25/10/2026;2004;Suco de Uva 1L;Bebidas;1;8,49;8,49;5,20
+25/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+25/10/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+25/10/2026;3006;Sabonete 90g;Limpeza;2;2,79;5,58;1,40
+25/10/2026;4001;Queijo Mussarela kg;Frios;1.33;42,90;57,06;28,00
+25/10/2026;4001;Queijo Mussarela kg;Frios;1.27;42,90;54,48;28,00
+25/10/2026;4004;Iogurte Natural 170g;Frios;0.33;4,29;1,42;2,40
+25/10/2026;4005;Manteiga 200g;Frios;0.87;12,49;10,87;7,80
+25/10/2026;5001;Banana Prata kg;Hortifruti;0.92;5,99;5,51;3,20
+25/10/2026;5001;Banana Prata kg;Hortifruti;1.11;5,99;6,65;3,20
+25/10/2026;5002;Tomate kg;Hortifruti;1.47;7,49;11,01;4,10
+25/10/2026;5004;Batata kg;Hortifruti;0.3;5,49;1,65;3,40
+25/10/2026;5005;Alface Unidade;Hortifruti;0.57;3,29;1,88;1,60
+25/10/2026;5006;Laranja kg;Hortifruti;1.24;4,99;6,19;2,90
+25/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+25/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+25/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+25/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+25/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+25/10/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+25/10/2026;6004;Bolo de Cenoura;Padaria;3;13,11;39,34;8,00
+25/10/2026;7001;Frango Inteiro kg;Carnes;0.88;15,90;13,99;9,80
+25/10/2026;7001;Frango Inteiro kg;Carnes;0.54;15,90;8,59;9,80
+25/10/2026;7002;Carne Moída kg;Carnes;1.77;32,90;58,23;22,00
+25/10/2026;7003;Linguiça Toscana kg;Carnes;1.5;24,90;37,35;16,50
+25/10/2026;7004;Peito de Frango kg;Carnes;1.74;19,90;34,63;12,90
+26/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+26/10/2026;1001;Arroz Branco 5kg;Mercearia;1;27,90;27,90;18,90
+26/10/2026;1001;Arroz Branco 5kg;Mercearia;1;27,90;27,90;18,90
+26/10/2026;1004;Açúcar Refinado 1kg;Mercearia;1;5,49;5,49;3,40
+26/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+26/10/2026;1008;Sal Refinado 1kg;Mercearia;3;3,49;10,47;1,80
+26/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,39;8,78;2,90
+26/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+26/10/2026;1010;Leite Integral 1L;Mercearia;3;6,49;19,47;4,10
+26/10/2026;1011;Achocolatado 400g;Mercearia;1;10,90;10,90;6,80
+26/10/2026;1011;Achocolatado 400g;Mercearia;3;10,90;32,70;6,80
+26/10/2026;1012;Biscoito Recheado;Mercearia;2;3,51;7,02;2,20
+26/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+26/10/2026;2003;Água Mineral 1,5L;Bebidas;1;2,49;2,49;1,10
+26/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+26/10/2026;2004;Suco de Uva 1L;Bebidas;3;8,49;25,47;5,20
+26/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+26/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+26/10/2026;2005;Energético 250ml;Bebidas;1;7,99;7,99;4,80
+26/10/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+26/10/2026;3001;Detergente 500ml;Limpeza;3;3,49;10,47;2,10
+26/10/2026;3002;Sabão em Pó 1kg;Limpeza;2;13,90;27,80;8,40
+26/10/2026;3005;Papel Higiênico 12un;Limpeza;1;18,90;18,90;11,90
+26/10/2026;3006;Sabonete 90g;Limpeza;2;2,79;5,58;1,40
+26/10/2026;4001;Queijo Mussarela kg;Frios;0.98;42,90;42,04;28,00
+26/10/2026;4001;Queijo Mussarela kg;Frios;1.02;42,90;43,76;28,00
+26/10/2026;4002;Presunto Fatiado kg;Frios;1.59;36,90;58,67;24,00
+26/10/2026;4002;Presunto Fatiado kg;Frios;1.56;36,90;57,56;24,00
+26/10/2026;4003;Mortadela kg;Frios;1.14;25,90;29,53;16,00
+26/10/2026;4003;Mortadela kg;Frios;0.8;22,79;18,23;16,00
+26/10/2026;4004;Iogurte Natural 170g;Frios;0.74;4,29;3,17;2,40
+26/10/2026;4004;Iogurte Natural 170g;Frios;1.11;4,29;4,76;2,40
+26/10/2026;4005;Manteiga 200g;Frios;1.65;10,99;18,14;7,80
+26/10/2026;4005;Manteiga 200g;Frios;0.81;12,49;10,12;7,80
+26/10/2026;5001;Banana Prata kg;Hortifruti;0.5;5,99;3,00;3,20
+26/10/2026;5001;Banana Prata kg;Hortifruti;1.7;5,99;10,18;3,20
+26/10/2026;5002;Tomate kg;Hortifruti;0.79;7,49;5,92;4,10
+26/10/2026;5002;Tomate kg;Hortifruti;0.78;7,49;5,84;4,10
+26/10/2026;5003;Cebola kg;Hortifruti;1.77;4,99;8,83;2,80
+26/10/2026;5004;Batata kg;Hortifruti;1.48;5,49;8,13;3,40
+26/10/2026;5004;Batata kg;Hortifruti;0.32;5,49;1,76;3,40
+26/10/2026;5005;Alface Unidade;Hortifruti;1.1;3,29;3,62;1,60
+26/10/2026;5005;Alface Unidade;Hortifruti;1.23;3,29;4,05;1,60
+26/10/2026;5005;Alface Unidade;Hortifruti;1.47;3,29;4,84;1,60
+26/10/2026;5006;Laranja kg;Hortifruti;1.49;4,99;7,44;2,90
+26/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+26/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+26/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+26/10/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+26/10/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+26/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+26/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+26/10/2026;7002;Carne Moída kg;Carnes;0.86;32,90;28,29;22,00
+26/10/2026;7003;Linguiça Toscana kg;Carnes;1.03;24,90;25,65;16,50
+26/10/2026;7003;Linguiça Toscana kg;Carnes;1.26;24,90;31,37;16,50
+26/10/2026;7004;Peito de Frango kg;Carnes;1.38;19,90;27,46;12,90
+26/10/2026;7004;Peito de Frango kg;Carnes;0.57;19,90;11,34;12,90
+26/10/2026;7004;Peito de Frango kg;Carnes;1.15;17,51;20,14;12,90
+27/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+27/10/2026;1001;Arroz Branco 5kg;Mercearia;1;27,90;27,90;18,90
+27/10/2026;1002;Feijão Carioca 1kg;Mercearia;1;9,49;9,49;6,20
+27/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+27/10/2026;1003;Óleo de Soja 900ml;Mercearia;1;8,99;8,99;5,80
+27/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+27/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+27/10/2026;1005;Café Torrado 500g;Mercearia;1;21,90;21,90;14,50
+27/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+27/10/2026;1007;Farinha de Trigo 1kg;Mercearia;3;6,79;20,37;4,20
+27/10/2026;1007;Farinha de Trigo 1kg;Mercearia;3;6,79;20,37;4,20
+27/10/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+27/10/2026;1008;Sal Refinado 1kg;Mercearia;1;3,07;3,07;1,80
+27/10/2026;1010;Leite Integral 1L;Mercearia;3;5,71;17,13;4,10
+27/10/2026;1011;Achocolatado 400g;Mercearia;1;10,90;10,90;6,80
+27/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,51;7,02;2,30
+27/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+27/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+27/10/2026;3001;Detergente 500ml;Limpeza;2;3,49;6,98;2,10
+27/10/2026;3002;Sabão em Pó 1kg;Limpeza;2;13,90;27,80;8,40
+27/10/2026;3002;Sabão em Pó 1kg;Limpeza;3;13,90;41,70;8,40
+27/10/2026;3003;Água Sanitária 2L;Limpeza;1;5,49;5,49;3,20
+27/10/2026;3005;Papel Higiênico 12un;Limpeza;2;18,90;37,80;11,90
+27/10/2026;3006;Sabonete 90g;Limpeza;1;2,79;2,79;1,40
+27/10/2026;4001;Queijo Mussarela kg;Frios;0.58;42,90;24,88;28,00
+27/10/2026;4002;Presunto Fatiado kg;Frios;1.35;36,90;49,82;24,00
+27/10/2026;4003;Mortadela kg;Frios;1.26;25,90;32,63;16,00
+27/10/2026;4005;Manteiga 200g;Frios;1.47;12,49;18,36;7,80
+27/10/2026;5001;Banana Prata kg;Hortifruti;0.68;5,99;4,07;3,20
+27/10/2026;5001;Banana Prata kg;Hortifruti;1.79;5,99;10,72;3,20
+27/10/2026;5002;Tomate kg;Hortifruti;0.98;7,49;7,34;4,10
+27/10/2026;5003;Cebola kg;Hortifruti;0.77;4,99;3,84;2,80
+27/10/2026;5004;Batata kg;Hortifruti;1.16;5,49;6,37;3,40
+27/10/2026;5004;Batata kg;Hortifruti;0.65;5,49;3,57;3,40
+27/10/2026;5004;Batata kg;Hortifruti;1.07;5,49;5,87;3,40
+27/10/2026;5005;Alface Unidade;Hortifruti;0.65;3,29;2,14;1,60
+27/10/2026;5006;Laranja kg;Hortifruti;1.61;4,99;8,03;2,90
+27/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+27/10/2026;6001;Pão Francês kg;Padaria;1;12,90;12,90;7,50
+27/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+27/10/2026;6002;Pão de Forma 500g;Padaria;3;8,99;26,97;5,40
+27/10/2026;6002;Pão de Forma 500g;Padaria;3;8,99;26,97;5,40
+27/10/2026;6002;Pão de Forma 500g;Padaria;1;8,99;8,99;5,40
+27/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+27/10/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+27/10/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+27/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+27/10/2026;6004;Bolo de Cenoura;Padaria;1;14,90;14,90;8,00
+27/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+27/10/2026;7001;Frango Inteiro kg;Carnes;0.72;15,90;11,45;9,80
+27/10/2026;7001;Frango Inteiro kg;Carnes;0.58;15,90;9,22;9,80
+27/10/2026;7002;Carne Moída kg;Carnes;1.2;32,90;39,48;22,00
+27/10/2026;7003;Linguiça Toscana kg;Carnes;1.48;24,90;36,85;16,50
+27/10/2026;7003;Linguiça Toscana kg;Carnes;1.7;24,90;42,33;16,50
+27/10/2026;7004;Peito de Frango kg;Carnes;1.7;19,90;33,83;12,90
+28/10/2026;1001;Arroz Branco 5kg;Mercearia;3;27,90;83,70;18,90
+28/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+28/10/2026;1005;Café Torrado 500g;Mercearia;1;21,90;21,90;14,50
+28/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;5,29;10,58;3,10
+28/10/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+28/10/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+28/10/2026;1009;Molho de Tomate 340g;Mercearia;3;4,99;14,97;2,90
+28/10/2026;1009;Molho de Tomate 340g;Mercearia;1;4,99;4,99;2,90
+28/10/2026;1012;Biscoito Recheado;Mercearia;3;3,99;11,97;2,20
+28/10/2026;1012;Biscoito Recheado;Mercearia;1;3,99;3,99;2,20
+28/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+28/10/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+28/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+28/10/2026;2002;Cerveja Lata 350ml;Bebidas;1;3,99;3,99;2,30
+28/10/2026;2002;Cerveja Lata 350ml;Bebidas;3;3,99;11,97;2,30
+28/10/2026;2003;Água Mineral 1,5L;Bebidas;1;2,49;2,49;1,10
+28/10/2026;2003;Água Mineral 1,5L;Bebidas;1;2,49;2,49;1,10
+28/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+28/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+28/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+28/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+28/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+28/10/2026;3001;Detergente 500ml;Limpeza;3;3,49;10,47;2,10
+28/10/2026;3002;Sabão em Pó 1kg;Limpeza;2;13,90;27,80;8,40
+28/10/2026;3003;Água Sanitária 2L;Limpeza;2;5,49;10,98;3,20
+28/10/2026;3004;Desinfetante 1L;Limpeza;1;6,49;6,49;3,80
+28/10/2026;3005;Papel Higiênico 12un;Limpeza;3;18,90;56,70;11,90
+28/10/2026;4001;Queijo Mussarela kg;Frios;0.46;42,90;19,73;28,00
+28/10/2026;4001;Queijo Mussarela kg;Frios;1.05;42,90;45,05;28,00
+28/10/2026;4002;Presunto Fatiado kg;Frios;1.45;36,90;53,51;24,00
+28/10/2026;4004;Iogurte Natural 170g;Frios;1.57;4,29;6,74;2,40
+28/10/2026;5001;Banana Prata kg;Hortifruti;0.99;5,99;5,93;3,20
+28/10/2026;5001;Banana Prata kg;Hortifruti;1.58;5,99;9,46;3,20
+28/10/2026;5002;Tomate kg;Hortifruti;0.68;7,49;5,09;4,10
+28/10/2026;5002;Tomate kg;Hortifruti;1.24;7,49;9,29;4,10
+28/10/2026;5003;Cebola kg;Hortifruti;1.27;4,99;6,34;2,80
+28/10/2026;5004;Batata kg;Hortifruti;0.83;5,49;4,56;3,40
+28/10/2026;5004;Batata kg;Hortifruti;1.26;5,49;6,92;3,40
+28/10/2026;5005;Alface Unidade;Hortifruti;0.86;3,29;2,83;1,60
+28/10/2026;5005;Alface Unidade;Hortifruti;1.17;2,90;3,39;1,60
+28/10/2026;5006;Laranja kg;Hortifruti;0.41;4,99;2,05;2,90
+28/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+28/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+28/10/2026;6001;Pão Francês kg;Padaria;3;12,90;38,70;7,50
+28/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+28/10/2026;6002;Pão de Forma 500g;Padaria;3;8,99;26,97;5,40
+28/10/2026;6002;Pão de Forma 500g;Padaria;2;7,91;15,82;5,40
+28/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+28/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+28/10/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+28/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+28/10/2026;7001;Frango Inteiro kg;Carnes;1.61;15,90;25,60;9,80
+28/10/2026;7002;Carne Moída kg;Carnes;0.86;32,90;28,29;22,00
+28/10/2026;7003;Linguiça Toscana kg;Carnes;1.74;24,90;43,33;16,50
+29/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+29/10/2026;1001;Arroz Branco 5kg;Mercearia;3;27,90;83,70;18,90
+29/10/2026;1002;Feijão Carioca 1kg;Mercearia;2;9,49;18,98;6,20
+29/10/2026;1003;Óleo de Soja 900ml;Mercearia;1;8,99;8,99;5,80
+29/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+29/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+29/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;5,29;10,58;3,10
+29/10/2026;1007;Farinha de Trigo 1kg;Mercearia;1;6,79;6,79;4,20
+29/10/2026;1008;Sal Refinado 1kg;Mercearia;3;3,49;10,47;1,80
+29/10/2026;1009;Molho de Tomate 340g;Mercearia;1;4,99;4,99;2,90
+29/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+29/10/2026;1010;Leite Integral 1L;Mercearia;3;6,49;19,47;4,10
+29/10/2026;1011;Achocolatado 400g;Mercearia;2;10,90;21,80;6,80
+29/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+29/10/2026;2002;Cerveja Lata 350ml;Bebidas;3;3,99;11,97;2,30
+29/10/2026;2002;Cerveja Lata 350ml;Bebidas;3;3,99;11,97;2,30
+29/10/2026;2003;Água Mineral 1,5L;Bebidas;3;2,49;7,47;1,10
+29/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+29/10/2026;2003;Água Mineral 1,5L;Bebidas;1;2,49;2,49;1,10
+29/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+29/10/2026;2006;Cerveja Long Neck;Bebidas;1;4,83;4,83;3,10
+29/10/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+29/10/2026;3002;Sabão em Pó 1kg;Limpeza;1;13,90;13,90;8,40
+29/10/2026;3003;Água Sanitária 2L;Limpeza;2;5,49;10,98;3,20
+29/10/2026;3004;Desinfetante 1L;Limpeza;2;6,49;12,98;3,80
+29/10/2026;3004;Desinfetante 1L;Limpeza;2;6,49;12,98;3,80
+29/10/2026;4001;Queijo Mussarela kg;Frios;1.3;42,90;55,77;28,00
+29/10/2026;4002;Presunto Fatiado kg;Frios;1.19;36,90;43,91;24,00
+29/10/2026;4003;Mortadela kg;Frios;1.01;25,90;26,16;16,00
+29/10/2026;4003;Mortadela kg;Frios;0.59;25,90;15,28;16,00
+29/10/2026;4004;Iogurte Natural 170g;Frios;1.18;4,29;5,06;2,40
+29/10/2026;4005;Manteiga 200g;Frios;1.28;12,49;15,99;7,80
+29/10/2026;4005;Manteiga 200g;Frios;0.32;12,49;4,00;7,80
+29/10/2026;5001;Banana Prata kg;Hortifruti;0.97;5,99;5,81;3,20
+29/10/2026;5001;Banana Prata kg;Hortifruti;0.3;5,99;1,80;3,20
+29/10/2026;5002;Tomate kg;Hortifruti;0.44;7,49;3,30;4,10
+29/10/2026;5002;Tomate kg;Hortifruti;1.66;7,49;12,43;4,10
+29/10/2026;5003;Cebola kg;Hortifruti;0.98;4,99;4,89;2,80
+29/10/2026;5003;Cebola kg;Hortifruti;1.24;4,99;6,19;2,80
+29/10/2026;5004;Batata kg;Hortifruti;0.45;5,49;2,47;3,40
+29/10/2026;5004;Batata kg;Hortifruti;0.83;5,49;4,56;3,40
+29/10/2026;5005;Alface Unidade;Hortifruti;0.37;3,29;1,22;1,60
+29/10/2026;5005;Alface Unidade;Hortifruti;1.07;3,29;3,52;1,60
+29/10/2026;5006;Laranja kg;Hortifruti;1.5;4,99;7,49;2,90
+29/10/2026;5006;Laranja kg;Hortifruti;1.74;4,99;8,68;2,90
+29/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+29/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+29/10/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+29/10/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+29/10/2026;6004;Bolo de Cenoura;Padaria;1;13,11;13,11;8,00
+29/10/2026;7002;Carne Moída kg;Carnes;1.27;28,95;36,77;22,00
+29/10/2026;7003;Linguiça Toscana kg;Carnes;1.75;24,90;43,58;16,50
+29/10/2026;7004;Peito de Frango kg;Carnes;0.47;17,51;8,23;12,90
+29/10/2026;7004;Peito de Frango kg;Carnes;0.93;17,51;16,29;12,90
+30/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+30/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+30/10/2026;1002;Feijão Carioca 1kg;Mercearia;2;9,49;18,98;6,20
+30/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+30/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+30/10/2026;1004;Açúcar Refinado 1kg;Mercearia;3;5,49;16,47;3,40
+30/10/2026;1004;Açúcar Refinado 1kg;Mercearia;3;5,49;16,47;3,40
+30/10/2026;1005;Café Torrado 500g;Mercearia;3;21,90;65,70;14,50
+30/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;5,29;10,58;3,10
+30/10/2026;1008;Sal Refinado 1kg;Mercearia;1;3,49;3,49;1,80
+30/10/2026;1009;Molho de Tomate 340g;Mercearia;1;4,99;4,99;2,90
+30/10/2026;1009;Molho de Tomate 340g;Mercearia;3;4,99;14,97;2,90
+30/10/2026;1009;Molho de Tomate 340g;Mercearia;1;4,99;4,99;2,90
+30/10/2026;1010;Leite Integral 1L;Mercearia;3;6,49;19,47;4,10
+30/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+30/10/2026;1011;Achocolatado 400g;Mercearia;3;10,90;32,70;6,80
+30/10/2026;1011;Achocolatado 400g;Mercearia;3;10,90;32,70;6,80
+30/10/2026;1012;Biscoito Recheado;Mercearia;2;3,51;7,02;2,20
+30/10/2026;1012;Biscoito Recheado;Mercearia;2;3,51;7,02;2,20
+30/10/2026;2001;Refrigerante Cola 2L;Bebidas;3;8,79;26,37;6,40
+30/10/2026;2001;Refrigerante Cola 2L;Bebidas;1;8,79;8,79;6,40
+30/10/2026;2001;Refrigerante Cola 2L;Bebidas;1;9,99;9,99;6,40
+30/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+30/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+30/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+30/10/2026;2004;Suco de Uva 1L;Bebidas;1;8,49;8,49;5,20
+30/10/2026;2004;Suco de Uva 1L;Bebidas;1;8,49;8,49;5,20
+30/10/2026;2004;Suco de Uva 1L;Bebidas;3;8,49;25,47;5,20
+30/10/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+30/10/2026;2005;Energético 250ml;Bebidas;1;7,99;7,99;4,80
+30/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+30/10/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+30/10/2026;2006;Cerveja Long Neck;Bebidas;1;5,49;5,49;3,10
+30/10/2026;2006;Cerveja Long Neck;Bebidas;1;5,49;5,49;3,10
+30/10/2026;2006;Cerveja Long Neck;Bebidas;1;5,49;5,49;3,10
+30/10/2026;3001;Detergente 500ml;Limpeza;3;3,49;10,47;2,10
+30/10/2026;3001;Detergente 500ml;Limpeza;3;3,49;10,47;2,10
+30/10/2026;3001;Detergente 500ml;Limpeza;3;3,49;10,47;2,10
+30/10/2026;3002;Sabão em Pó 1kg;Limpeza;3;13,90;41,70;8,40
+30/10/2026;3003;Água Sanitária 2L;Limpeza;3;5,49;16,47;3,20
+30/10/2026;3005;Papel Higiênico 12un;Limpeza;2;18,90;37,80;11,90
+30/10/2026;3005;Papel Higiênico 12un;Limpeza;2;16,63;33,26;11,90
+30/10/2026;4001;Queijo Mussarela kg;Frios;0.68;42,90;29,17;28,00
+30/10/2026;4003;Mortadela kg;Frios;0.91;25,90;23,57;16,00
+30/10/2026;4004;Iogurte Natural 170g;Frios;0.47;4,29;2,02;2,40
+30/10/2026;4005;Manteiga 200g;Frios;0.99;12,49;12,37;7,80
+30/10/2026;5001;Banana Prata kg;Hortifruti;1.2;5,99;7,19;3,20
+30/10/2026;5001;Banana Prata kg;Hortifruti;1.24;5,99;7,43;3,20
+30/10/2026;5001;Banana Prata kg;Hortifruti;1.6;5,99;9,58;3,20
+30/10/2026;5001;Banana Prata kg;Hortifruti;0.6;5,99;3,59;3,20
+30/10/2026;5002;Tomate kg;Hortifruti;1.62;7,49;12,13;4,10
+30/10/2026;5002;Tomate kg;Hortifruti;1.48;7,49;11,09;4,10
+30/10/2026;5002;Tomate kg;Hortifruti;1.74;7,49;13,03;4,10
+30/10/2026;5002;Tomate kg;Hortifruti;0.66;7,49;4,94;4,10
+30/10/2026;5003;Cebola kg;Hortifruti;0.46;4,99;2,30;2,80
+30/10/2026;5004;Batata kg;Hortifruti;0.44;5,49;2,42;3,40
+30/10/2026;5005;Alface Unidade;Hortifruti;0.85;3,29;2,80;1,60
+30/10/2026;5005;Alface Unidade;Hortifruti;0.39;3,29;1,28;1,60
+30/10/2026;5005;Alface Unidade;Hortifruti;0.91;3,29;2,99;1,60
+30/10/2026;5006;Laranja kg;Hortifruti;0.36;4,99;1,80;2,90
+30/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+30/10/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+30/10/2026;6001;Pão Francês kg;Padaria;3;12,90;38,70;7,50
+30/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+30/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+30/10/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+30/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+30/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+30/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+30/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+30/10/2026;7001;Frango Inteiro kg;Carnes;0.48;15,90;7,63;9,80
+30/10/2026;7001;Frango Inteiro kg;Carnes;0.42;15,90;6,68;9,80
+30/10/2026;7002;Carne Moída kg;Carnes;0.57;28,95;16,50;22,00
+31/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+31/10/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+31/10/2026;1002;Feijão Carioca 1kg;Mercearia;3;9,49;28,47;6,20
+31/10/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+31/10/2026;1004;Açúcar Refinado 1kg;Mercearia;1;5,49;5,49;3,40
+31/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+31/10/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+31/10/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+31/10/2026;1005;Café Torrado 500g;Mercearia;3;21,90;65,70;14,50
+31/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;5,29;10,58;3,10
+31/10/2026;1006;Macarrão Espaguete 500g;Mercearia;3;4,66;13,97;3,10
+31/10/2026;1006;Macarrão Espaguete 500g;Mercearia;2;4,66;9,31;3,10
+31/10/2026;1006;Macarrão Espaguete 500g;Mercearia;3;5,29;15,87;3,10
+31/10/2026;1007;Farinha de Trigo 1kg;Mercearia;3;6,79;20,37;4,20
+31/10/2026;1007;Farinha de Trigo 1kg;Mercearia;1;6,79;6,79;4,20
+31/10/2026;1008;Sal Refinado 1kg;Mercearia;1;3,49;3,49;1,80
+31/10/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+31/10/2026;1008;Sal Refinado 1kg;Mercearia;1;3,49;3,49;1,80
+31/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+31/10/2026;1009;Molho de Tomate 340g;Mercearia;1;4,99;4,99;2,90
+31/10/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+31/10/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+31/10/2026;1010;Leite Integral 1L;Mercearia;1;6,49;6,49;4,10
+31/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+31/10/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+31/10/2026;2001;Refrigerante Cola 2L;Bebidas;3;9,99;29,97;6,40
+31/10/2026;2002;Cerveja Lata 350ml;Bebidas;1;3,99;3,99;2,30
+31/10/2026;2002;Cerveja Lata 350ml;Bebidas;3;3,99;11,97;2,30
+31/10/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+31/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+31/10/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+31/10/2026;2004;Suco de Uva 1L;Bebidas;2;7,47;14,94;5,20
+31/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+31/10/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+31/10/2026;2005;Energético 250ml;Bebidas;3;7,99;23,97;4,80
+31/10/2026;2005;Energético 250ml;Bebidas;3;7,03;21,09;4,80
+31/10/2026;2005;Energético 250ml;Bebidas;3;7,99;23,97;4,80
+31/10/2026;2005;Energético 250ml;Bebidas;1;7,03;7,03;4,80
+31/10/2026;3001;Detergente 500ml;Limpeza;1;3,49;3,49;2,10
+31/10/2026;3002;Sabão em Pó 1kg;Limpeza;2;13,90;27,80;8,40
+31/10/2026;3003;Água Sanitária 2L;Limpeza;1;5,49;5,49;3,20
+31/10/2026;3004;Desinfetante 1L;Limpeza;2;6,49;12,98;3,80
+31/10/2026;3005;Papel Higiênico 12un;Limpeza;2;18,90;37,80;11,90
+31/10/2026;3006;Sabonete 90g;Limpeza;1;2,79;2,79;1,40
+31/10/2026;4001;Queijo Mussarela kg;Frios;0.97;42,90;41,61;28,00
+31/10/2026;4001;Queijo Mussarela kg;Frios;1.15;37,75;43,41;28,00
+31/10/2026;4003;Mortadela kg;Frios;1.62;22,79;36,92;16,00
+31/10/2026;4003;Mortadela kg;Frios;1.1;25,90;28,49;16,00
+31/10/2026;4004;Iogurte Natural 170g;Frios;0.45;4,29;1,93;2,40
+31/10/2026;5001;Banana Prata kg;Hortifruti;1.06;5,99;6,35;3,20
+31/10/2026;5001;Banana Prata kg;Hortifruti;0.32;5,99;1,92;3,20
+31/10/2026;5001;Banana Prata kg;Hortifruti;1.56;5,99;9,34;3,20
+31/10/2026;5001;Banana Prata kg;Hortifruti;0.62;5,99;3,71;3,20
+31/10/2026;5002;Tomate kg;Hortifruti;1.57;7,49;11,76;4,10
+31/10/2026;5003;Cebola kg;Hortifruti;0.62;4,99;3,09;2,80
+31/10/2026;5003;Cebola kg;Hortifruti;0.95;4,99;4,74;2,80
+31/10/2026;5003;Cebola kg;Hortifruti;1.47;4,99;7,34;2,80
+31/10/2026;5004;Batata kg;Hortifruti;0.69;5,49;3,79;3,40
+31/10/2026;5004;Batata kg;Hortifruti;1.62;5,49;8,89;3,40
+31/10/2026;5004;Batata kg;Hortifruti;0.6;5,49;3,29;3,40
+31/10/2026;5005;Alface Unidade;Hortifruti;1.23;3,29;4,05;1,60
+31/10/2026;5005;Alface Unidade;Hortifruti;1.61;3,29;5,30;1,60
+31/10/2026;5005;Alface Unidade;Hortifruti;1.1;3,29;3,62;1,60
+31/10/2026;5005;Alface Unidade;Hortifruti;0.33;3,29;1,09;1,60
+31/10/2026;5006;Laranja kg;Hortifruti;1.67;4,99;8,33;2,90
+31/10/2026;5006;Laranja kg;Hortifruti;1.16;4,99;5,79;2,90
+31/10/2026;6001;Pão Francês kg;Padaria;2;11,35;22,70;7,50
+31/10/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+31/10/2026;6003;Bolacha Maria 400g;Padaria;2;5,54;11,07;3,60
+31/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+31/10/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+31/10/2026;6004;Bolo de Cenoura;Padaria;3;14,90;44,70;8,00
+31/10/2026;7001;Frango Inteiro kg;Carnes;1.29;15,90;20,51;9,80
+31/10/2026;7002;Carne Moída kg;Carnes;0.44;32,90;14,48;22,00
+31/10/2026;7002;Carne Moída kg;Carnes;1.33;32,90;43,76;22,00
+31/10/2026;7002;Carne Moída kg;Carnes;0.31;32,90;10,20;22,00
+01/11/2026;1001;Arroz Branco 5kg;Mercearia;1;27,90;27,90;18,90
+01/11/2026;1002;Feijão Carioca 1kg;Mercearia;2;9,49;18,98;6,20
+01/11/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+01/11/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+01/11/2026;1006;Macarrão Espaguete 500g;Mercearia;3;5,29;15,87;3,10
+01/11/2026;1006;Macarrão Espaguete 500g;Mercearia;1;5,29;5,29;3,10
+01/11/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+01/11/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+01/11/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+01/11/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+01/11/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+01/11/2026;3001;Detergente 500ml;Limpeza;1;3,07;3,07;2,10
+01/11/2026;3002;Sabão em Pó 1kg;Limpeza;1;13,90;13,90;8,40
+01/11/2026;4001;Queijo Mussarela kg;Frios;0.49;42,90;21,02;28,00
+01/11/2026;4004;Iogurte Natural 170g;Frios;1.73;4,29;7,42;2,40
+01/11/2026;5001;Banana Prata kg;Hortifruti;1.42;5,99;8,51;3,20
+01/11/2026;5003;Cebola kg;Hortifruti;0.8;4,39;3,51;2,80
+01/11/2026;5003;Cebola kg;Hortifruti;0.69;4,99;3,44;2,80
+01/11/2026;5006;Laranja kg;Hortifruti;1.1;4,99;5,49;2,90
+01/11/2026;6001;Pão Francês kg;Padaria;3;12,90;38,70;7,50
+01/11/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+01/11/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+01/11/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+01/11/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+02/11/2026;1001;Arroz Branco 5kg;Mercearia;2;27,90;55,80;18,90
+02/11/2026;1002;Feijão Carioca 1kg;Mercearia;3;9,49;28,47;6,20
+02/11/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+02/11/2026;1003;Óleo de Soja 900ml;Mercearia;1;8,99;8,99;5,80
+02/11/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+02/11/2026;1006;Macarrão Espaguete 500g;Mercearia;2;5,29;10,58;3,10
+02/11/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+02/11/2026;1008;Sal Refinado 1kg;Mercearia;1;3,49;3,49;1,80
+02/11/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+02/11/2026;1009;Molho de Tomate 340g;Mercearia;3;4,99;14,97;2,90
+02/11/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+02/11/2026;1010;Leite Integral 1L;Mercearia;3;6,49;19,47;4,10
+02/11/2026;1011;Achocolatado 400g;Mercearia;2;10,90;21,80;6,80
+02/11/2026;1011;Achocolatado 400g;Mercearia;2;10,90;21,80;6,80
+02/11/2026;1012;Biscoito Recheado;Mercearia;3;3,99;11,97;2,20
+02/11/2026;2001;Refrigerante Cola 2L;Bebidas;3;9,99;29,97;6,40
+02/11/2026;2001;Refrigerante Cola 2L;Bebidas;1;9,99;9,99;6,40
+02/11/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+02/11/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+02/11/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+02/11/2026;2004;Suco de Uva 1L;Bebidas;3;8,49;25,47;5,20
+02/11/2026;2004;Suco de Uva 1L;Bebidas;1;8,49;8,49;5,20
+02/11/2026;2005;Energético 250ml;Bebidas;3;7,99;23,97;4,80
+02/11/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+02/11/2026;2006;Cerveja Long Neck;Bebidas;2;5,49;10,98;3,10
+02/11/2026;3005;Papel Higiênico 12un;Limpeza;3;18,90;56,70;11,90
+02/11/2026;3006;Sabonete 90g;Limpeza;1;2,79;2,79;1,40
+02/11/2026;4003;Mortadela kg;Frios;1.05;25,90;27,20;16,00
+02/11/2026;4003;Mortadela kg;Frios;1.64;25,90;42,48;16,00
+02/11/2026;4003;Mortadela kg;Frios;0.95;25,90;24,60;16,00
+02/11/2026;4004;Iogurte Natural 170g;Frios;0.61;4,29;2,62;2,40
+02/11/2026;4004;Iogurte Natural 170g;Frios;1.65;4,29;7,08;2,40
+02/11/2026;4004;Iogurte Natural 170g;Frios;1.61;4,29;6,91;2,40
+02/11/2026;4005;Manteiga 200g;Frios;0.76;12,49;9,49;7,80
+02/11/2026;4005;Manteiga 200g;Frios;1.1;12,49;13,74;7,80
+02/11/2026;5002;Tomate kg;Hortifruti;0.52;7,49;3,89;4,10
+02/11/2026;5003;Cebola kg;Hortifruti;1.48;4,99;7,39;2,80
+02/11/2026;5004;Batata kg;Hortifruti;0.79;5,49;4,34;3,40
+02/11/2026;5004;Batata kg;Hortifruti;1.54;4,83;7,44;3,40
+02/11/2026;5006;Laranja kg;Hortifruti;1.72;4,99;8,58;2,90
+02/11/2026;5006;Laranja kg;Hortifruti;1.17;4,99;5,84;2,90
+02/11/2026;5006;Laranja kg;Hortifruti;1.06;4,99;5,29;2,90
+02/11/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+02/11/2026;6002;Pão de Forma 500g;Padaria;3;7,91;23,73;5,40
+02/11/2026;6002;Pão de Forma 500g;Padaria;3;8,99;26,97;5,40
+02/11/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+02/11/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+02/11/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+02/11/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+02/11/2026;7002;Carne Moída kg;Carnes;0.53;32,90;17,44;22,00
+02/11/2026;7002;Carne Moída kg;Carnes;1.71;32,90;56,26;22,00
+02/11/2026;7002;Carne Moída kg;Carnes;1.06;32,90;34,87;22,00
+03/11/2026;1001;Arroz Branco 5kg;Mercearia;1;27,90;27,90;18,90
+03/11/2026;1003;Óleo de Soja 900ml;Mercearia;1;8,99;8,99;5,80
+03/11/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+03/11/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+03/11/2026;1006;Macarrão Espaguete 500g;Mercearia;3;5,29;15,87;3,10
+03/11/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+03/11/2026;1007;Farinha de Trigo 1kg;Mercearia;1;5,98;5,98;4,20
+03/11/2026;1008;Sal Refinado 1kg;Mercearia;1;3,07;3,07;1,80
+03/11/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+03/11/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+03/11/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+03/11/2026;1010;Leite Integral 1L;Mercearia;1;6,49;6,49;4,10
+03/11/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+03/11/2026;1010;Leite Integral 1L;Mercearia;3;6,49;19,47;4,10
+03/11/2026;1011;Achocolatado 400g;Mercearia;2;10,90;21,80;6,80
+03/11/2026;1012;Biscoito Recheado;Mercearia;3;3,99;11,97;2,20
+03/11/2026;1012;Biscoito Recheado;Mercearia;1;3,99;3,99;2,20
+03/11/2026;2001;Refrigerante Cola 2L;Bebidas;1;9,99;9,99;6,40
+03/11/2026;2002;Cerveja Lata 350ml;Bebidas;3;3,99;11,97;2,30
+03/11/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+03/11/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+03/11/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+03/11/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+03/11/2026;2005;Energético 250ml;Bebidas;1;7,99;7,99;4,80
+03/11/2026;2005;Energético 250ml;Bebidas;3;7,03;21,09;4,80
+03/11/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+03/11/2026;3002;Sabão em Pó 1kg;Limpeza;2;13,90;27,80;8,40
+03/11/2026;3004;Desinfetante 1L;Limpeza;3;6,49;19,47;3,80
+03/11/2026;3005;Papel Higiênico 12un;Limpeza;2;18,90;37,80;11,90
+03/11/2026;4001;Queijo Mussarela kg;Frios;1.17;42,90;50,19;28,00
+03/11/2026;4002;Presunto Fatiado kg;Frios;0.74;36,90;27,31;24,00
+03/11/2026;4003;Mortadela kg;Frios;1.38;25,90;35,74;16,00
+03/11/2026;4003;Mortadela kg;Frios;0.68;25,90;17,61;16,00
+03/11/2026;4004;Iogurte Natural 170g;Frios;1.32;4,29;5,66;2,40
+03/11/2026;4005;Manteiga 200g;Frios;0.98;12,49;12,24;7,80
+03/11/2026;5001;Banana Prata kg;Hortifruti;1.03;5,99;6,17;3,20
+03/11/2026;5002;Tomate kg;Hortifruti;1.54;7,49;11,53;4,10
+03/11/2026;5002;Tomate kg;Hortifruti;1.06;7,49;7,94;4,10
+03/11/2026;5003;Cebola kg;Hortifruti;1.06;4,99;5,29;2,80
+03/11/2026;5004;Batata kg;Hortifruti;0.77;4,83;3,72;3,40
+03/11/2026;5004;Batata kg;Hortifruti;0.44;5,49;2,42;3,40
+03/11/2026;5005;Alface Unidade;Hortifruti;0.63;3,29;2,07;1,60
+03/11/2026;5005;Alface Unidade;Hortifruti;1.6;3,29;5,26;1,60
+03/11/2026;5006;Laranja kg;Hortifruti;0.56;4,99;2,79;2,90
+03/11/2026;6001;Pão Francês kg;Padaria;2;12,90;25,80;7,50
+03/11/2026;6002;Pão de Forma 500g;Padaria;3;8,99;26,97;5,40
+03/11/2026;6002;Pão de Forma 500g;Padaria;2;8,99;17,98;5,40
+03/11/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+03/11/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+03/11/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+03/11/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+03/11/2026;7001;Frango Inteiro kg;Carnes;0.97;15,90;15,42;9,80
+03/11/2026;7002;Carne Moída kg;Carnes;0.63;32,90;20,73;22,00
+04/11/2026;1001;Arroz Branco 5kg;Mercearia;3;27,90;83,70;18,90
+04/11/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+04/11/2026;1003;Óleo de Soja 900ml;Mercearia;3;7,91;23,73;5,80
+04/11/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+04/11/2026;1004;Açúcar Refinado 1kg;Mercearia;3;5,49;16,47;3,40
+04/11/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+04/11/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+04/11/2026;1006;Macarrão Espaguete 500g;Mercearia;3;5,29;15,87;3,10
+04/11/2026;1006;Macarrão Espaguete 500g;Mercearia;1;5,29;5,29;3,10
+04/11/2026;1007;Farinha de Trigo 1kg;Mercearia;3;6,79;20,37;4,20
+04/11/2026;1008;Sal Refinado 1kg;Mercearia;1;3,49;3,49;1,80
+04/11/2026;1009;Molho de Tomate 340g;Mercearia;3;4,99;14,97;2,90
+04/11/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+04/11/2026;1011;Achocolatado 400g;Mercearia;3;10,90;32,70;6,80
+04/11/2026;1011;Achocolatado 400g;Mercearia;2;10,90;21,80;6,80
+04/11/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+04/11/2026;2001;Refrigerante Cola 2L;Bebidas;1;9,99;9,99;6,40
+04/11/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+04/11/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+04/11/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+04/11/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+04/11/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+04/11/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+04/11/2026;2004;Suco de Uva 1L;Bebidas;1;7,47;7,47;5,20
+04/11/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+04/11/2026;2005;Energético 250ml;Bebidas;3;7,99;23,97;4,80
+04/11/2026;2005;Energético 250ml;Bebidas;3;7,99;23,97;4,80
+04/11/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+04/11/2026;2006;Cerveja Long Neck;Bebidas;3;5,49;16,47;3,10
+04/11/2026;3001;Detergente 500ml;Limpeza;2;3,49;6,98;2,10
+04/11/2026;3004;Desinfetante 1L;Limpeza;2;6,49;12,98;3,80
+04/11/2026;3006;Sabonete 90g;Limpeza;1;2,79;2,79;1,40
+04/11/2026;4001;Queijo Mussarela kg;Frios;1.78;42,90;76,36;28,00
+04/11/2026;4004;Iogurte Natural 170g;Frios;0.9;3,78;3,40;2,40
+04/11/2026;4005;Manteiga 200g;Frios;0.77;12,49;9,62;7,80
+04/11/2026;4005;Manteiga 200g;Frios;0.53;12,49;6,62;7,80
+04/11/2026;5001;Banana Prata kg;Hortifruti;1.8;5,99;10,78;3,20
+04/11/2026;5001;Banana Prata kg;Hortifruti;0.7;5,99;4,19;3,20
+04/11/2026;5004;Batata kg;Hortifruti;1.25;5,49;6,86;3,40
+04/11/2026;5005;Alface Unidade;Hortifruti;1.17;2,90;3,39;1,60
+04/11/2026;5005;Alface Unidade;Hortifruti;1.15;2,90;3,33;1,60
+04/11/2026;5006;Laranja kg;Hortifruti;1.04;4,99;5,19;2,90
+04/11/2026;5006;Laranja kg;Hortifruti;1.28;4,99;6,39;2,90
+04/11/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+04/11/2026;6003;Bolacha Maria 400g;Padaria;1;6,29;6,29;3,60
+04/11/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+04/11/2026;7001;Frango Inteiro kg;Carnes;0.96;15,90;15,26;9,80
+04/11/2026;7002;Carne Moída kg;Carnes;1.06;32,90;34,87;22,00
+04/11/2026;7003;Linguiça Toscana kg;Carnes;1.36;24,90;33,86;16,50
+04/11/2026;7004;Peito de Frango kg;Carnes;1.34;19,90;26,67;12,90
+05/11/2026;1001;Arroz Branco 5kg;Mercearia;3;24,55;73,66;18,90
+05/11/2026;1002;Feijão Carioca 1kg;Mercearia;2;9,49;18,98;6,20
+05/11/2026;1003;Óleo de Soja 900ml;Mercearia;3;8,99;26,97;5,80
+05/11/2026;1003;Óleo de Soja 900ml;Mercearia;2;8,99;17,98;5,80
+05/11/2026;1004;Açúcar Refinado 1kg;Mercearia;2;5,49;10,98;3,40
+05/11/2026;1005;Café Torrado 500g;Mercearia;2;21,90;43,80;14,50
+05/11/2026;1005;Café Torrado 500g;Mercearia;1;19,27;19,27;14,50
+05/11/2026;1006;Macarrão Espaguete 500g;Mercearia;3;5,29;15,87;3,10
+05/11/2026;1007;Farinha de Trigo 1kg;Mercearia;2;6,79;13,58;4,20
+05/11/2026;1008;Sal Refinado 1kg;Mercearia;3;3,49;10,47;1,80
+05/11/2026;1008;Sal Refinado 1kg;Mercearia;2;3,49;6,98;1,80
+05/11/2026;1009;Molho de Tomate 340g;Mercearia;2;4,99;9,98;2,90
+05/11/2026;1009;Molho de Tomate 340g;Mercearia;3;4,99;14,97;2,90
+05/11/2026;1010;Leite Integral 1L;Mercearia;2;6,49;12,98;4,10
+05/11/2026;1012;Biscoito Recheado;Mercearia;1;3,99;3,99;2,20
+05/11/2026;1012;Biscoito Recheado;Mercearia;2;3,99;7,98;2,20
+05/11/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+05/11/2026;2001;Refrigerante Cola 2L;Bebidas;2;9,99;19,98;6,40
+05/11/2026;2001;Refrigerante Cola 2L;Bebidas;1;9,99;9,99;6,40
+05/11/2026;2002;Cerveja Lata 350ml;Bebidas;2;3,99;7,98;2,30
+05/11/2026;2002;Cerveja Lata 350ml;Bebidas;1;3,99;3,99;2,30
+05/11/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+05/11/2026;2003;Água Mineral 1,5L;Bebidas;2;2,49;4,98;1,10
+05/11/2026;2003;Água Mineral 1,5L;Bebidas;3;2,49;7,47;1,10
+05/11/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+05/11/2026;2004;Suco de Uva 1L;Bebidas;2;8,49;16,98;5,20
+05/11/2026;2004;Suco de Uva 1L;Bebidas;2;7,47;14,94;5,20
+05/11/2026;2005;Energético 250ml;Bebidas;1;7,99;7,99;4,80
+05/11/2026;2005;Energético 250ml;Bebidas;2;7,99;15,98;4,80
+05/11/2026;3001;Detergente 500ml;Limpeza;2;3,49;6,98;2,10
+05/11/2026;3002;Sabão em Pó 1kg;Limpeza;3;13,90;41,70;8,40
+05/11/2026;3002;Sabão em Pó 1kg;Limpeza;2;13,90;27,80;8,40
+05/11/2026;3003;Água Sanitária 2L;Limpeza;1;5,49;5,49;3,20
+05/11/2026;3003;Água Sanitária 2L;Limpeza;2;5,49;10,98;3,20
+05/11/2026;3004;Desinfetante 1L;Limpeza;1;6,49;6,49;3,80
+05/11/2026;3006;Sabonete 90g;Limpeza;1;2,79;2,79;1,40
+05/11/2026;4001;Queijo Mussarela kg;Frios;1.6;42,90;68,64;28,00
+05/11/2026;4002;Presunto Fatiado kg;Frios;1.63;36,90;60,15;24,00
+05/11/2026;4002;Presunto Fatiado kg;Frios;1.41;36,90;52,03;24,00
+05/11/2026;4003;Mortadela kg;Frios;0.54;25,90;13,99;16,00
+05/11/2026;4004;Iogurte Natural 170g;Frios;1.43;4,29;6,13;2,40
+05/11/2026;4005;Manteiga 200g;Frios;1.24;10,99;13,63;7,80
+05/11/2026;5001;Banana Prata kg;Hortifruti;0.83;5,99;4,97;3,20
+05/11/2026;5001;Banana Prata kg;Hortifruti;1.52;5,27;8,01;3,20
+05/11/2026;5002;Tomate kg;Hortifruti;1.37;7,49;10,26;4,10
+05/11/2026;5003;Cebola kg;Hortifruti;1.16;4,99;5,79;2,80
+05/11/2026;5004;Batata kg;Hortifruti;1.48;5,49;8,13;3,40
+05/11/2026;5004;Batata kg;Hortifruti;1.77;5,49;9,72;3,40
+05/11/2026;5005;Alface Unidade;Hortifruti;0.6;3,29;1,97;1,60
+05/11/2026;5006;Laranja kg;Hortifruti;1.59;4,99;7,93;2,90
+05/11/2026;6001;Pão Francês kg;Padaria;1;12,90;12,90;7,50
+05/11/2026;6001;Pão Francês kg;Padaria;3;12,90;38,70;7,50
+05/11/2026;6002;Pão de Forma 500g;Padaria;2;7,91;15,82;5,40
+05/11/2026;6003;Bolacha Maria 400g;Padaria;2;5,54;11,07;3,60
+05/11/2026;6003;Bolacha Maria 400g;Padaria;2;6,29;12,58;3,60
+05/11/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+05/11/2026;6003;Bolacha Maria 400g;Padaria;3;6,29;18,87;3,60
+05/11/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+05/11/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+05/11/2026;6004;Bolo de Cenoura;Padaria;2;14,90;29,80;8,00
+05/11/2026;7001;Frango Inteiro kg;Carnes;0.72;15,90;11,45;9,80
+05/11/2026;7001;Frango Inteiro kg;Carnes;1.73;15,90;27,51;9,80
+05/11/2026;7002;Carne Moída kg;Carnes;0.95;32,90;31,25;22,00
+05/11/2026;7003;Linguiça Toscana kg;Carnes;0.64;24,90;15,94;16,50
+05/11/2026;7003;Linguiça Toscana kg;Carnes;0.31;24,90;7,72;16,50
+05/11/2026;7004;Peito de Frango kg;Carnes;1.76;17,51;30,82;12,90
+05/11/2026;7004;Peito de Frango kg;Carnes;1.52;19,90;30,25;12,90

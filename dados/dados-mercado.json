@@ -1,0 +1,1799 @@
+{
+  "meta": {
+    "mercado": "Mercado do Parceiro",
+    "geradoEm": "2026-11-06T01:07:51.064Z",
+    "hoje": "2026-11-06",
+    "periodo": {
+      "de": "2026-10-07",
+      "ate": "2026-11-05",
+      "dias": 30
+    },
+    "coberturaCusto": 1,
+    "arquivos": {
+      "vendas": "vendas.csv",
+      "estoque": "estoque.csv",
+      "contas": "contas.csv"
+    }
+  },
+  "resumo": {
+    "totalVendas": 30858.29,
+    "totalCusto": 19136.85,
+    "cmv": 0.6201526396958483,
+    "margem": 0.37984736030415167,
+    "vendaMediaDia": 1028.61,
+    "itens": 3054.94,
+    "produtos": 43,
+    "categorias": 7,
+    "ruptura": 5,
+    "aVencer7": 9,
+    "aVencer7Valor": 2422.1,
+    "vencidos": 0,
+    "contas7": 3,
+    "contas7Valor": 3526.02,
+    "contasVencidas": 3,
+    "contasVencidasValor": 2453.69,
+    "contasTotal": 15343.14
+  },
+  "porDia": [
+    {
+      "data": "2026-10-07",
+      "valor": 866.66
+    },
+    {
+      "data": "2026-10-08",
+      "valor": 1048.18
+    },
+    {
+      "data": "2026-10-09",
+      "valor": 1277.02
+    },
+    {
+      "data": "2026-10-10",
+      "valor": 1455.94
+    },
+    {
+      "data": "2026-10-11",
+      "valor": 503.8
+    },
+    {
+      "data": "2026-10-12",
+      "valor": 943.46
+    },
+    {
+      "data": "2026-10-13",
+      "valor": 866.39
+    },
+    {
+      "data": "2026-10-14",
+      "valor": 1344.75
+    },
+    {
+      "data": "2026-10-15",
+      "valor": 1140.69
+    },
+    {
+      "data": "2026-10-16",
+      "valor": 1314.04
+    },
+    {
+      "data": "2026-10-17",
+      "valor": 1277.48
+    },
+    {
+      "data": "2026-10-18",
+      "valor": 431
+    },
+    {
+      "data": "2026-10-19",
+      "valor": 906.02
+    },
+    {
+      "data": "2026-10-20",
+      "valor": 1124.79
+    },
+    {
+      "data": "2026-10-21",
+      "valor": 1045.29
+    },
+    {
+      "data": "2026-10-22",
+      "valor": 985.67
+    },
+    {
+      "data": "2026-10-23",
+      "valor": 1514.74
+    },
+    {
+      "data": "2026-10-24",
+      "valor": 1495.77
+    },
+    {
+      "data": "2026-10-25",
+      "valor": 674.42
+    },
+    {
+      "data": "2026-10-26",
+      "valor": 1020.64
+    },
+    {
+      "data": "2026-10-27",
+      "valor": 1099.44
+    },
+    {
+      "data": "2026-10-28",
+      "valor": 971.86
+    },
+    {
+      "data": "2026-10-29",
+      "valor": 841.69
+    },
+    {
+      "data": "2026-10-30",
+      "valor": 1254.19
+    },
+    {
+      "data": "2026-10-31",
+      "valor": 1230.07
+    },
+    {
+      "data": "2026-11-01",
+      "valor": 390.89
+    },
+    {
+      "data": "2026-11-02",
+      "valor": 945.19
+    },
+    {
+      "data": "2026-11-03",
+      "valor": 820.73
+    },
+    {
+      "data": "2026-11-04",
+      "valor": 860.09
+    },
+    {
+      "data": "2026-11-05",
+      "valor": 1207.39
+    }
+  ],
+  "porCategoria": [
+    {
+      "categoria": "Mercearia",
+      "venda": 9608.62,
+      "custo": 6191.6,
+      "temCusto": true,
+      "qtd": 992,
+      "margem": 3417.02,
+      "margemPct": 0.35562026596951096
+    },
+    {
+      "categoria": "Padaria",
+      "venda": 5649.25,
+      "custo": 3244.7,
+      "temCusto": true,
+      "qtd": 537,
+      "margem": 2404.55,
+      "margemPct": 0.42564057175731174
+    },
+    {
+      "categoria": "Frios",
+      "venda": 4282.73,
+      "custo": 2754.48,
+      "temCusto": true,
+      "qtd": 173.15,
+      "margem": 1528.25,
+      "margemPct": 0.35684061334709394
+    },
+    {
+      "categoria": "Bebidas",
+      "venda": 3867.81,
+      "custo": 2326.4,
+      "temCusto": true,
+      "qtd": 617,
+      "margem": 1541.41,
+      "margemPct": 0.3985226782080801
+    },
+    {
+      "categoria": "Carnes",
+      "venda": 3211.63,
+      "custo": 2121.96,
+      "temCusto": true,
+      "qtd": 135.19999999999993,
+      "margem": 1089.67,
+      "margemPct": 0.3392890837362959
+    },
+    {
+      "categoria": "Limpeza",
+      "venda": 2520.01,
+      "custo": 1533.9,
+      "temCusto": true,
+      "qtd": 282,
+      "margem": 986.11,
+      "margemPct": 0.39131193923833657
+    },
+    {
+      "categoria": "Hortifruti",
+      "venda": 1718.24,
+      "custo": 963.81,
+      "temCusto": true,
+      "qtd": 318.59000000000026,
+      "margem": 754.43,
+      "margemPct": 0.43907195735170834
+    }
+  ],
+  "produtos": [
+    {
+      "codigo": "1001",
+      "produto": "Arroz Branco 5kg",
+      "categoria": "Mercearia",
+      "qtd": 89,
+      "venda": 2463.02,
+      "custo": 1682.1,
+      "temCusto": true,
+      "participacao": 0.07981712531705418,
+      "acumulado": 0.07981712531705419,
+      "abc": "A",
+      "margem": 780.92,
+      "margemPct": 0.3170579207639402,
+      "vendaMediaDia": 2.966666666666667,
+      "estoque": 40,
+      "validade": null,
+      "coberturaDias": 13.5
+    },
+    {
+      "codigo": "6004",
+      "produto": "Bolo de Cenoura",
+      "categoria": "Padaria",
+      "qtd": 136,
+      "venda": 2013.88,
+      "custo": 1088,
+      "temCusto": true,
+      "participacao": 0.06526220344678853,
+      "acumulado": 0.1450793287638427,
+      "abc": "A",
+      "margem": 925.88,
+      "margemPct": 0.45974933958329195,
+      "vendaMediaDia": 4.533333333333333,
+      "estoque": 56,
+      "validade": "2026-11-14",
+      "coberturaDias": 12.4
+    },
+    {
+      "codigo": "1005",
+      "produto": "Café Torrado 500g",
+      "categoria": "Mercearia",
+      "qtd": 86,
+      "venda": 1878.14,
+      "custo": 1247,
+      "temCusto": true,
+      "participacao": 0.06086338549543737,
+      "acumulado": 0.20594271425928004,
+      "abc": "A",
+      "margem": 631.14,
+      "margemPct": 0.3360452362443694,
+      "vendaMediaDia": 2.8666666666666667,
+      "estoque": 0,
+      "validade": null,
+      "coberturaDias": 0
+    },
+    {
+      "codigo": "4001",
+      "produto": "Queijo Mussarela kg",
+      "categoria": "Frios",
+      "qtd": 38.55000000000001,
+      "venda": 1641.39,
+      "custo": 1079.4,
+      "temCusto": true,
+      "participacao": 0.05319121701170091,
+      "acumulado": 0.25913393127098094,
+      "abc": "A",
+      "margem": 561.99,
+      "margemPct": 0.3423866357172884,
+      "vendaMediaDia": 1.2850000000000004,
+      "estoque": 8,
+      "validade": "2026-11-20",
+      "coberturaDias": 6.2
+    },
+    {
+      "codigo": "6001",
+      "produto": "Pão Francês kg",
+      "categoria": "Padaria",
+      "qtd": 121,
+      "venda": 1539.22,
+      "custo": 907.5,
+      "temCusto": true,
+      "participacao": 0.0498802752842105,
+      "acumulado": 0.30901420655519146,
+      "abc": "A",
+      "margem": 631.72,
+      "margemPct": 0.41041566507711696,
+      "vendaMediaDia": 4.033333333333333,
+      "estoque": 6,
+      "validade": "2026-11-13",
+      "coberturaDias": 1.5
+    },
+    {
+      "codigo": "7002",
+      "produto": "Carne Moída kg",
+      "categoria": "Carnes",
+      "qtd": 39.18000000000001,
+      "venda": 1276.92,
+      "custo": 861.96,
+      "temCusto": true,
+      "participacao": 0.041380128322081364,
+      "acumulado": 0.35039433487727284,
+      "abc": "A",
+      "margem": 414.96,
+      "margemPct": 0.3249694577577295,
+      "vendaMediaDia": 1.3060000000000003,
+      "estoque": 23,
+      "validade": "2026-11-14",
+      "coberturaDias": 17.6
+    },
+    {
+      "codigo": "6002",
+      "produto": "Pão de Forma 500g",
+      "categoria": "Padaria",
+      "qtd": 134,
+      "venda": 1190.62,
+      "custo": 723.6,
+      "temCusto": true,
+      "participacao": 0.038583473031072034,
+      "acumulado": 0.3889778079083449,
+      "abc": "A",
+      "margem": 467.02,
+      "margemPct": 0.3922494162705145,
+      "vendaMediaDia": 4.466666666666667,
+      "estoque": 48,
+      "validade": "2026-11-18",
+      "coberturaDias": 10.7
+    },
+    {
+      "codigo": "4002",
+      "produto": "Presunto Fatiado kg",
+      "categoria": "Frios",
+      "qtd": 30.320000000000004,
+      "venda": 1118.84,
+      "custo": 727.68,
+      "temCusto": true,
+      "participacao": 0.0362573558029301,
+      "acumulado": 0.425235163711275,
+      "abc": "A",
+      "margem": 391.16,
+      "margemPct": 0.34961209824461054,
+      "vendaMediaDia": 1.0106666666666668,
+      "estoque": 38,
+      "validade": "2026-11-20",
+      "coberturaDias": 37.6
+    },
+    {
+      "codigo": "4003",
+      "produto": "Mortadela kg",
+      "categoria": "Frios",
+      "qtd": 37.12000000000001,
+      "venda": 947.57,
+      "custo": 593.92,
+      "temCusto": true,
+      "participacao": 0.030707145470471632,
+      "acumulado": 0.4559423091817466,
+      "abc": "A",
+      "margem": 353.65,
+      "margemPct": 0.3732178097660331,
+      "vendaMediaDia": 1.2373333333333336,
+      "estoque": 5,
+      "validade": "2026-11-23",
+      "coberturaDias": 4
+    },
+    {
+      "codigo": "2004",
+      "produto": "Suco de Uva 1L",
+      "categoria": "Bebidas",
+      "qtd": 110,
+      "venda": 921.66,
+      "custo": 572,
+      "temCusto": true,
+      "participacao": 0.029867500759115297,
+      "acumulado": 0.4858098099408619,
+      "abc": "A",
+      "margem": 349.66,
+      "margemPct": 0.3793806826812491,
+      "vendaMediaDia": 3.6666666666666665,
+      "estoque": 35,
+      "validade": null,
+      "coberturaDias": 9.5
+    },
+    {
+      "codigo": "3005",
+      "produto": "Papel Higiênico 12un",
+      "categoria": "Limpeza",
+      "qtd": 49,
+      "venda": 921.56,
+      "custo": 583.1,
+      "temCusto": true,
+      "participacao": 0.029864260138847614,
+      "acumulado": 0.5156740700797096,
+      "abc": "A",
+      "margem": 338.46,
+      "margemPct": 0.3672685446416945,
+      "vendaMediaDia": 1.6333333333333333,
+      "estoque": 0,
+      "validade": null,
+      "coberturaDias": 0
+    },
+    {
+      "codigo": "1003",
+      "produto": "Óleo de Soja 900ml",
+      "categoria": "Mercearia",
+      "qtd": 103,
+      "venda": 915.17,
+      "custo": 597.4,
+      "temCusto": true,
+      "participacao": 0.029657184503742752,
+      "acumulado": 0.5453312545834523,
+      "abc": "A",
+      "margem": 317.77,
+      "margemPct": 0.3472251057180633,
+      "vendaMediaDia": 3.433333333333333,
+      "estoque": 37,
+      "validade": null,
+      "coberturaDias": 10.8
+    },
+    {
+      "codigo": "6003",
+      "produto": "Bolacha Maria 400g",
+      "categoria": "Padaria",
+      "qtd": 146,
+      "venda": 905.53,
+      "custo": 525.6,
+      "temCusto": true,
+      "participacao": 0.029344788709938237,
+      "acumulado": 0.5746760432933905,
+      "abc": "A",
+      "margem": 379.93,
+      "margemPct": 0.419566441752344,
+      "vendaMediaDia": 4.866666666666666,
+      "estoque": 42,
+      "validade": null,
+      "coberturaDias": 8.6
+    },
+    {
+      "codigo": "2001",
+      "produto": "Refrigerante Cola 2L",
+      "categoria": "Bebidas",
+      "qtd": 92,
+      "venda": 904.68,
+      "custo": 588.8,
+      "temCusto": true,
+      "participacao": 0.02931724343766294,
+      "acumulado": 0.6039932867310535,
+      "abc": "A",
+      "margem": 315.88,
+      "margemPct": 0.34916213467745505,
+      "vendaMediaDia": 3.066666666666667,
+      "estoque": 53,
+      "validade": null,
+      "coberturaDias": 17.3
+    },
+    {
+      "codigo": "3002",
+      "produto": "Sabão em Pó 1kg",
+      "categoria": "Limpeza",
+      "qtd": 61,
+      "venda": 841.23,
+      "custo": 512.4,
+      "temCusto": true,
+      "participacao": 0.027261069877818893,
+      "acumulado": 0.6312543566088723,
+      "abc": "A",
+      "margem": 328.83,
+      "margemPct": 0.3908919082771656,
+      "vendaMediaDia": 2.033333333333333,
+      "estoque": 54,
+      "validade": null,
+      "coberturaDias": 26.6
+    },
+    {
+      "codigo": "7003",
+      "produto": "Linguiça Toscana kg",
+      "categoria": "Carnes",
+      "qtd": 32.39,
+      "venda": 805.35,
+      "custo": 534.43,
+      "temCusto": true,
+      "participacao": 0.026098335325774696,
+      "acumulado": 0.657352691934647,
+      "abc": "A",
+      "margem": 270.92,
+      "margemPct": 0.3364003228410008,
+      "vendaMediaDia": 1.0796666666666668,
+      "estoque": 58,
+      "validade": "2026-11-10",
+      "coberturaDias": 53.7
+    },
+    {
+      "codigo": "2005",
+      "produto": "Energético 250ml",
+      "categoria": "Bebidas",
+      "qtd": 99,
+      "venda": 783.33,
+      "custo": 475.2,
+      "temCusto": true,
+      "participacao": 0.025384750742831183,
+      "acumulado": 0.6827374426774783,
+      "abc": "A",
+      "margem": 308.13,
+      "margemPct": 0.39335912067710926,
+      "vendaMediaDia": 3.3,
+      "estoque": 48,
+      "validade": null,
+      "coberturaDias": 14.5
+    },
+    {
+      "codigo": "1011",
+      "produto": "Achocolatado 400g",
+      "categoria": "Mercearia",
+      "qtd": 66,
+      "venda": 716.78,
+      "custo": 448.8,
+      "temCusto": true,
+      "participacao": 0.023228117954688998,
+      "acumulado": 0.7059655606321672,
+      "abc": "A",
+      "margem": 267.98,
+      "margemPct": 0.37386645832752036,
+      "vendaMediaDia": 2.2,
+      "estoque": 59,
+      "validade": null,
+      "coberturaDias": 26.8
+    },
+    {
+      "codigo": "1007",
+      "produto": "Farinha de Trigo 1kg",
+      "categoria": "Mercearia",
+      "qtd": 98,
+      "venda": 660.54,
+      "custo": 411.6,
+      "temCusto": true,
+      "participacao": 0.0214055931161448,
+      "acumulado": 0.7273711537483121,
+      "abc": "A",
+      "margem": 248.94,
+      "margemPct": 0.3768734671632301,
+      "vendaMediaDia": 3.2666666666666666,
+      "estoque": 40,
+      "validade": null,
+      "coberturaDias": 12.2
+    },
+    {
+      "codigo": "7004",
+      "produto": "Peito de Frango kg",
+      "categoria": "Carnes",
+      "qtd": 32.9,
+      "venda": 644.41,
+      "custo": 424.41,
+      "temCusto": true,
+      "participacao": 0.02088288106696774,
+      "acumulado": 0.7482540348152797,
+      "abc": "A",
+      "margem": 220,
+      "margemPct": 0.34139755745565714,
+      "vendaMediaDia": 1.0966666666666667,
+      "estoque": 52,
+      "validade": "2026-11-06",
+      "coberturaDias": 47.4
+    },
+    {
+      "codigo": "1002",
+      "produto": "Feijão Carioca 1kg",
+      "categoria": "Mercearia",
+      "qtd": 59,
+      "venda": 558.77,
+      "custo": 365.8,
+      "temCusto": true,
+      "participacao": 0.01810761386972512,
+      "acumulado": 0.7663616486850049,
+      "abc": "A",
+      "margem": 192.97,
+      "margemPct": 0.34534781752778426,
+      "vendaMediaDia": 1.9666666666666666,
+      "estoque": 8,
+      "validade": null,
+      "coberturaDias": 4.1
+    },
+    {
+      "codigo": "2006",
+      "produto": "Cerveja Long Neck",
+      "categoria": "Bebidas",
+      "qtd": 100,
+      "venda": 545.7,
+      "custo": 310,
+      "temCusto": true,
+      "participacao": 0.01768406480073912,
+      "acumulado": 0.784045713485744,
+      "abc": "A",
+      "margem": 235.7,
+      "margemPct": 0.4319223016309327,
+      "vendaMediaDia": 3.3333333333333335,
+      "estoque": 30,
+      "validade": null,
+      "coberturaDias": 9
+    },
+    {
+      "codigo": "7001",
+      "produto": "Frango Inteiro kg",
+      "categoria": "Carnes",
+      "qtd": 30.729999999999997,
+      "venda": 484.95,
+      "custo": 301.15,
+      "temCusto": true,
+      "participacao": 0.015715387988122477,
+      "acumulado": 0.7997611014738666,
+      "abc": "A",
+      "margem": 183.8,
+      "margemPct": 0.3790081451696051,
+      "vendaMediaDia": 1.0243333333333333,
+      "estoque": 0,
+      "validade": null,
+      "coberturaDias": 0
+    },
+    {
+      "codigo": "1010",
+      "produto": "Leite Integral 1L",
+      "categoria": "Mercearia",
+      "qtd": 75,
+      "venda": 484.41,
+      "custo": 307.5,
+      "temCusto": true,
+      "participacao": 0.015697888638676997,
+      "acumulado": 0.8154589901125435,
+      "abc": "B",
+      "margem": 176.91,
+      "margemPct": 0.36520715922462377,
+      "vendaMediaDia": 2.5,
+      "estoque": 33,
+      "validade": null,
+      "coberturaDias": 13.2
+    },
+    {
+      "codigo": "2002",
+      "produto": "Cerveja Lata 350ml",
+      "categoria": "Bebidas",
+      "qtd": 119,
+      "venda": 472.41,
+      "custo": 273.7,
+      "temCusto": true,
+      "participacao": 0.015309014206555192,
+      "acumulado": 0.8307680043190987,
+      "abc": "B",
+      "margem": 198.71,
+      "margemPct": 0.42063038462352614,
+      "vendaMediaDia": 3.966666666666667,
+      "estoque": 0,
+      "validade": null,
+      "coberturaDias": 0
+    },
+    {
+      "codigo": "1009",
+      "produto": "Molho de Tomate 340g",
+      "categoria": "Mercearia",
+      "qtd": 94,
+      "venda": 466.06,
+      "custo": 272.6,
+      "temCusto": true,
+      "participacao": 0.015103234819557403,
+      "acumulado": 0.8458712391386561,
+      "abc": "B",
+      "margem": 193.46,
+      "margemPct": 0.41509676865639616,
+      "vendaMediaDia": 3.1333333333333333,
+      "estoque": 51,
+      "validade": null,
+      "coberturaDias": 16.3
+    },
+    {
+      "codigo": "1004",
+      "produto": "Açúcar Refinado 1kg",
+      "categoria": "Mercearia",
+      "qtd": 83,
+      "venda": 451.71,
+      "custo": 282.2,
+      "temCusto": true,
+      "participacao": 0.014638205811145076,
+      "acumulado": 0.8605094449498012,
+      "abc": "B",
+      "margem": 169.51,
+      "margemPct": 0.3752628899072414,
+      "vendaMediaDia": 2.7666666666666666,
+      "estoque": 38,
+      "validade": null,
+      "coberturaDias": 13.7
+    },
+    {
+      "codigo": "5002",
+      "produto": "Tomate kg",
+      "categoria": "Hortifruti",
+      "qtd": 60.13,
+      "venda": 447.11,
+      "custo": 246.53,
+      "temCusto": true,
+      "participacao": 0.014489137278831717,
+      "acumulado": 0.8749985822286329,
+      "abc": "B",
+      "margem": 200.58,
+      "margemPct": 0.44861443492652814,
+      "vendaMediaDia": 2.0043333333333333,
+      "estoque": 0,
+      "validade": null,
+      "coberturaDias": 0
+    },
+    {
+      "codigo": "4005",
+      "produto": "Manteiga 200g",
+      "categoria": "Frios",
+      "qtd": 35.61,
+      "venda": 440.48,
+      "custo": 277.76,
+      "temCusto": true,
+      "participacao": 0.01427428415508442,
+      "acumulado": 0.8892728663837174,
+      "abc": "B",
+      "margem": 162.72,
+      "margemPct": 0.36941518343625135,
+      "vendaMediaDia": 1.187,
+      "estoque": 5,
+      "validade": "2026-11-16",
+      "coberturaDias": 4.2
+    },
+    {
+      "codigo": "1006",
+      "produto": "Macarrão Espaguete 500g",
+      "categoria": "Mercearia",
+      "qtd": 84,
+      "venda": 434.85,
+      "custo": 260.4,
+      "temCusto": true,
+      "participacao": 0.01409183723401394,
+      "acumulado": 0.9033647036177312,
+      "abc": "B",
+      "margem": 174.45,
+      "margemPct": 0.4011728182131769,
+      "vendaMediaDia": 2.8,
+      "estoque": 14,
+      "validade": null,
+      "coberturaDias": 5
+    },
+    {
+      "codigo": "1012",
+      "produto": "Biscoito Recheado",
+      "categoria": "Mercearia",
+      "qtd": 93,
+      "venda": 365.31,
+      "custo": 204.6,
+      "temCusto": true,
+      "participacao": 0.011838309899868074,
+      "acumulado": 0.9152030135175994,
+      "abc": "B",
+      "margem": 160.71,
+      "margemPct": 0.4399277326106595,
+      "vendaMediaDia": 3.1,
+      "estoque": 58,
+      "validade": null,
+      "coberturaDias": 18.7
+    },
+    {
+      "codigo": "5001",
+      "produto": "Banana Prata kg",
+      "categoria": "Hortifruti",
+      "qtd": 60.110000000000014,
+      "venda": 356.95,
+      "custo": 192.35,
+      "temCusto": true,
+      "participacao": 0.011567394045489883,
+      "acumulado": 0.9267704075630893,
+      "abc": "B",
+      "margem": 164.6,
+      "margemPct": 0.4611290096652192,
+      "vendaMediaDia": 2.003666666666667,
+      "estoque": 56,
+      "validade": "2026-11-11",
+      "coberturaDias": 27.9
+    },
+    {
+      "codigo": "5006",
+      "produto": "Laranja kg",
+      "categoria": "Hortifruti",
+      "qtd": 52.56,
+      "venda": 260.79,
+      "custo": 152.42,
+      "temCusto": true,
+      "participacao": 0.008451213596087146,
+      "acumulado": 0.9352216211591764,
+      "abc": "B",
+      "margem": 108.37,
+      "margemPct": 0.41554507458108053,
+      "vendaMediaDia": 1.752,
+      "estoque": 19,
+      "validade": "2026-11-08",
+      "coberturaDias": 10.8
+    },
+    {
+      "codigo": "3004",
+      "produto": "Desinfetante 1L",
+      "categoria": "Limpeza",
+      "qtd": 39,
+      "venda": 253.11,
+      "custo": 148.2,
+      "temCusto": true,
+      "participacao": 0.00820233395952919,
+      "acumulado": 0.9434239551187057,
+      "abc": "B",
+      "margem": 104.91,
+      "margemPct": 0.41448382126348227,
+      "vendaMediaDia": 1.3,
+      "estoque": 13,
+      "validade": null,
+      "coberturaDias": 10
+    },
+    {
+      "codigo": "5004",
+      "produto": "Batata kg",
+      "categoria": "Hortifruti",
+      "qtd": 46.01999999999999,
+      "venda": 250.38,
+      "custo": 156.47,
+      "temCusto": true,
+      "participacao": 0.008113865026221478,
+      "acumulado": 0.9515378201449272,
+      "abc": "C",
+      "margem": 93.91,
+      "margemPct": 0.37506989376148253,
+      "vendaMediaDia": 1.5339999999999996,
+      "estoque": 59,
+      "validade": "2026-11-09",
+      "coberturaDias": 38.5
+    },
+    {
+      "codigo": "2003",
+      "produto": "Água Mineral 1,5L",
+      "categoria": "Bebidas",
+      "qtd": 97,
+      "venda": 240.03,
+      "custo": 106.7,
+      "temCusto": true,
+      "participacao": 0.007778460828516421,
+      "acumulado": 0.9593162809734436,
+      "abc": "C",
+      "margem": 133.33,
+      "margemPct": 0.555472232637587,
+      "vendaMediaDia": 3.2333333333333334,
+      "estoque": 47,
+      "validade": null,
+      "coberturaDias": 14.5
+    },
+    {
+      "codigo": "5003",
+      "produto": "Cebola kg",
+      "categoria": "Hortifruti",
+      "qtd": 46.99999999999999,
+      "venda": 230.98,
+      "custo": 131.6,
+      "temCusto": true,
+      "participacao": 0.007485184694291226,
+      "acumulado": 0.9668014656677347,
+      "abc": "C",
+      "margem": 99.38,
+      "margemPct": 0.4302537016191878,
+      "vendaMediaDia": 1.5666666666666664,
+      "estoque": 52,
+      "validade": "2026-11-09",
+      "coberturaDias": 33.2
+    },
+    {
+      "codigo": "1008",
+      "produto": "Sal Refinado 1kg",
+      "categoria": "Mercearia",
+      "qtd": 62,
+      "venda": 213.86,
+      "custo": 111.6,
+      "temCusto": true,
+      "participacao": 0.006930390504464117,
+      "acumulado": 0.9737318561721989,
+      "abc": "C",
+      "margem": 102.26,
+      "margemPct": 0.47816328439165806,
+      "vendaMediaDia": 2.066666666666667,
+      "estoque": 26,
+      "validade": null,
+      "coberturaDias": 12.6
+    },
+    {
+      "codigo": "3003",
+      "produto": "Água Sanitária 2L",
+      "categoria": "Limpeza",
+      "qtd": 36,
+      "venda": 197.64,
+      "custo": 115.2,
+      "temCusto": true,
+      "participacao": 0.0064047618970461415,
+      "acumulado": 0.980136618069245,
+      "abc": "C",
+      "margem": 82.44,
+      "margemPct": 0.41712204007285975,
+      "vendaMediaDia": 1.2,
+      "estoque": 46,
+      "validade": null,
+      "coberturaDias": 38.3
+    },
+    {
+      "codigo": "3001",
+      "produto": "Detergente 500ml",
+      "categoria": "Limpeza",
+      "qtd": 56,
+      "venda": 192.08,
+      "custo": 117.6,
+      "temCusto": true,
+      "participacao": 0.0062245834101630395,
+      "acumulado": 0.9863612014794081,
+      "abc": "C",
+      "margem": 74.48,
+      "margemPct": 0.3877551020408163,
+      "vendaMediaDia": 1.8666666666666667,
+      "estoque": 5,
+      "validade": null,
+      "coberturaDias": 2.7
+    },
+    {
+      "codigo": "5005",
+      "produto": "Alface Unidade",
+      "categoria": "Hortifruti",
+      "qtd": 52.769999999999996,
+      "venda": 172.03,
+      "custo": 84.43,
+      "temCusto": true,
+      "participacao": 0.0055748390464928545,
+      "acumulado": 0.9919360405259009,
+      "abc": "C",
+      "margem": 87.6,
+      "margemPct": 0.5092135092716387,
+      "vendaMediaDia": 1.759,
+      "estoque": 56,
+      "validade": "2026-11-13",
+      "coberturaDias": 31.8
+    },
+    {
+      "codigo": "4004",
+      "produto": "Iogurte Natural 170g",
+      "categoria": "Frios",
+      "qtd": 31.549999999999994,
+      "venda": 134.45,
+      "custo": 75.72,
+      "temCusto": true,
+      "participacao": 0.0043570139498980654,
+      "acumulado": 0.9962930544757991,
+      "abc": "C",
+      "margem": 58.73,
+      "margemPct": 0.4368166604685757,
+      "vendaMediaDia": 1.0516666666666665,
+      "estoque": 33,
+      "validade": "2026-11-13",
+      "coberturaDias": 31.4
+    },
+    {
+      "codigo": "3006",
+      "produto": "Sabonete 90g",
+      "categoria": "Limpeza",
+      "qtd": 41,
+      "venda": 114.39,
+      "custo": 57.4,
+      "temCusto": true,
+      "participacao": 0.003706945524201114,
+      "acumulado": 1.0000000000000002,
+      "abc": "C",
+      "margem": 56.99,
+      "margemPct": 0.49820788530465954,
+      "vendaMediaDia": 1.3666666666666667,
+      "estoque": 40,
+      "validade": null,
+      "coberturaDias": 29.3
+    }
+  ],
+  "ruptura": [
+    {
+      "codigo": "1005",
+      "produto": "Café Torrado 500g",
+      "categoria": "Mercearia",
+      "qtd": 86,
+      "venda": 1878.14,
+      "custo": 1247,
+      "temCusto": true,
+      "participacao": 0.06086338549543737,
+      "acumulado": 0.20594271425928004,
+      "abc": "A",
+      "margem": 631.14,
+      "margemPct": 0.3360452362443694,
+      "vendaMediaDia": 2.8666666666666667,
+      "estoque": 0,
+      "validade": null,
+      "coberturaDias": 0,
+      "vendaPerdidaDia": 2.87
+    },
+    {
+      "codigo": "3005",
+      "produto": "Papel Higiênico 12un",
+      "categoria": "Limpeza",
+      "qtd": 49,
+      "venda": 921.56,
+      "custo": 583.1,
+      "temCusto": true,
+      "participacao": 0.029864260138847614,
+      "acumulado": 0.5156740700797096,
+      "abc": "A",
+      "margem": 338.46,
+      "margemPct": 0.3672685446416945,
+      "vendaMediaDia": 1.6333333333333333,
+      "estoque": 0,
+      "validade": null,
+      "coberturaDias": 0,
+      "vendaPerdidaDia": 1.63
+    },
+    {
+      "codigo": "7001",
+      "produto": "Frango Inteiro kg",
+      "categoria": "Carnes",
+      "qtd": 30.729999999999997,
+      "venda": 484.95,
+      "custo": 301.15,
+      "temCusto": true,
+      "participacao": 0.015715387988122477,
+      "acumulado": 0.7997611014738666,
+      "abc": "A",
+      "margem": 183.8,
+      "margemPct": 0.3790081451696051,
+      "vendaMediaDia": 1.0243333333333333,
+      "estoque": 0,
+      "validade": null,
+      "coberturaDias": 0,
+      "vendaPerdidaDia": 1.02
+    },
+    {
+      "codigo": "2002",
+      "produto": "Cerveja Lata 350ml",
+      "categoria": "Bebidas",
+      "qtd": 119,
+      "venda": 472.41,
+      "custo": 273.7,
+      "temCusto": true,
+      "participacao": 0.015309014206555192,
+      "acumulado": 0.8307680043190987,
+      "abc": "B",
+      "margem": 198.71,
+      "margemPct": 0.42063038462352614,
+      "vendaMediaDia": 3.966666666666667,
+      "estoque": 0,
+      "validade": null,
+      "coberturaDias": 0,
+      "vendaPerdidaDia": 3.97
+    },
+    {
+      "codigo": "5002",
+      "produto": "Tomate kg",
+      "categoria": "Hortifruti",
+      "qtd": 60.13,
+      "venda": 447.11,
+      "custo": 246.53,
+      "temCusto": true,
+      "participacao": 0.014489137278831717,
+      "acumulado": 0.8749985822286329,
+      "abc": "B",
+      "margem": 200.58,
+      "margemPct": 0.44861443492652814,
+      "vendaMediaDia": 2.0043333333333333,
+      "estoque": 0,
+      "validade": null,
+      "coberturaDias": 0,
+      "vendaPerdidaDia": 2
+    }
+  ],
+  "validade": {
+    "vencidos": [],
+    "aVencer7": [
+      {
+        "codigo": "7004",
+        "produto": "Peito de Frango kg",
+        "categoria": "Carnes",
+        "quantidade": 52,
+        "validade": "2026-11-06",
+        "dias": 0,
+        "valor": 670.8
+      },
+      {
+        "codigo": "5006",
+        "produto": "Laranja kg",
+        "categoria": "Hortifruti",
+        "quantidade": 19,
+        "validade": "2026-11-08",
+        "dias": 2,
+        "valor": 55.1
+      },
+      {
+        "codigo": "5003",
+        "produto": "Cebola kg",
+        "categoria": "Hortifruti",
+        "quantidade": 52,
+        "validade": "2026-11-09",
+        "dias": 3,
+        "valor": 145.6
+      },
+      {
+        "codigo": "5004",
+        "produto": "Batata kg",
+        "categoria": "Hortifruti",
+        "quantidade": 59,
+        "validade": "2026-11-09",
+        "dias": 3,
+        "valor": 200.6
+      },
+      {
+        "codigo": "7003",
+        "produto": "Linguiça Toscana kg",
+        "categoria": "Carnes",
+        "quantidade": 58,
+        "validade": "2026-11-10",
+        "dias": 4,
+        "valor": 957
+      },
+      {
+        "codigo": "5001",
+        "produto": "Banana Prata kg",
+        "categoria": "Hortifruti",
+        "quantidade": 56,
+        "validade": "2026-11-11",
+        "dias": 5,
+        "valor": 179.2
+      },
+      {
+        "codigo": "4004",
+        "produto": "Iogurte Natural 170g",
+        "categoria": "Frios",
+        "quantidade": 33,
+        "validade": "2026-11-13",
+        "dias": 7,
+        "valor": 79.2
+      },
+      {
+        "codigo": "5005",
+        "produto": "Alface Unidade",
+        "categoria": "Hortifruti",
+        "quantidade": 56,
+        "validade": "2026-11-13",
+        "dias": 7,
+        "valor": 89.6
+      },
+      {
+        "codigo": "6001",
+        "produto": "Pão Francês kg",
+        "categoria": "Padaria",
+        "quantidade": 6,
+        "validade": "2026-11-13",
+        "dias": 7,
+        "valor": 45
+      }
+    ],
+    "aVencer30": [
+      {
+        "codigo": "7004",
+        "produto": "Peito de Frango kg",
+        "categoria": "Carnes",
+        "quantidade": 52,
+        "validade": "2026-11-06",
+        "dias": 0,
+        "valor": 670.8
+      },
+      {
+        "codigo": "5006",
+        "produto": "Laranja kg",
+        "categoria": "Hortifruti",
+        "quantidade": 19,
+        "validade": "2026-11-08",
+        "dias": 2,
+        "valor": 55.1
+      },
+      {
+        "codigo": "5003",
+        "produto": "Cebola kg",
+        "categoria": "Hortifruti",
+        "quantidade": 52,
+        "validade": "2026-11-09",
+        "dias": 3,
+        "valor": 145.6
+      },
+      {
+        "codigo": "5004",
+        "produto": "Batata kg",
+        "categoria": "Hortifruti",
+        "quantidade": 59,
+        "validade": "2026-11-09",
+        "dias": 3,
+        "valor": 200.6
+      },
+      {
+        "codigo": "7003",
+        "produto": "Linguiça Toscana kg",
+        "categoria": "Carnes",
+        "quantidade": 58,
+        "validade": "2026-11-10",
+        "dias": 4,
+        "valor": 957
+      },
+      {
+        "codigo": "5001",
+        "produto": "Banana Prata kg",
+        "categoria": "Hortifruti",
+        "quantidade": 56,
+        "validade": "2026-11-11",
+        "dias": 5,
+        "valor": 179.2
+      },
+      {
+        "codigo": "4004",
+        "produto": "Iogurte Natural 170g",
+        "categoria": "Frios",
+        "quantidade": 33,
+        "validade": "2026-11-13",
+        "dias": 7,
+        "valor": 79.2
+      },
+      {
+        "codigo": "5005",
+        "produto": "Alface Unidade",
+        "categoria": "Hortifruti",
+        "quantidade": 56,
+        "validade": "2026-11-13",
+        "dias": 7,
+        "valor": 89.6
+      },
+      {
+        "codigo": "6001",
+        "produto": "Pão Francês kg",
+        "categoria": "Padaria",
+        "quantidade": 6,
+        "validade": "2026-11-13",
+        "dias": 7,
+        "valor": 45
+      },
+      {
+        "codigo": "6004",
+        "produto": "Bolo de Cenoura",
+        "categoria": "Padaria",
+        "quantidade": 56,
+        "validade": "2026-11-14",
+        "dias": 8,
+        "valor": 448
+      },
+      {
+        "codigo": "7002",
+        "produto": "Carne Moída kg",
+        "categoria": "Carnes",
+        "quantidade": 23,
+        "validade": "2026-11-14",
+        "dias": 8,
+        "valor": 506
+      },
+      {
+        "codigo": "4005",
+        "produto": "Manteiga 200g",
+        "categoria": "Frios",
+        "quantidade": 5,
+        "validade": "2026-11-16",
+        "dias": 10,
+        "valor": 39
+      },
+      {
+        "codigo": "6002",
+        "produto": "Pão de Forma 500g",
+        "categoria": "Padaria",
+        "quantidade": 48,
+        "validade": "2026-11-18",
+        "dias": 12,
+        "valor": 259.2
+      },
+      {
+        "codigo": "4001",
+        "produto": "Queijo Mussarela kg",
+        "categoria": "Frios",
+        "quantidade": 8,
+        "validade": "2026-11-20",
+        "dias": 14,
+        "valor": 224
+      },
+      {
+        "codigo": "4002",
+        "produto": "Presunto Fatiado kg",
+        "categoria": "Frios",
+        "quantidade": 38,
+        "validade": "2026-11-20",
+        "dias": 14,
+        "valor": 912
+      },
+      {
+        "codigo": "4003",
+        "produto": "Mortadela kg",
+        "categoria": "Frios",
+        "quantidade": 5,
+        "validade": "2026-11-23",
+        "dias": 17,
+        "valor": 80
+      }
+    ],
+    "todos": [
+      {
+        "codigo": "7004",
+        "produto": "Peito de Frango kg",
+        "categoria": "Carnes",
+        "quantidade": 52,
+        "validade": "2026-11-06",
+        "dias": 0,
+        "valor": 670.8
+      },
+      {
+        "codigo": "5006",
+        "produto": "Laranja kg",
+        "categoria": "Hortifruti",
+        "quantidade": 19,
+        "validade": "2026-11-08",
+        "dias": 2,
+        "valor": 55.1
+      },
+      {
+        "codigo": "5003",
+        "produto": "Cebola kg",
+        "categoria": "Hortifruti",
+        "quantidade": 52,
+        "validade": "2026-11-09",
+        "dias": 3,
+        "valor": 145.6
+      },
+      {
+        "codigo": "5004",
+        "produto": "Batata kg",
+        "categoria": "Hortifruti",
+        "quantidade": 59,
+        "validade": "2026-11-09",
+        "dias": 3,
+        "valor": 200.6
+      },
+      {
+        "codigo": "7003",
+        "produto": "Linguiça Toscana kg",
+        "categoria": "Carnes",
+        "quantidade": 58,
+        "validade": "2026-11-10",
+        "dias": 4,
+        "valor": 957
+      },
+      {
+        "codigo": "5001",
+        "produto": "Banana Prata kg",
+        "categoria": "Hortifruti",
+        "quantidade": 56,
+        "validade": "2026-11-11",
+        "dias": 5,
+        "valor": 179.2
+      },
+      {
+        "codigo": "4004",
+        "produto": "Iogurte Natural 170g",
+        "categoria": "Frios",
+        "quantidade": 33,
+        "validade": "2026-11-13",
+        "dias": 7,
+        "valor": 79.2
+      },
+      {
+        "codigo": "5005",
+        "produto": "Alface Unidade",
+        "categoria": "Hortifruti",
+        "quantidade": 56,
+        "validade": "2026-11-13",
+        "dias": 7,
+        "valor": 89.6
+      },
+      {
+        "codigo": "6001",
+        "produto": "Pão Francês kg",
+        "categoria": "Padaria",
+        "quantidade": 6,
+        "validade": "2026-11-13",
+        "dias": 7,
+        "valor": 45
+      },
+      {
+        "codigo": "6004",
+        "produto": "Bolo de Cenoura",
+        "categoria": "Padaria",
+        "quantidade": 56,
+        "validade": "2026-11-14",
+        "dias": 8,
+        "valor": 448
+      },
+      {
+        "codigo": "7002",
+        "produto": "Carne Moída kg",
+        "categoria": "Carnes",
+        "quantidade": 23,
+        "validade": "2026-11-14",
+        "dias": 8,
+        "valor": 506
+      },
+      {
+        "codigo": "4005",
+        "produto": "Manteiga 200g",
+        "categoria": "Frios",
+        "quantidade": 5,
+        "validade": "2026-11-16",
+        "dias": 10,
+        "valor": 39
+      },
+      {
+        "codigo": "6002",
+        "produto": "Pão de Forma 500g",
+        "categoria": "Padaria",
+        "quantidade": 48,
+        "validade": "2026-11-18",
+        "dias": 12,
+        "valor": 259.2
+      },
+      {
+        "codigo": "4001",
+        "produto": "Queijo Mussarela kg",
+        "categoria": "Frios",
+        "quantidade": 8,
+        "validade": "2026-11-20",
+        "dias": 14,
+        "valor": 224
+      },
+      {
+        "codigo": "4002",
+        "produto": "Presunto Fatiado kg",
+        "categoria": "Frios",
+        "quantidade": 38,
+        "validade": "2026-11-20",
+        "dias": 14,
+        "valor": 912
+      },
+      {
+        "codigo": "4003",
+        "produto": "Mortadela kg",
+        "categoria": "Frios",
+        "quantidade": 5,
+        "validade": "2026-11-23",
+        "dias": 17,
+        "valor": 80
+      }
+    ]
+  },
+  "contas": {
+    "lista": [
+      {
+        "fornecedor": "Laticínios Vale Leite",
+        "cnpj": "78.901.234/0001-56",
+        "vencimento": "2026-11-03",
+        "valor": 926.37,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Atacarejo Atacadão",
+        "cnpj": "90.123.456/0001-78",
+        "vencimento": "2026-11-03",
+        "valor": 804.03,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Atacarejo Atacadão",
+        "cnpj": "90.123.456/0001-78",
+        "vencimento": "2026-11-05",
+        "valor": 723.29,
+        "categoria": "Frete"
+      },
+      {
+        "fornecedor": "Bebidas Sul Ltda",
+        "cnpj": "23.456.789/0001-01",
+        "vencimento": "2026-11-06",
+        "valor": 1258.53,
+        "categoria": "Frete"
+      },
+      {
+        "fornecedor": "Hortifruti Campo Verde",
+        "cnpj": "56.789.012/0001-34",
+        "vencimento": "2026-11-07",
+        "valor": 978.66,
+        "categoria": "Frete"
+      },
+      {
+        "fornecedor": "Atacarejo Atacadão",
+        "cnpj": "90.123.456/0001-78",
+        "vencimento": "2026-11-12",
+        "valor": 1288.83,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Distribuidora de Frios",
+        "cnpj": "89.012.345/0001-67",
+        "vencimento": "2026-11-15",
+        "valor": 169.57,
+        "categoria": "Despesa"
+      },
+      {
+        "fornecedor": "Atacado Limpeza Paraná",
+        "cnpj": "34.567.890/0001-12",
+        "vencimento": "2026-11-16",
+        "valor": 1291.44,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Panificadora Trigo Bom",
+        "cnpj": "67.890.123/0001-45",
+        "vencimento": "2026-11-16",
+        "valor": 155.02,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Bebidas Sul Ltda",
+        "cnpj": "23.456.789/0001-01",
+        "vencimento": "2026-11-17",
+        "valor": 225.77,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Atacado Limpeza Paraná",
+        "cnpj": "34.567.890/0001-12",
+        "vencimento": "2026-11-18",
+        "valor": 671.8,
+        "categoria": "Despesa"
+      },
+      {
+        "fornecedor": "Bebidas Sul Ltda",
+        "cnpj": "23.456.789/0001-01",
+        "vencimento": "2026-11-18",
+        "valor": 1188.68,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Laticínios Vale Leite",
+        "cnpj": "78.901.234/0001-56",
+        "vencimento": "2026-11-20",
+        "valor": 233.51,
+        "categoria": "Frete"
+      },
+      {
+        "fornecedor": "Panificadora Trigo Bom",
+        "cnpj": "67.890.123/0001-45",
+        "vencimento": "2026-11-20",
+        "valor": 675.15,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Distribuidora Central Alimentos",
+        "cnpj": "12.345.678/0001-90",
+        "vencimento": "2026-11-23",
+        "valor": 529.76,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Atacarejo Atacadão",
+        "cnpj": "90.123.456/0001-78",
+        "vencimento": "2026-11-26",
+        "valor": 382.95,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Atacado Limpeza Paraná",
+        "cnpj": "34.567.890/0001-12",
+        "vencimento": "2026-11-27",
+        "valor": 248.56,
+        "categoria": "Frete"
+      },
+      {
+        "fornecedor": "Frigorífico Boa Carne",
+        "cnpj": "45.678.901/0001-23",
+        "vencimento": "2026-12-02",
+        "valor": 1362.35,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Bebidas Sul Ltda",
+        "cnpj": "23.456.789/0001-01",
+        "vencimento": "2026-12-03",
+        "valor": 506.11,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Atacado Limpeza Paraná",
+        "cnpj": "34.567.890/0001-12",
+        "vencimento": "2026-12-07",
+        "valor": 143.3,
+        "categoria": "Despesa"
+      },
+      {
+        "fornecedor": "Atacarejo Atacadão",
+        "cnpj": "90.123.456/0001-78",
+        "vencimento": "2026-12-09",
+        "valor": 990.37,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Hortifruti Campo Verde",
+        "cnpj": "56.789.012/0001-34",
+        "vencimento": "2026-12-09",
+        "valor": 589.09,
+        "categoria": "Frete"
+      }
+    ],
+    "contas7": [
+      {
+        "fornecedor": "Bebidas Sul Ltda",
+        "cnpj": "23.456.789/0001-01",
+        "vencimento": "2026-11-06",
+        "valor": 1258.53,
+        "categoria": "Frete"
+      },
+      {
+        "fornecedor": "Hortifruti Campo Verde",
+        "cnpj": "56.789.012/0001-34",
+        "vencimento": "2026-11-07",
+        "valor": 978.66,
+        "categoria": "Frete"
+      },
+      {
+        "fornecedor": "Atacarejo Atacadão",
+        "cnpj": "90.123.456/0001-78",
+        "vencimento": "2026-11-12",
+        "valor": 1288.83,
+        "categoria": "Mercadoria"
+      }
+    ],
+    "contas30": [
+      {
+        "fornecedor": "Bebidas Sul Ltda",
+        "cnpj": "23.456.789/0001-01",
+        "vencimento": "2026-11-06",
+        "valor": 1258.53,
+        "categoria": "Frete"
+      },
+      {
+        "fornecedor": "Hortifruti Campo Verde",
+        "cnpj": "56.789.012/0001-34",
+        "vencimento": "2026-11-07",
+        "valor": 978.66,
+        "categoria": "Frete"
+      },
+      {
+        "fornecedor": "Atacarejo Atacadão",
+        "cnpj": "90.123.456/0001-78",
+        "vencimento": "2026-11-12",
+        "valor": 1288.83,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Distribuidora de Frios",
+        "cnpj": "89.012.345/0001-67",
+        "vencimento": "2026-11-15",
+        "valor": 169.57,
+        "categoria": "Despesa"
+      },
+      {
+        "fornecedor": "Atacado Limpeza Paraná",
+        "cnpj": "34.567.890/0001-12",
+        "vencimento": "2026-11-16",
+        "valor": 1291.44,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Panificadora Trigo Bom",
+        "cnpj": "67.890.123/0001-45",
+        "vencimento": "2026-11-16",
+        "valor": 155.02,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Bebidas Sul Ltda",
+        "cnpj": "23.456.789/0001-01",
+        "vencimento": "2026-11-17",
+        "valor": 225.77,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Atacado Limpeza Paraná",
+        "cnpj": "34.567.890/0001-12",
+        "vencimento": "2026-11-18",
+        "valor": 671.8,
+        "categoria": "Despesa"
+      },
+      {
+        "fornecedor": "Bebidas Sul Ltda",
+        "cnpj": "23.456.789/0001-01",
+        "vencimento": "2026-11-18",
+        "valor": 1188.68,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Laticínios Vale Leite",
+        "cnpj": "78.901.234/0001-56",
+        "vencimento": "2026-11-20",
+        "valor": 233.51,
+        "categoria": "Frete"
+      },
+      {
+        "fornecedor": "Panificadora Trigo Bom",
+        "cnpj": "67.890.123/0001-45",
+        "vencimento": "2026-11-20",
+        "valor": 675.15,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Distribuidora Central Alimentos",
+        "cnpj": "12.345.678/0001-90",
+        "vencimento": "2026-11-23",
+        "valor": 529.76,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Atacarejo Atacadão",
+        "cnpj": "90.123.456/0001-78",
+        "vencimento": "2026-11-26",
+        "valor": 382.95,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Atacado Limpeza Paraná",
+        "cnpj": "34.567.890/0001-12",
+        "vencimento": "2026-11-27",
+        "valor": 248.56,
+        "categoria": "Frete"
+      },
+      {
+        "fornecedor": "Frigorífico Boa Carne",
+        "cnpj": "45.678.901/0001-23",
+        "vencimento": "2026-12-02",
+        "valor": 1362.35,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Bebidas Sul Ltda",
+        "cnpj": "23.456.789/0001-01",
+        "vencimento": "2026-12-03",
+        "valor": 506.11,
+        "categoria": "Mercadoria"
+      }
+    ],
+    "vencidas": [
+      {
+        "fornecedor": "Laticínios Vale Leite",
+        "cnpj": "78.901.234/0001-56",
+        "vencimento": "2026-11-03",
+        "valor": 926.37,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Atacarejo Atacadão",
+        "cnpj": "90.123.456/0001-78",
+        "vencimento": "2026-11-03",
+        "valor": 804.03,
+        "categoria": "Mercadoria"
+      },
+      {
+        "fornecedor": "Atacarejo Atacadão",
+        "cnpj": "90.123.456/0001-78",
+        "vencimento": "2026-11-05",
+        "valor": 723.29,
+        "categoria": "Frete"
+      }
+    ]
+  },
+  "acoes": [
+    "Repor 5 produto(s) que venderam e estão zerados: Café Torrado 500g, Papel Higiênico 12un, Frango Inteiro kg….",
+    "Promover 9 produto(s) que vencem em 7 dias (R$ 2.422,10 a custo).",
+    "Regularizar 3 conta(s) vencida(s) (R$ 2.453,69).",
+    "Conferir 3 conta(s) a pagar nos próximos 7 dias (R$ 3.526,02)."
+  ]
+}

@@ -1,0 +1,17 @@
+﻿node_modules/
+dist/
+dist-ssr/
+.output/
+.vinxi/
+.nitro/
+.tanstack/
+.wrangler/
+.cache/
+.taste-skill/
+.impeccable/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db

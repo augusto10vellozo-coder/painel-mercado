@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Painel do Mercado</title>
+<style>
+  :root{
+    --bg:#f7f6f3; --card:#fff; --ink:#171a16; --muted:#6b7280; --line:#e6e4df;
+    --brand:#166534; --brand2:#15803d; --brand-soft:#dcfce7;
+    --amber:#b45309; --amber-bg:#fffbeb; --red:#b91c1c; --red-bg:#fef2f2;
+    --blue:#1d4ed8; --blue-bg:#eff6ff;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+  .wrap{max-width:1180px;margin:0 auto;padding:28px 20px 64px}
+  header.top{background:linear-gradient(135deg,#166534,#14532d);color:#fff;border-radius:16px;padding:26px 30px;margin-bottom:22px}
+  header.top .row{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap}
+  header.top h1{margin:0 0 4px;font-size:23px;letter-spacing:-.02em}
+  header.top p{margin:0;opacity:.88;font-size:14px}
+  header.top button{background:rgba(255,255,255,.14);color:#fff;border:1px solid rgba(255,255,255,.3);border-radius:9px;padding:8px 14px;font:inherit;font-size:13px;cursor:pointer}
+  header.top button:hover{background:rgba(255,255,255,.22)}
+  .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;margin-bottom:22px}
+  .kpi{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+  .kpi span{display:block;color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.06em}
+  .kpi strong{display:block;font-size:21px;margin-top:5px;letter-spacing:-.02em}
+  .kpi small{display:block;color:var(--muted);font-size:12px;margin-top:3px}
+  .kpi.warn strong{color:var(--amber)}
+  .kpi.bad strong{color:var(--red)}
+  .grid{display:grid;grid-template-columns:1.35fr .65fr;gap:16px;margin-bottom:16px}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px}
+  @media(max-width:860px){.grid,.grid2{grid-template-columns:1fr}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 20px}
+  .card h2{font-size:14px;margin:0 0 14px;letter-spacing:.02em;text-transform:uppercase;color:#374151}
+  .card h2 span{float:right;font-size:11px;text-transform:none;letter-spacing:0;color:var(--muted);font-weight:400}
+  svg{width:100%;height:auto;display:block}
+  .bar-row{display:grid;grid-template-columns:110px 1fr 90px 52px;gap:10px;align-items:center;margin-bottom:9px;font-size:13px}
+  .bar-label{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#374151}
+  .bar-track{background:#f1f0ec;border-radius:999px;height:9px;overflow:hidden}
+  .bar-fill{height:100%;background:linear-gradient(90deg,var(--brand2),#4ade80);border-radius:999px}
+  .bar-value{text-align:right;font-variant-numeric:tabular-nums}
+  .bar-pct{text-align:right;color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th,td{padding:8px 6px;text-align:left;border-bottom:1px solid var(--line)}
+  th{font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:600}
+  td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+  tr:last-child td{border-bottom:none}
+  .tag{display:inline-block;border-radius:999px;padding:2px 8px;font-size:10.5px;font-weight:700}
+  .tag.A{background:var(--brand-soft);color:var(--brand)}
+  .tag.B{background:var(--blue-bg);color:var(--blue)}
+  .tag.C{background:#f3f4f6;color:var(--muted)}
+  .tag.vencida{background:var(--red-bg);color:var(--red)}
+  .tag.semana{background:var(--amber-bg);color:var(--amber)}
+  .tag.ok{background:var(--brand-soft);color:var(--brand)}
+  .vazio{color:var(--muted);font-size:13px;padding:8px 0}
+  ul.acoes{margin:0;padding-left:0;list-style:none}
+  ul.acoes li{padding:9px 0 9px 26px;border-bottom:1px solid var(--line);position:relative;font-size:13.5px}
+  ul.acoes li:last-child{border-bottom:none}
+  ul.acoes li::before{content:"→";position:absolute;left:2px;color:var(--brand2);font-weight:700}
+  footer{margin-top:26px;color:var(--muted);font-size:11.5px;border-top:1px solid var(--line);padding-top:14px}
+  .toast{position:fixed;right:18px;bottom:18px;background:#171a16;color:#fff;padding:10px 16px;border-radius:9px;font-size:13px;opacity:0;transform:translateY(8px);transition:.2s;pointer-events:none}
+  .toast.on{opacity:1;transform:translateY(0)}
+  @media print{body{background:#fff}.wrap{max-width:none;padding:0}header.top{background:#166534 !important;-webkit-print-color-adjust:exact;print-color-adjust:exact}.card{break-inside:avoid}header.top button{display:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="row">
+      <div>
+        <h1 id="titulo">Painel do Mercado</h1>
+        <p id="subtitulo">—</p>
+      </div>
+      <button id="copiar">Copiar resumo</button>
+    </div>
+  </header>
+
+  <section class="kpis" id="kpis"></section>
+
+  <section class="grid">
+    <div class="card">
+      <h2>Vendas por dia <span id="periodo-chart"></span></h2>
+      <div id="chart-vendas"></div>
+    </div>
+    <div class="card">
+      <h2>Margem por categoria</h2>
+      <div id="chart-categorias"></div>
+    </div>
+  </section>
+
+  <section class="grid2">
+    <div class="card">
+      <h2>Top produtos <span>curva ABC por venda</span></h2>
+      <div id="tabela-produtos"></div>
+    </div>
+    <div class="card">
+      <h2>Ruptura <span>vendeu e zerou</span></h2>
+      <div id="tabela-ruptura"></div>
+    </div>
+  </section>
+
+  <section class="grid2">
+    <div class="card">
+      <h2>Validade <span>próximos 30 dias</span></h2>
+      <div id="tabela-validade"></div>
+    </div>
+    <div class="card">
+      <h2>Contas a pagar <span>próximos 30 dias</span></h2>
+      <div id="tabela-contas"></div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Ações da semana</h2>
+    <ul class="acoes" id="acoes"></ul>
+  </section>
+
+  <footer>
+    <p>Gerado em <span id="gerado"></span>. Dados de produto, estoque e fornecedor. Nenhum dado pessoal de cliente é lido ou armazenado.</p>
+    <p>Indicadores calculados sobre o período importado. Confira o mapeamento de colunas antes de usar com um PDV novo.</p>
+  </footer>
+</div>
+<div class="toast" id="toast">Resumo copiado</div>
+
+<script>
+const DADOS = /*__DADOS__*/;
+
+const brl = n => Number.isFinite(n) ? n.toLocaleString('pt-BR',{style:'currency',currency:'BRL'}) : '—';
+const pct = (n,c=1) => Number.isFinite(n) ? (n*100).toLocaleString('pt-BR',{maximumFractionDigits:c})+'%' : '—';
+const num = n => Number.isFinite(n) ? n.toLocaleString('pt-BR',{maximumFractionDigits:1}) : '—';
+const esc = s => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+const dataBR = iso => { const [y,m,d]=String(iso).split('-'); return `${d}/${m}/${y}`; };
+
+const M = DADOS.meta, R = DADOS.resumo;
+document.getElementById('titulo').textContent = M.mercado;
+document.getElementById('subtitulo').textContent = `${dataBR(M.periodo.de)} a ${dataBR(M.periodo.ate)} · ${M.periodo.dias} dias · ${R.produtos} produtos`;
+document.getElementById('gerado').textContent = new Date(M.geradoEm).toLocaleString('pt-BR');
+document.getElementById('periodo-chart').textContent = `${M.periodo.dias} dias`;
+
+// KPIs
+const kpis = [
+  { label:'Vendas', value: brl(R.totalVendas), small:`${brl(R.vendaMediaDia)}/dia` },
+  { label:'Margem bruta', value: pct(R.margem), small: brl(R.totalVendas - R.totalCusto) },
+  { label:'CMV', value: pct(R.cmv), small: brl(R.totalCusto) },
+  { label:'Ruptura', value: R.ruptura, small:'produtos zerados', cls: R.ruptura ? 'warn' : '' },
+  { label:'A vencer 7 dias', value: R.aVencer7, small: brl(R.aVencer7Valor), cls: R.aVencer7 ? 'warn' : '' },
+  { label:'Contas 7 dias', value: brl(R.contas7Valor), small:`${R.contas7} conta(s)`, cls: R.contasVencidas ? 'bad' : '' },
+];
+document.getElementById('kpis').innerHTML = kpis.map(k => `
+  <div class="kpi ${k.cls||''}"><span>${esc(k.label)}</span><strong>${esc(k.value)}</strong><small>${esc(k.small||'')}</small></div>
+`).join('');
+
+// Gráfico de vendas (SVG)
+(function(){
+  const dias = DADOS.porDia;
+  if (!dias.length) { document.getElementById('chart-vendas').innerHTML = '<p class="vazio">Sem dados.</p>'; return; }
+  const w = 660, h = 230, padX = 34, padY = 22;
+  const max = Math.max(...dias.map(d=>d.valor), 1);
+  const passo = dias.length > 1 ? (w - padX*2) / (dias.length - 1) : 0;
+  const pts = dias.map((d,i) => [padX + i*passo, h - padY - (d.valor/max)*(h - padY*2)]);
+  const linha = pts.map((p,i)=>`${i?'L':'M'}${p[0].toFixed(1)},${p[1].toFixed(1)}`).join(' ');
+  const area = `${linha} L${pts[pts.length-1][0].toFixed(1)},${h-padY} L${pts[0][0].toFixed(1)},${h-padY} Z`;
+  const grid = [0, .5, 1].map(f => {
+    const y = h - padY - f*(h - padY*2);
+    return `<line x1="${padX}" y1="${y}" x2="${w-padX}" y2="${y}" stroke="#ece9e3" stroke-width="1"/>
+            <text x="${padX-6}" y="${y+4}" text-anchor="end" font-size="10" fill="#9ca3af">${Math.round(max*f/1000)}k</text>`;
+  }).join('');
+  const labels = [0, Math.floor((dias.length-1)/2), dias.length-1].map(i =>
+    `<text x="${pts[i][0]}" y="${h-6}" text-anchor="${i===0?'start':i===dias.length-1?'end':'middle'}" font-size="10" fill="#9ca3af">${dataBR(dias[i].data).slice(0,5)}</text>`
+  ).join('');
+  document.getElementById('chart-vendas').innerHTML = `
+    <svg viewBox="0 0 ${w} ${h}" role="img" aria-label="Vendas por dia">
+      ${grid}
+      <path d="${area}" fill="url(#grad)" opacity=".55"/>
+      <path d="${linha}" fill="none" stroke="#15803d" stroke-width="2.4" stroke-linejoin="round"/>
+      <defs><linearGradient id="grad" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#4ade80"/><stop offset="1" stop-color="#dcfce7"/>
+      </linearGradient></defs>
+      ${pts.map((p,i)=> i===pts.length-1 ? `<circle cx="${p[0]}" cy="${p[1]}" r="3.5" fill="#166534"/>` : '').join('')}
+      ${labels}
+    </svg>`;
+})();
+
+// Categorias
+(function(){
+  const cats = DADOS.porCategoria.slice(0, 6);
+  if (!cats.length) { document.getElementById('chart-categorias').innerHTML = '<p class="vazio">Sem dados.</p>'; return; }
+  const max = Math.max(...cats.map(c=>c.venda), 1);
+  document.getElementById('chart-categorias').innerHTML = cats.map(c => `
+    <div class="bar-row">
+      <span class="bar-label" title="${esc(c.categoria)}">${esc(c.categoria)}</span>
+      <div class="bar-track"><div class="bar-fill" style="width:${Math.max(2, c.venda/max*100)}%"></div></div>
+      <span class="bar-value">${brl(c.venda)}</span>
+      <span class="bar-pct">${c.margemPct!=null?pct(c.margemPct,0):'—'}</span>
+    </div>`).join('') + '<p class="vazio" style="margin-top:10px">Margem ao lado direito. Sem custo = —.</p>';
+})();
+
+// Top produtos
+(function(){
+  const top = DADOS.produtos.slice(0, 12);
+  document.getElementById('tabela-produtos').innerHTML = `
+    <table><thead><tr><th>Produto</th><th class="num">Venda</th><th class="num">Margem</th><th>ABC</th><th class="num">Estoque</th></tr></thead>
+    <tbody>${top.map(p => `<tr>
+      <td>${esc(p.produto)}</td>
+      <td class="num">${brl(p.venda)}</td>
+      <td class="num">${p.margemPct!=null?pct(p.margemPct,0):'—'}</td>
+      <td><span class="tag ${esc(p.abc)}">${esc(p.abc)}</span></td>
+      <td class="num">${p.estoque==null?'—':num(p.estoque)}</td>
+    </tr>`).join('')}</tbody></table>`;
+})();
+
+// Ruptura
+(function(){
+  const lista = DADOS.ruptura;
+  const el = document.getElementById('tabela-ruptura');
+  if (!lista.length) { el.innerHTML = '<p class="vazio">Nenhum produto zerado no período.</p>'; return; }
+  el.innerHTML = `<table><thead><tr><th>Produto</th><th>Categoria</th><th class="num">Venda/dia</th></tr></thead>
+    <tbody>${lista.map(p => `<tr>
+      <td>${esc(p.produto)}</td><td>${esc(p.categoria)}</td>
+      <td class="num">${num(p.vendaMediaDia)}</td>
+    </tr>`).join('')}</tbody></table>`;
+})();
+
+// Validade
+(function(){
+  const lista = DADOS.validade.aVencer30.slice(0, 12);
+  const el = document.getElementById('tabela-validade');
+  if (!lista.length) { el.innerHTML = '<p class="vazio">Nenhum produto vencendo em 30 dias.</p>'; return; }
+  el.innerHTML = `<table><thead><tr><th>Produto</th><th class="num">Qtd</th><th>Validade</th><th class="num">Dias</th><th class="num">Valor</th></tr></thead>
+    <tbody>${lista.map(e => `<tr>
+      <td>${esc(e.produto)}</td><td class="num">${num(e.quantidade)}</td>
+      <td>${dataBR(e.validade)}</td>
+      <td class="num"><span class="tag ${e.dias<=7?'vencida':'semana'}">${e.dias}</span></td>
+      <td class="num">${brl(e.valor)}</td>
+    </tr>`).join('')}</tbody></table>`;
+})();
+
+// Contas
+(function(){
+  const lista = DADOS.contas.contas30.slice(0, 12);
+  const el = document.getElementById('tabela-contas');
+  if (!lista.length) { el.innerHTML = '<p class="vazio">Nenhuma conta nos próximos 30 dias.</p>'; return; }
+  const hoje = M.hoje;
+  const dias = v => Math.round((new Date(v+'T00:00:00Z') - new Date(hoje+'T00:00:00Z'))/86400000);
+  el.innerHTML = `<table><thead><tr><th>Fornecedor</th><th>Vencimento</th><th class="num">Dias</th><th class="num">Valor</th></tr></thead>
+    <tbody>${lista.map(c => { const d=dias(c.vencimento); return `<tr>
+      <td>${esc(c.fornecedor)}</td><td>${dataBR(c.vencimento)}</td>
+      <td class="num"><span class="tag ${d<=7?'semana':'ok'}">${d}</span></td>
+      <td class="num">${brl(c.valor)}</td>
+    </tr>`; }).join('')}</tbody></table>`;
+})();
+
+// Ações
+document.getElementById('acoes').innerHTML = DADOS.acoes.map(a => `<li>${esc(a)}</li>`).join('');
+
+// Copiar resumo
+function textoResumo() {
+  const linhas = [
+    `${M.mercado} — ${dataBR(M.periodo.de)} a ${dataBR(M.periodo.ate)}`,
+    `Vendas: ${brl(R.totalVendas)} | Margem: ${pct(R.margem)} | CMV: ${pct(R.cmv)}`,
+    `Ruptura: ${R.ruptura} | A vencer 7d: ${R.aVencer7} (${brl(R.aVencer7Valor)})`,
+    `Contas 7d: ${brl(R.contas7Valor)} | Vencidas: ${brl(R.contasVencidasValor)}`,
+    '',
+    'Ações:',
+    ...DADOS.acoes.map(a => `- ${a}`),
+  ];
+  return linhas.join('\n');
+}
+document.getElementById('copiar').addEventListener('click', async () => {
+  try {
+    await navigator.clipboard.writeText(textoResumo());
+  } catch {
+    const ta = document.createElement('textarea');
+    ta.value = textoResumo(); document.body.appendChild(ta); ta.select();
+    document.execCommand('copy'); ta.remove();
+  }
+  const t = document.getElementById('toast');
+  t.classList.add('on'); setTimeout(() => t.classList.remove('on'), 1800);
+});
+</script>
+</body>
+</html>

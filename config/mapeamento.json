@@ -1,0 +1,31 @@
+{
+  "vendas": {
+    "data": ["data", "data_venda", "dt_movimento", "data_movimento", "dt_venda"],
+    "codigo": ["codigo", "cod_produto", "codigo_produto", "id_produto", "ean", "codigo_barras"],
+    "produto": ["produto", "descricao", "descricao_produto", "nome_produto", "descricao_item"],
+    "categoria": ["categoria", "grupo", "secao", "departamento", "familia"],
+    "quantidade": ["quantidade", "qtde", "qtd", "quant", "qt"],
+    "valor_unitario": ["valor_unitario", "unitario", "preco_unitario", "vl_unitario", "preco_venda"],
+    "valor_total": ["valor_total", "total", "vl_total", "subtotal", "valor_liquido"],
+    "custo_unitario": ["custo_unitario", "custo", "preco_custo", "vl_custo", "cmv_unitario", "custo_medio"]
+  },
+  "estoque": {
+    "codigo": ["codigo", "cod_produto", "codigo_produto", "id_produto", "ean", "codigo_barras"],
+    "produto": ["produto", "descricao", "descricao_produto", "nome_produto"],
+    "categoria": ["categoria", "grupo", "secao", "departamento", "familia"],
+    "quantidade": ["quantidade", "qtde", "qtd", "estoque", "saldo", "estoque_atual"],
+    "custo_unitario": ["custo_unitario", "custo", "preco_custo", "vl_custo", "custo_medio"],
+    "validade": ["validade", "data_validade", "vencimento", "dt_validade", "dt_vencimento"]
+  },
+  "contas": {
+    "fornecedor": ["fornecedor", "nome_fornecedor", "razao_social", "descricao"],
+    "cnpj": ["cnpj", "cnpj_fornecedor"],
+    "vencimento": ["vencimento", "data_vencimento", "dt_vencimento", "data_pagamento"],
+    "valor": ["valor", "valor_total", "vl_total", "total", "valor_documento"],
+    "categoria": ["categoria", "tipo", "grupo", "historico"]
+  },
+  "camposProibidos": [
+    "cliente", "nome_cliente", "cpf", "cpf_cliente", "cnpj_cliente",
+    "telefone", "celular", "endereco", "email", "data_nascimento"
+  ]
+}

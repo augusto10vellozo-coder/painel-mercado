@@ -1,0 +1,44 @@
+Codigo;Produto;Categoria;Quantidade;CustoUnitario;Validade
+1001;Arroz Branco 5kg;Mercearia;40;18,90;
+1002;Feijão Carioca 1kg;Mercearia;8;6,20;
+1003;Óleo de Soja 900ml;Mercearia;37;5,80;
+1004;Açúcar Refinado 1kg;Mercearia;38;3,40;
+1005;Café Torrado 500g;Mercearia;0;14,50;
+1006;Macarrão Espaguete 500g;Mercearia;14;3,10;
+1007;Farinha de Trigo 1kg;Mercearia;40;4,20;
+1008;Sal Refinado 1kg;Mercearia;26;1,80;
+1009;Molho de Tomate 340g;Mercearia;51;2,90;
+1010;Leite Integral 1L;Mercearia;33;4,10;
+1011;Achocolatado 400g;Mercearia;59;6,80;
+1012;Biscoito Recheado;Mercearia;58;2,20;
+2001;Refrigerante Cola 2L;Bebidas;53;6,40;
+2002;Cerveja Lata 350ml;Bebidas;0;2,30;
+2003;Água Mineral 1,5L;Bebidas;47;1,10;
+2004;Suco de Uva 1L;Bebidas;35;5,20;
+2005;Energético 250ml;Bebidas;48;4,80;
+2006;Cerveja Long Neck;Bebidas;30;3,10;
+3001;Detergente 500ml;Limpeza;5;2,10;
+3002;Sabão em Pó 1kg;Limpeza;54;8,40;
+3003;Água Sanitária 2L;Limpeza;46;3,20;
+3004;Desinfetante 1L;Limpeza;13;3,80;
+3005;Papel Higiênico 12un;Limpeza;0;11,90;
+3006;Sabonete 90g;Limpeza;40;1,40;
+4001;Queijo Mussarela kg;Frios;8;28,00;20/11/2026
+4002;Presunto Fatiado kg;Frios;38;24,00;20/11/2026
+4003;Mortadela kg;Frios;5;16,00;23/11/2026
+4004;Iogurte Natural 170g;Frios;33;2,40;13/11/2026
+4005;Manteiga 200g;Frios;5;7,80;16/11/2026
+5001;Banana Prata kg;Hortifruti;56;3,20;11/11/2026
+5002;Tomate kg;Hortifruti;0;4,10;
+5003;Cebola kg;Hortifruti;52;2,80;09/11/2026
+5004;Batata kg;Hortifruti;59;3,40;09/11/2026
+5005;Alface Unidade;Hortifruti;56;1,60;13/11/2026
+5006;Laranja kg;Hortifruti;19;2,90;08/11/2026
+6001;Pão Francês kg;Padaria;6;7,50;13/11/2026
+6002;Pão de Forma 500g;Padaria;48;5,40;18/11/2026
+6003;Bolacha Maria 400g;Padaria;42;3,60;
+6004;Bolo de Cenoura;Padaria;56;8,00;14/11/2026
+7001;Frango Inteiro kg;Carnes;0;9,80;
+7002;Carne Moída kg;Carnes;23;22,00;14/11/2026
+7003;Linguiça Toscana kg;Carnes;58;16,50;10/11/2026
+7004;Peito de Frango kg;Carnes;52;12,90;06/11/2026
