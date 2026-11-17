@@ -1,6 +1,7 @@
 # Painel do Mercado
 
 [![CI](https://github.com/augusto10vellozo-coder/painel-mercado/actions/workflows/ci.yml/badge.svg)](https://github.com/augusto10vellozo-coder/painel-mercado/actions/workflows/ci.yml)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-100%2F100%2F100-2ea44f?style=flat-square)
 
 Painel de gestão para mercado pequeno. Lê a exportação do PDV e a planilha de estoque, calcula os indicadores e gera **um HTML único, offline**, que o dono abre com duplo clique.
 
